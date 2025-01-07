@@ -29,24 +29,6 @@
         </eAnnotations>
         <ownedEnd xmi:type="uml:Property" xmi:id="_qU2-gFRnEem5ec_9KiA7Yg" name="wredprofile_pac" type="_F9F7QFRnEem5ec_9KiA7Yg" association="_qU1JUFRnEem5ec_9KiA7Yg"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_lawrwD62Eeq9Udjnf0qcrQ" memberEnd="_la85AD62Eeq9Udjnf0qcrQ _lbC_oD62Eeq9Udjnf0qcrQ">
-        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_la5OoD62Eeq9Udjnf0qcrQ" source="org.eclipse.papyrus">
-          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_la51sD62Eeq9Udjnf0qcrQ" key="nature" value="UML_Nature"/>
-        </eAnnotations>
-        <ownedEnd xmi:type="uml:Property" xmi:id="_lbC_oD62Eeq9Udjnf0qcrQ" name="objectcreationnotification" type="_0rh6gXJ7Eemlt-eKqj5CTA" association="_lawrwD62Eeq9Udjnf0qcrQ">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2rudQD62Eeq9Udjnf0qcrQ"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2sPaoD62Eeq9Udjnf0qcrQ" value="*"/>
-        </ownedEnd>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_mpYbAD62Eeq9Udjnf0qcrQ" memberEnd="_mpaQMT62Eeq9Udjnf0qcrQ _mpd6kD62Eeq9Udjnf0qcrQ">
-        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_mpZpID62Eeq9Udjnf0qcrQ" source="org.eclipse.papyrus">
-          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mpaQMD62Eeq9Udjnf0qcrQ" key="nature" value="UML_Nature"/>
-        </eAnnotations>
-        <ownedEnd xmi:type="uml:Property" xmi:id="_mpd6kD62Eeq9Udjnf0qcrQ" name="objectdeletionnotification" type="_0rh6jXJ7Eemlt-eKqj5CTA" association="_mpYbAD62Eeq9Udjnf0qcrQ">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_3K6ToD62Eeq9Udjnf0qcrQ"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_3K_zMD62Eeq9Udjnf0qcrQ" value="*"/>
-        </ownedEnd>
-      </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_yNtmkFRmEem5ec_9KiA7Yg" name="Diagrams"/>
     <packagedElement xmi:type="uml:Package" xmi:id="_yNuNoFRmEem5ec_9KiA7Yg" name="Imports">
@@ -57,52 +39,186 @@
         <importedPackage xmi:type="uml:Package" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_oGqilVLNEeO75dO39GbF8Q"/>
       </packageImport>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_yNuNoVRmEem5ec_9KiA7Yg" name="Interfaces"/>
-    <packagedElement xmi:type="uml:Package" xmi:id="_yNu0sFRmEem5ec_9KiA7Yg" name="Notifications">
-      <packagedElement xmi:type="uml:Signal" xmi:id="_0rh6gXJ7Eemlt-eKqj5CTA" name="ObjectCreationNotification">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_0rh6g3J7Eemlt-eKqj5CTA" name="counter" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_0rh6hHJ7Eemlt-eKqj5CTA" annotatedElement="_0rh6g3J7Eemlt-eKqj5CTA">
-            <body>Counts object creation notifications.</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_0rh6hXJ7Eemlt-eKqj5CTA" value="-1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_0rh6hnJ7Eemlt-eKqj5CTA" name="timestamp" isUnique="false" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="CommonDataTypes/ImplementationCommonDataTypes.uml#_iP8kJfZaEeWhRf3FikFX5w"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_0rh6h3J7Eemlt-eKqj5CTA" value="2010-11-20T14:00:00+01:00"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_la85AD62Eeq9Udjnf0qcrQ" name="_objectIdRef" isReadOnly="true" aggregation="shared" association="_lawrwD62Eeq9Udjnf0qcrQ">
-          <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_GLc2MJ47Eemkbek818V8NQ"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_0rh6inJ7Eemlt-eKqj5CTA" name="objectType" isUnique="false" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_0rh6jHJ7Eemlt-eKqj5CTA" value="Type of created object not specified."/>
-        </ownedAttribute>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Signal" xmi:id="_0rh6jXJ7Eemlt-eKqj5CTA" name="ObjectDeletionNotification">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_0rh6j3J7Eemlt-eKqj5CTA" name="counter" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_0rh6kHJ7Eemlt-eKqj5CTA" annotatedElement="_0rh6j3J7Eemlt-eKqj5CTA">
-            <body>Counts object deletion notifications.</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_0rh6kXJ7Eemlt-eKqj5CTA" value="-1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_0rh6knJ7Eemlt-eKqj5CTA" name="timestamp" isUnique="false" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="CommonDataTypes/ImplementationCommonDataTypes.uml#_iP8kJfZaEeWhRf3FikFX5w"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_0rh6k3J7Eemlt-eKqj5CTA" value="2010-11-20T14:00:00+01:00"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_mpaQMT62Eeq9Udjnf0qcrQ" name="_objectIdRef" isReadOnly="true" aggregation="shared" association="_mpYbAD62Eeq9Udjnf0qcrQ">
-          <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_GLc2MJ47Eemkbek818V8NQ"/>
-        </ownedAttribute>
+    <packagedElement xmi:type="uml:Package" xmi:id="_yNuNoVRmEem5ec_9KiA7Yg" name="Interfaces">
+      <packagedElement xmi:type="uml:Interface" xmi:id="_HyMB4KyBEe2AiI8yr-ax-A" name="WredProfileOperations">
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_HyMB4ayBEe2AiI8yr-ax-A" name="createWredProfile">
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_Yj84YK1REe2v1YJw6fXGZA" name="externalLabel" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_Yj84Ya1REe2v1YJw6fXGZA" annotatedElement="_Yj84YK1REe2v1YJw6fXGZA">
+              <body>Identifier of the instance of WredProfile. Could be a name, could be a number. Free text field to be filled by the operator.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Yj84Yq1REe2v1YJw6fXGZA" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Yj84Y61REe2v1YJw6fXGZA" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_YkAiwK1REe2v1YJw6fXGZA" name="thresholdLow" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_YkAiwa1REe2v1YJw6fXGZA" annotatedElement="_YkAiwK1REe2v1YJw6fXGZA">
+              <body>Defines the lower threshold in Byte. When average queue content is exceeding this value, packets start getting dropped. Probability of dropping is linear increasing until it reaches the value configured in dropProbabilityAtThresholdHigh when average queue content reaches thresholdHigh.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YkAiwq1REe2v1YJw6fXGZA" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YkAiw61REe2v1YJw6fXGZA" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_YkDmEK1REe2v1YJw6fXGZA" name="dropProbabilityAtThresholdLow" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_YkDmEa1REe2v1YJw6fXGZA" annotatedElement="_YkDmEK1REe2v1YJw6fXGZA">
+              <body>Only relevant if (dropProbabilityAtLowThresholdIsAvail==true). Defines the probability (as a percentage) of an incoming packet getting dropped when the content of the queue reaches the low threshold.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YkDmEq1REe2v1YJw6fXGZA" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YkDmE61REe2v1YJw6fXGZA" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_YkGCUK1REe2v1YJw6fXGZA" name="thresholdHigh" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_YkGCUa1REe2v1YJw6fXGZA" annotatedElement="_YkGCUK1REe2v1YJw6fXGZA">
+              <body>Defines the upper threshold in Byte. When average queue content is reaching this value, incoming packets are dropped with the probability configured in dropProbabilityAtThresholdHigh. When average queue content is exceeding this value, all incoming packets get dropped.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YkGCUq1REe2v1YJw6fXGZA" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YkGCU61REe2v1YJw6fXGZA" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_YkIekK1REe2v1YJw6fXGZA" name="dropProbabilityAtThresholdHigh" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_YkIeka1REe2v1YJw6fXGZA" annotatedElement="_YkIekK1REe2v1YJw6fXGZA">
+              <body>Defines the probability (as a percentage) of an incoming packet getting dropped when the content of the queue reaches the upper threshold.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YkIekq1REe2v1YJw6fXGZA" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YkIek61REe2v1YJw6fXGZA" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_YkLh4K1REe2v1YJw6fXGZA" name="gentleWredIsOn" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_YkLh4a1REe2v1YJw6fXGZA" annotatedElement="_YkLh4K1REe2v1YJw6fXGZA">
+              <body>Only relevant if (gentleWredIsAvail==true). true = The drop probability is linear increasing between dropProbabilityAtThresholdHigh and 100% at thresholdGentle (otherwise drop probability jumps to 100% at thresholdHigh).</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YkLh4q1REe2v1YJw6fXGZA" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YkLh461REe2v1YJw6fXGZA" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_YkN-IK1REe2v1YJw6fXGZA" name="thresholdGentle" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_YkN-Ia1REe2v1YJw6fXGZA" annotatedElement="_YkN-IK1REe2v1YJw6fXGZA">
+              <body>Only relevant if (gentleWredIsAvail==true) AND (gentleWredIsOn==true). Defines the 100% dropping threshold for gentle WRED in Byte. When average queue content reaches or exceeds this value, incoming packets get dropped with 100% probability.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YkN-Iq1REe2v1YJw6fXGZA" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YkN-I61REe2v1YJw6fXGZA" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_YkRBcK1REe2v1YJw6fXGZA" name="sensitivity" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_YkRBca1REe2v1YJw6fXGZA" annotatedElement="_YkRBcK1REe2v1YJw6fXGZA">
+              <body>Only relevant if (sensitivitySettingIsAvail==true). Defines how sensitive WRED reacts on traffic burst. low values = WRED reacts quickly and is sensitive to short bursts. high values = WRED reacts slowly on short bursts, which could result in buffer overflow and tail drop. Values between 0 and 15.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YkRBcq1REe2v1YJw6fXGZA" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YkRBc61REe2v1YJw6fXGZA" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_YkTdsK1REe2v1YJw6fXGZA" name="coloringIsOn" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_YkTdsa1REe2v1YJw6fXGZA" annotatedElement="_YkTdsK1REe2v1YJw6fXGZA">
+              <body>Only relevant if (colloringIsAvail==true). true = Exceeding packets are marked yellow instead of being immediately discarded.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_YkTdsq1REe2v1YJw6fXGZA" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_YkTds61REe2v1YJw6fXGZA" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_HyMB46yBEe2AiI8yr-ax-A" name="_createdWredProfile" direction="out" effect="read">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_HyMB5KyBEe2AiI8yr-ax-A" annotatedElement="_HyMB46yBEe2AiI8yr-ax-A">
+              <body>UUID of the instance of WredProfile that has been newly created.</body>
+            </ownedComment>
+            <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_GLc2MJ47Eemkbek818V8NQ"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_HyMB5ayBEe2AiI8yr-ax-A" name="modifyWredProfile">
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_Pju4UKyREe2xPccWaLjC-A" name="_wredProfileToBeModified" isUnique="false" effect="read">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_Pju4UayREe2xPccWaLjC-A" annotatedElement="_Pju4UKyREe2xPccWaLjC-A">
+              <body>UUID of the instance of WredProfile that shall be modified.</body>
+            </ownedComment>
+            <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_GLc2MJ47Eemkbek818V8NQ"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_HyMB5qyBEe2AiI8yr-ax-A" name="externalLabel" isUnique="false" effect="update">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_HyMB56yBEe2AiI8yr-ax-A" annotatedElement="_HyMB5qyBEe2AiI8yr-ax-A">
+              <body>Identifier of the instance of WredProfile. Could be a name, could be a number. Free text field to be filled by the operator.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_bgm6AKyREe2xPccWaLjC-A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_bgsZkKyREe2xPccWaLjC-A" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_hPxcQKyREe2xPccWaLjC-A" name="thresholdLow" isUnique="false" effect="update">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_hPxcQayREe2xPccWaLjC-A" annotatedElement="_hPxcQKyREe2xPccWaLjC-A">
+              <body>Defines the lower threshold in Byte. When average queue content is exceeding this value, packets start getting dropped. Probability of dropping is linear increasing until it reaches the value configured in dropProbabilityAtThresholdHigh when average queue content reaches thresholdHigh.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_hPxcQqyREe2xPccWaLjC-A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_hPxcQ6yREe2xPccWaLjC-A" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_2c6vcKyREe2xPccWaLjC-A" name="dropProbabilityAtThresholdLow" isUnique="false" effect="update">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_2c6vcayREe2xPccWaLjC-A" annotatedElement="_2c6vcKyREe2xPccWaLjC-A">
+              <body>Only relevant if (dropProbabilityAtLowThresholdIsAvail==true). Defines the probability (as a percentage) of an incoming packet getting dropped when the content of the queue reaches the low threshold.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2c6vcqyREe2xPccWaLjC-A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2c6vc6yREe2xPccWaLjC-A" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_2emKcKyREe2xPccWaLjC-A" name="thresholdHigh" isUnique="false" effect="update">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_2emKcayREe2xPccWaLjC-A" annotatedElement="_2emKcKyREe2xPccWaLjC-A">
+              <body>Defines the upper threshold in Byte. When average queue content is reaching this value, incoming packets are dropped with the probability configured in dropProbabilityAtThresholdHigh. When average queue content is exceeding this value, all incoming packets get dropped.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2emKcqyREe2xPccWaLjC-A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2emKc6yREe2xPccWaLjC-A" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_2gbWcKyREe2xPccWaLjC-A" name="dropProbabilityAtThresholdHigh" isUnique="false" effect="update">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_2gbWcayREe2xPccWaLjC-A" annotatedElement="_2gbWcKyREe2xPccWaLjC-A">
+              <body>Defines the probability (as a percentage) of an incoming packet getting dropped when the content of the queue reaches the upper threshold.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2gbWcqyREe2xPccWaLjC-A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2gbWc6yREe2xPccWaLjC-A" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_2iBR4KyREe2xPccWaLjC-A" name="gentleWredIsOn" isUnique="false" effect="update">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_2iBR4ayREe2xPccWaLjC-A" annotatedElement="_2iBR4KyREe2xPccWaLjC-A">
+              <body>Only relevant if (gentleWredIsAvail==true). true = The drop probability is linear increasing between dropProbabilityAtThresholdHigh and 100% at thresholdGentle (otherwise drop probability jumps to 100% at thresholdHigh).</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2iBR4qyREe2xPccWaLjC-A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2iBR46yREe2xPccWaLjC-A" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_2jn0YKyREe2xPccWaLjC-A" name="thresholdGentle" isUnique="false" effect="update">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_2jn0YayREe2xPccWaLjC-A" annotatedElement="_2jn0YKyREe2xPccWaLjC-A">
+              <body>Only relevant if (gentleWredIsAvail==true) AND (gentleWredIsOn==true). Defines the 100% dropping threshold for gentle WRED in Byte. When average queue content reaches or exceeds this value, incoming packets get dropped with 100% probability.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2jn0YqyREe2xPccWaLjC-A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2jn0Y6yREe2xPccWaLjC-A" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_2lJeYKyREe2xPccWaLjC-A" name="sensitivity" isUnique="false" effect="update">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_2lJeYayREe2xPccWaLjC-A" annotatedElement="_2lJeYKyREe2xPccWaLjC-A">
+              <body>Only relevant if (sensitivitySettingIsAvail==true). Defines how sensitive WRED reacts on traffic burst. low values = WRED reacts quickly and is sensitive to short bursts. high values = WRED reacts slowly on short bursts, which could result in buffer overflow and tail drop. Values between 0 and 15.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_2lJeYqyREe2xPccWaLjC-A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_2lJeY6yREe2xPccWaLjC-A" value="1"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_hbZoAKySEe2xPccWaLjC-A" name="coloringIsOn" isUnique="false" effect="update">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_hbZoAaySEe2xPccWaLjC-A" annotatedElement="_hbZoAKySEe2xPccWaLjC-A">
+              <body>Only relevant if (colloringIsAvail==true). true = Exceeding packets are marked yellow instead of being immediately discarded.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_hbZoAqySEe2xPccWaLjC-A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_hbZoA6ySEe2xPccWaLjC-A" value="1"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_HyMB7ayBEe2AiI8yr-ax-A" name="deleteWredProfile">
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_HyMB7qyBEe2AiI8yr-ax-A" name="_obsoleteWredProfile" isUnique="false" effect="delete">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_HyMB76yBEe2AiI8yr-ax-A" annotatedElement="_HyMB7qyBEe2AiI8yr-ax-A">
+              <body>UUID of the instance of WredProfile that shall be deleted.</body>
+            </ownedComment>
+            <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_GLc2MJ47Eemkbek818V8NQ"/>
+          </ownedParameter>
+        </ownedOperation>
       </packagedElement>
     </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_yNu0sFRmEem5ec_9KiA7Yg" name="Notifications"/>
     <packagedElement xmi:type="uml:Package" xmi:id="_yNu0sVRmEem5ec_9KiA7Yg" name="ObjectClasses">
       <packagedElement xmi:type="uml:Class" xmi:id="_QLeGIKR8EemZx_PrWGDYjw" name="WredProfileSpec">
         <ownedAttribute xmi:type="uml:Property" xmi:id="_fVEigKR8EemZx_PrWGDYjw" name="_wredProfile_Pac" type="_F9F7QFRnEem5ec_9KiA7Yg" aggregation="composite" association="_fU900KR8EemZx_PrWGDYjw"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_F9F7QFRnEem5ec_9KiA7Yg" name="WredProfile_Pac">
         <ownedAttribute xmi:type="uml:Property" xmi:id="_p1I8oVRnEem5ec_9KiA7Yg" name="_wredProfileCapability" type="_F9HwcFRnEem5ec_9KiA7Yg" isReadOnly="true" aggregation="composite" association="_p1HugFRnEem5ec_9KiA7Yg"/>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_qU1wYlRnEem5ec_9KiA7Yg" name="_wredProfileConfiguration" type="_F9JloFRnEem5ec_9KiA7Yg" aggregation="composite" association="_qU1JUFRnEem5ec_9KiA7Yg"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_qU1wYlRnEem5ec_9KiA7Yg" name="_wredProfileConfiguration" type="_F9JloFRnEem5ec_9KiA7Yg" isReadOnly="true" aggregation="composite" association="_qU1JUFRnEem5ec_9KiA7Yg"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_F9HwcFRnEem5ec_9KiA7Yg" name="WredProfileCapability">
         <ownedAttribute xmi:type="uml:Property" xmi:id="_Zzd6sILIEemiSv4WzL0VTA" name="availableBufferSize" isUnique="false" isReadOnly="true">
@@ -142,63 +258,63 @@
         </ownedAttribute>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_F9JloFRnEem5ec_9KiA7Yg" name="WredProfileConfiguration">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_kWedUGdnEemdnIp_r4TiRA" name="profileName" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_kWedUGdnEemdnIp_r4TiRA" name="externalLabel" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_kWedUWdnEemdnIp_r4TiRA" annotatedElement="_kWedUGdnEemdnIp_r4TiRA">
-            <body>Identifier of the profile. Could be a name, could be a number. Free text field to be filled by the operator.</body>
+            <body>Identifier of the instance of WredProfile. Could be a name, could be a number. Free text field to be filled by the operator.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_kWedUmdnEemdnIp_r4TiRA" value="Name of profile not yet defined."/>
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_kWedUmdnEemdnIp_r4TiRA" value="External label not yet defined."/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_AwVCwFUoEem5ec_9KiA7Yg" name="thresholdLow" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_AwVCwFUoEem5ec_9KiA7Yg" name="thresholdLow" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_AwVCwVUoEem5ec_9KiA7Yg" annotatedElement="_AwVCwFUoEem5ec_9KiA7Yg">
             <body>Defines the lower threshold in Byte. When average queue content is exceeding this value, packets start getting dropped. Probability of dropping is linear increasing until it reaches the value configured in dropProbabilityAtThresholdHigh when average queue content reaches thresholdHigh.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_AwVCwlUoEem5ec_9KiA7Yg" value="-1"/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_eGPDsGgqEemHIN8XirGEHw" name="dropProbabilityAtThresholdLow" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_eGPDsGgqEemHIN8XirGEHw" name="dropProbabilityAtThresholdLow" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_eGPDsWgqEemHIN8XirGEHw" annotatedElement="_eGPDsGgqEemHIN8XirGEHw">
             <body>Only relevant if (dropProbabilityAtLowThresholdIsAvail==true). Defines the probability (as a percentage) of an incoming packet getting dropped when the content of the queue reaches the low threshold.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_eGPDsmgqEemHIN8XirGEHw" value="-1"/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_X7ndoFUoEem5ec_9KiA7Yg" name="thresholdHigh" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_X7ndoFUoEem5ec_9KiA7Yg" name="thresholdHigh" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_6fym4FUpEem5ec_9KiA7Yg" annotatedElement="_X7ndoFUoEem5ec_9KiA7Yg">
             <body>Defines the upper threshold in Byte.  When average queue content is reaching this value, incoming packets are dropped with the probability configured in dropProbabilityAtThresholdHigh. When average queue content is exceeding this value, all incoming packets get dropped.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_X7ndolUoEem5ec_9KiA7Yg" value="-1"/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_f5AyAFUoEem5ec_9KiA7Yg" name="dropProbabilityAtThresholdHigh" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_f5AyAFUoEem5ec_9KiA7Yg" name="dropProbabilityAtThresholdHigh" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_f5AyAVUoEem5ec_9KiA7Yg" annotatedElement="_f5AyAFUoEem5ec_9KiA7Yg">
             <body>Defines the probability (as a percentage) of an incoming packet getting dropped when the content of the queue reaches the upper threshold.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_f5AyAlUoEem5ec_9KiA7Yg" value="-1"/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_5_kqIFhoEemxftnYxSWtbw" name="gentleWredIsOn" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_5_kqIFhoEemxftnYxSWtbw" name="gentleWredIsOn" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_5_kqIVhoEemxftnYxSWtbw" annotatedElement="_5_kqIFhoEemxftnYxSWtbw">
             <body>Only relevant if (gentleWredIsAvail==true). true = The drop probability is linear increasing between dropProbabilityAtThresholdHigh and 100% at thresholdGentle (otherwise drop probability jumps to 100% at thresholdHigh).</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
           <defaultValue xmi:type="uml:LiteralBoolean" xmi:id="_5_kqIlhoEemxftnYxSWtbw"/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_AfZjgILKEemiSv4WzL0VTA" name="thresholdGentle" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_AfZjgILKEemiSv4WzL0VTA" name="thresholdGentle" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_AfZjgYLKEemiSv4WzL0VTA" annotatedElement="_AfZjgILKEemiSv4WzL0VTA">
             <body>Only relevant if (gentleWredIsAvail==true) AND (gentleWredIsOn==true). Defines the 100% dropping threshold for gentle WRED in Byte.  When average queue content reaches or exceeds this value, incoming packets get dropped with 100% probability.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_AfZjgoLKEemiSv4WzL0VTA" value="-1"/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_iSkqYFUoEem5ec_9KiA7Yg" name="sensitivity" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_iSkqYFUoEem5ec_9KiA7Yg" name="sensitivity" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_iSkqYVUoEem5ec_9KiA7Yg" annotatedElement="_iSkqYFUoEem5ec_9KiA7Yg">
             <body>Only relevant if (sensitivitySettingIsAvail==true). Defines how sensitive WRED reacts on traffic burst. low values = WRED reacts quickly and is sensitive to short bursts. high values = WRED reacts slowly on short bursts, which could result in buffer overflow and tail drop. Values between 0 and 15.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_iSkqYlUoEem5ec_9KiA7Yg" value="-1"/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_TA1MUFhiEemxftnYxSWtbw" name="coloringIsOn" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_TA1MUFhiEemxftnYxSWtbw" name="coloringIsOn" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_TA1MUVhiEemxftnYxSWtbw" annotatedElement="_TA1MUFhiEemxftnYxSWtbw">
             <body>Only relevant if (colloringIsAvail==true). true = Exceeding packets are marked yellow instead of being immediately discarded.</body>
           </ownedComment>
@@ -213,7 +329,7 @@
       <packagedElement xmi:type="uml:Package" xmi:id="_ZWhL4D64Eeq9Udjnf0qcrQ" name="ExtentedCoreEnumerations ">
         <packagedElement xmi:type="uml:Enumeration" xmi:id="_ZWhL4T64Eeq9Udjnf0qcrQ" name="ProfileNameType">
           <ownedComment xmi:type="uml:Comment" xmi:id="_ZWhL4j64Eeq9Udjnf0qcrQ" annotatedElement="_ZWhL4T64Eeq9Udjnf0qcrQ">
-            <body>A controlled list of LayerProtocol names.</body>
+            <body>A controlled list of Profile names.</body>
           </ownedComment>
           <generalization xmi:type="uml:Generalization" xmi:id="_e3fhID64Eeq9Udjnf0qcrQ">
             <general xmi:type="uml:Enumeration" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_jMtRsKInEem1L6jqz3rbgg"/>
@@ -262,11 +378,12 @@
       <appliedProfile xmi:type="uml:Profile" href="UmlProfiles/ProfileLifecycleProfile/ProfileLifecycle_Profile.profile.uml#_CBpGoEdZEearpawF38eisA"/>
     </profileApplication>
   </uml:Model>
-  <OpenModel_Profile:OpenModelStatement xmi:id="_i67NgCVJEemK9ptdIxz6GQ" base_Model="_Imk30GyUEee0HrHFgb9oqw" namespace="urn:onf:yang:wred-profile" organization="openBackhaul.com proposal to Open Networking Foundation (ONF)" description="This model defines a technology specific extension to the ONF Core IM. It defines a WRED (Weighted Random Early Detection) profile class, which instances can be referenced by multiple interface instances." copyright="Copyright 2022 openBackhaul.com" license="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#xD;&#xA;you may not use this file except in compliance with the License.&#xD;&#xA;You may obtain a copy of the License at&#xD;&#xA;&#xD;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xD;&#xA;&#xD;&#xA;Unless required by applicable law or agreed to in writing, software&#xD;&#xA;distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#xD;&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xD;&#xA;See the License for the specific language governing permissions and&#xD;&#xA;limitations under the License.">
+  <OpenModel_Profile:OpenModelStatement xmi:id="_i67NgCVJEemK9ptdIxz6GQ" base_Model="_Imk30GyUEee0HrHFgb9oqw" namespace="urn:onf:yang:wred-profile" organization="openBackhaul.com proposal to Open Networking Foundation (ONF)" description="This model defines a technology specific extension to the ONF Core IM. It defines a WRED (Weighted Random Early Detection) profile class, which instances can be referenced by multiple interface instances." copyright="Copyright 2024 openBackhaul.com" license="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#xD;&#xA;you may not use this file except in compliance with the License.&#xD;&#xA;You may obtain a copy of the License at&#xD;&#xA;&#xD;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xD;&#xA;&#xD;&#xA;Unless required by applicable law or agreed to in writing, software&#xD;&#xA;distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#xD;&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xD;&#xA;See the License for the specific language governing permissions and&#xD;&#xA;limitations under the License.">
     <contact xmi:type="OpenModel_Profile:Contact" xmi:id="_uZDooKSIEemZx_PrWGDYjw" projectWeb="https://github.com/openBackhaul/Overview" projectEmail="WredProfile@openBackhaul.com" editorName="Thorsten Heinze" editorEmail="Thorsten.Heinze@openBackhaul.com"/>
-    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_hVpCgLBQEeyyJKfJP0ZKLQ" date="2022-03-30" version="1.0.0-tsp.220330.1950" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/wredProfile/issues" reference="https://github.com/openBackhaul/wredProfile/tree/tsp: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
-    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_FQBFwD66Eeq9Udjnf0qcrQ" date="2020-01-24" version="1.0.0-tsp.200124.1610" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/wredProfile/issues" reference="https://github.com/openBackhaul/wredProfile/tree/tsp: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
-    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_pFj5QKSJEemZx_PrWGDYjw" date="2019-07-12" version="1.0.0-tsp.190712.1150" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/wredProfile/issues" reference="https://github.com/openBackhaul/wredProfile/tree/tsp: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_CltzsJ_6Ee6MG7LEuwtwYA" date="2024-01-04" version="1.0.0-tsi.240104.1945" description="Model for the Transport SDN Introduction at Telefonica Germany." changeLog="https://github.com/openBackhaul/wredProfile/issues" reference="https://github.com/openBackhaul/wredProfile/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_hVpCgLBQEeyyJKfJP0ZKLQ" date="2022-03-30" version="1.0.0-tsp.220330.1950" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/wredProfile/issues" reference="https://github.com/openBackhaul/wredProfile/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_FQBFwD66Eeq9Udjnf0qcrQ" date="2020-01-24" version="1.0.0-tsp.200124.1610" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/wredProfile/issues" reference="https://github.com/openBackhaul/wredProfile/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_pFj5QKSJEemZx_PrWGDYjw" date="2019-07-12" version="1.0.0-tsp.190712.1150" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/wredProfile/issues" reference="https://github.com/openBackhaul/wredProfile/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
   </OpenModel_Profile:OpenModelStatement>
   <OpenModel_Profile:Obsolete xmi:id="_yOpasFRmEem5ec_9KiA7Yg" base_Element="_yN4lsFRmEem5ec_9KiA7Yg"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_p1PqUFRnEem5ec_9KiA7Yg" base_StructuralFeature="_p1PDQFRnEem5ec_9KiA7Yg"/>
@@ -275,32 +392,20 @@
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_qU2-glRnEem5ec_9KiA7Yg" base_Property="_qU2-gFRnEem5ec_9KiA7Yg"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_2-rwMFhhEemxftnYxSWtbw" base_Property="_2-rJIFhhEemxftnYxSWtbw" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_2-uMcFhhEemxftnYxSWtbw" base_StructuralFeature="_2-rJIFhhEemxftnYxSWtbw" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_TA1zYFhiEemxftnYxSWtbw" base_Property="_TA1MUFhiEemxftnYxSWtbw" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_TA2acFhiEemxftnYxSWtbw" base_StructuralFeature="_TA1MUFhiEemxftnYxSWtbw" isInvariant="true"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_TA1zYFhiEemxftnYxSWtbw" base_Property="_TA1MUFhiEemxftnYxSWtbw" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_TA2acFhiEemxftnYxSWtbw" base_StructuralFeature="_TA1MUFhiEemxftnYxSWtbw"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_Scm2M1hoEemxftnYxSWtbw" base_Property="_Scm2MFhoEemxftnYxSWtbw" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_ScndQFhoEemxftnYxSWtbw" base_StructuralFeature="_Scm2MFhoEemxftnYxSWtbw" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_5_kqI1hoEemxftnYxSWtbw" base_Property="_5_kqIFhoEemxftnYxSWtbw" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_5_lRMFhoEemxftnYxSWtbw" base_StructuralFeature="_5_kqIFhoEemxftnYxSWtbw" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_eGPDs2gqEemHIN8XirGEHw" base_Property="_eGPDsGgqEemHIN8XirGEHw" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO" bitLength="LENGTH_8_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_eGPqwGgqEemHIN8XirGEHw" base_StructuralFeature="_eGPDsGgqEemHIN8XirGEHw" isInvariant="true" unit="%"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_5_kqI1hoEemxftnYxSWtbw" base_Property="_5_kqIFhoEemxftnYxSWtbw" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_5_lRMFhoEemxftnYxSWtbw" base_StructuralFeature="_5_kqIFhoEemxftnYxSWtbw"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_eGPDs2gqEemHIN8XirGEHw" base_Property="_eGPDsGgqEemHIN8XirGEHw" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES" bitLength="LENGTH_8_BIT"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_eGPqwGgqEemHIN8XirGEHw" base_StructuralFeature="_eGPDsGgqEemHIN8XirGEHw" unit="%"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_vM0KIGgqEemHIN8XirGEHw" base_Property="_vMy8AGgqEemHIN8XirGEHw" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_vM0xMGgqEemHIN8XirGEHw" base_StructuralFeature="_vMy8AGgqEemHIN8XirGEHw" isInvariant="true"/>
-  <OpenModel_Profile:OpenModelNotification xmi:id="_0rihkHJ7Eemlt-eKqj5CTA" base_Signal="_0rh6gXJ7Eemlt-eKqj5CTA"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_0rjvsHJ7Eemlt-eKqj5CTA" base_Property="_0rh6g3J7Eemlt-eKqj5CTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_0rjvsXJ7Eemlt-eKqj5CTA" base_StructuralFeature="_0rh6g3J7Eemlt-eKqj5CTA" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_0rjvsnJ7Eemlt-eKqj5CTA" base_Property="_0rh6hnJ7Eemlt-eKqj5CTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_0rjvs3J7Eemlt-eKqj5CTA" base_StructuralFeature="_0rh6hnJ7Eemlt-eKqj5CTA" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_0rkWwnJ7Eemlt-eKqj5CTA" base_Property="_0rh6inJ7Eemlt-eKqj5CTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_0rkWw3J7Eemlt-eKqj5CTA" base_StructuralFeature="_0rh6inJ7Eemlt-eKqj5CTA" isInvariant="true"/>
-  <OpenModel_Profile:OpenModelNotification xmi:id="_0rkWxHJ7Eemlt-eKqj5CTA" base_Signal="_0rh6jXJ7Eemlt-eKqj5CTA"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_0rkWxXJ7Eemlt-eKqj5CTA" base_Property="_0rh6j3J7Eemlt-eKqj5CTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_0rk90HJ7Eemlt-eKqj5CTA" base_StructuralFeature="_0rh6j3J7Eemlt-eKqj5CTA" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_0rk90XJ7Eemlt-eKqj5CTA" base_Property="_0rh6knJ7Eemlt-eKqj5CTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_0rk90nJ7Eemlt-eKqj5CTA" base_StructuralFeature="_0rh6knJ7Eemlt-eKqj5CTA" isInvariant="true"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_ZzehwILIEemiSv4WzL0VTA" base_Property="_Zzd6sILIEemiSv4WzL0VTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_Zzg-AILIEemiSv4WzL0VTA" base_StructuralFeature="_Zzd6sILIEemiSv4WzL0VTA" isInvariant="true" unit="Byte"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_AfaxoILKEemiSv4WzL0VTA" base_Property="_AfZjgILKEemiSv4WzL0VTA" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_AfbYsILKEemiSv4WzL0VTA" base_StructuralFeature="_AfZjgILKEemiSv4WzL0VTA" isInvariant="true" unit="Byte"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_AfaxoILKEemiSv4WzL0VTA" base_Property="_AfZjgILKEemiSv4WzL0VTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES" bitLength="LENGTH_32_BIT"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_AfbYsILKEemiSv4WzL0VTA" base_StructuralFeature="_AfZjgILKEemiSv4WzL0VTA" unit="Byte"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelClass xmi:id="_F9GiUVRnEem5ec_9KiA7Yg" objectCreationNotification="NO" objectDeletionNotification="NO" base_Class="_F9F7QFRnEem5ec_9KiA7Yg"/>
   <OpenModel_Profile:OpenModelClass xmi:id="_F9GiUFRnEem5ec_9KiA7Yg" base_Class="_F9F7QFRnEem5ec_9KiA7Yg"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelClass xmi:id="_QLetMKR8EemZx_PrWGDYjw" objectCreationNotification="YES" objectDeletionNotification="YES" base_Class="_QLeGIKR8EemZx_PrWGDYjw"/>
@@ -319,30 +424,48 @@
   <OpenModel_Profile:OpenModelClass xmi:id="_F9JlplRnEem5ec_9KiA7Yg" base_Class="_F9JloFRnEem5ec_9KiA7Yg"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_uY3gkGdtEemdnIp_r4TiRA" base_Property="_uY1rYGdtEemdnIp_r4TiRA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_uY1rY2dtEemdnIp_r4TiRA" base_StructuralFeature="_uY1rYGdtEemdnIp_r4TiRA" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_kWfEYWdnEemdnIp_r4TiRA" base_Property="_kWedUGdnEemdnIp_r4TiRA" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_kWfEYGdnEemdnIp_r4TiRA" base_StructuralFeature="_kWedUGdnEemdnIp_r4TiRA" partOfObjectKey="1" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_AwVp0FUoEem5ec_9KiA7Yg" base_Property="_AwVCwFUoEem5ec_9KiA7Yg" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_AwVCw1UoEem5ec_9KiA7Yg" base_StructuralFeature="_AwVCwFUoEem5ec_9KiA7Yg" isInvariant="true" unit="Byte"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_X7oEsFUoEem5ec_9KiA7Yg" base_Property="_X7ndoFUoEem5ec_9KiA7Yg" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_X7ndo1UoEem5ec_9KiA7Yg" base_StructuralFeature="_X7ndoFUoEem5ec_9KiA7Yg" isInvariant="true" unit="Byte"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_f5BZEVUoEem5ec_9KiA7Yg" base_Property="_f5AyAFUoEem5ec_9KiA7Yg" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO" bitLength="LENGTH_8_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_f5BZEFUoEem5ec_9KiA7Yg" base_StructuralFeature="_f5AyAFUoEem5ec_9KiA7Yg" isInvariant="true" unit="%"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_iSlRcVUoEem5ec_9KiA7Yg" base_Property="_iSkqYFUoEem5ec_9KiA7Yg" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO" bitLength="LENGTH_8_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_iSlRcFUoEem5ec_9KiA7Yg" base_StructuralFeature="_iSkqYFUoEem5ec_9KiA7Yg" isInvariant="true" unit="%"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_kWfEYWdnEemdnIp_r4TiRA" base_Property="_kWedUGdnEemdnIp_r4TiRA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_kWfEYGdnEemdnIp_r4TiRA" base_StructuralFeature="_kWedUGdnEemdnIp_r4TiRA" partOfObjectKey="1"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_AwVp0FUoEem5ec_9KiA7Yg" base_Property="_AwVCwFUoEem5ec_9KiA7Yg" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES" bitLength="LENGTH_32_BIT"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_AwVCw1UoEem5ec_9KiA7Yg" base_StructuralFeature="_AwVCwFUoEem5ec_9KiA7Yg" unit="Byte"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_X7oEsFUoEem5ec_9KiA7Yg" base_Property="_X7ndoFUoEem5ec_9KiA7Yg" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES" bitLength="LENGTH_32_BIT"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_X7ndo1UoEem5ec_9KiA7Yg" base_StructuralFeature="_X7ndoFUoEem5ec_9KiA7Yg" unit="Byte"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_f5BZEVUoEem5ec_9KiA7Yg" base_Property="_f5AyAFUoEem5ec_9KiA7Yg" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES" bitLength="LENGTH_8_BIT"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_f5BZEFUoEem5ec_9KiA7Yg" base_StructuralFeature="_f5AyAFUoEem5ec_9KiA7Yg" unit="%"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_iSlRcVUoEem5ec_9KiA7Yg" base_Property="_iSkqYFUoEem5ec_9KiA7Yg" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES" bitLength="LENGTH_8_BIT"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_iSlRcFUoEem5ec_9KiA7Yg" base_StructuralFeature="_iSkqYFUoEem5ec_9KiA7Yg" unit="%"/>
   <OpenModel_Profile:Specify xmi:id="_ZP5TAKSHEemZx_PrWGDYjw" base_Abstraction="_W07FYKSHEemZx_PrWGDYjw">
     <target>/CoreModel:ControlConstruct:ControlConstruct/CoreModel:ProfileCollection:ProfileCollection/CoreModel:ProfileCollection:Profile</target>
   </OpenModel_Profile:Specify>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_la9gED62Eeq9Udjnf0qcrQ" base_Property="_la85AD62Eeq9Udjnf0qcrQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_lbBxgD62Eeq9Udjnf0qcrQ" base_StructuralFeature="_la85AD62Eeq9Udjnf0qcrQ" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_lzAMoD62Eeq9Udjnf0qcrQ" base_Property="_lbC_oD62Eeq9Udjnf0qcrQ"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_lzCo4D62Eeq9Udjnf0qcrQ" base_StructuralFeature="_lbC_oD62Eeq9Udjnf0qcrQ"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_mpbeUD62Eeq9Udjnf0qcrQ" base_Property="_mpaQMT62Eeq9Udjnf0qcrQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_mpcscD62Eeq9Udjnf0qcrQ" base_StructuralFeature="_mpaQMT62Eeq9Udjnf0qcrQ" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_mpg94D62Eeq9Udjnf0qcrQ" base_Property="_mpd6kD62Eeq9Udjnf0qcrQ"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_mphk8D62Eeq9Udjnf0qcrQ" base_StructuralFeature="_mpd6kD62Eeq9Udjnf0qcrQ"/>
-  <OpenModel_Profile:PassedByReference xmi:id="_uvns4D63Eeq9Udjnf0qcrQ" base_Property="_la85AD62Eeq9Udjnf0qcrQ"/>
-  <OpenModel_Profile:PassedByReference xmi:id="_7aXhMD63Eeq9Udjnf0qcrQ" base_Property="_mpaQMT62Eeq9Udjnf0qcrQ"/>
   <OpenModel_Profile:Obsolete xmi:id="_ZWjBED64Eeq9Udjnf0qcrQ" base_Element="_ZWhL4D64Eeq9Udjnf0qcrQ"/>
   <OpenModel_Profile:Obsolete xmi:id="_ZWk2QD64Eeq9Udjnf0qcrQ" base_Element="_ZWhL4T64Eeq9Udjnf0qcrQ"/>
   <OpenModel_Profile:Obsolete xmi:id="_ZWldUD64Eeq9Udjnf0qcrQ" base_Element="_ZWhL4j64Eeq9Udjnf0qcrQ"/>
+  <OpenModel_Profile:OpenModelInterface xmi:id="_HyNQAKyBEe2AiI8yr-ax-A" base_Interface="_HyMB4KyBEe2AiI8yr-ax-A"/>
+  <OpenModel_Profile:OpenModelOperation xmi:id="_HyPFMKyBEe2AiI8yr-ax-A" base_Operation="_HyMB4ayBEe2AiI8yr-ax-A" isAtomic="true"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_HyPFMqyBEe2AiI8yr-ax-A" base_Parameter="_HyMB46yBEe2AiI8yr-ax-A"/>
+  <OpenModel_Profile:OpenModelOperation xmi:id="_HyPFM6yBEe2AiI8yr-ax-A" base_Operation="_HyMB5ayBEe2AiI8yr-ax-A" isOperationIdempotent="true" isAtomic="true"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_HyPsQKyBEe2AiI8yr-ax-A" base_Parameter="_HyMB5qyBEe2AiI8yr-ax-A"/>
+  <OpenModel_Profile:OpenModelOperation xmi:id="_HyPsQqyBEe2AiI8yr-ax-A" base_Operation="_HyMB7ayBEe2AiI8yr-ax-A" isOperationIdempotent="true" isAtomic="true"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_HyQTUKyBEe2AiI8yr-ax-A" base_Parameter="_HyMB7qyBEe2AiI8yr-ax-A"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_PlnusKyREe2xPccWaLjC-A" base_Parameter="_Pju4UKyREe2xPccWaLjC-A"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_hPyDUKyREe2xPccWaLjC-A" base_Parameter="_hPxcQKyREe2xPccWaLjC-A"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_2c6vdayREe2xPccWaLjC-A" base_Parameter="_2c6vcKyREe2xPccWaLjC-A"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_2emKdayREe2xPccWaLjC-A" base_Parameter="_2emKcKyREe2xPccWaLjC-A"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_2gbWdayREe2xPccWaLjC-A" base_Parameter="_2gbWcKyREe2xPccWaLjC-A"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_2iBR5ayREe2xPccWaLjC-A" base_Parameter="_2iBR4KyREe2xPccWaLjC-A"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_2jn0ZayREe2xPccWaLjC-A" base_Parameter="_2jn0YKyREe2xPccWaLjC-A"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_2lKFcKyREe2xPccWaLjC-A" base_Parameter="_2lJeYKyREe2xPccWaLjC-A"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_hba2IKySEe2xPccWaLjC-A" base_Parameter="_hbZoAKySEe2xPccWaLjC-A"/>
+  <OpenModel_Profile:PassedByReference xmi:id="_dNogoK1OEe2v1YJw6fXGZA" base_Parameter="_Pju4UKyREe2xPccWaLjC-A"/>
+  <OpenModel_Profile:PassedByReference xmi:id="_eEAH8K1OEe2v1YJw6fXGZA" base_Parameter="_HyMB46yBEe2AiI8yr-ax-A"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_Yj9fca1REe2v1YJw6fXGZA" base_Parameter="_Yj84YK1REe2v1YJw6fXGZA"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_YkAixa1REe2v1YJw6fXGZA" base_Parameter="_YkAiwK1REe2v1YJw6fXGZA"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_YkDmFa1REe2v1YJw6fXGZA" base_Parameter="_YkDmEK1REe2v1YJw6fXGZA"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_YkGCVa1REe2v1YJw6fXGZA" base_Parameter="_YkGCUK1REe2v1YJw6fXGZA"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_YkJFoK1REe2v1YJw6fXGZA" base_Parameter="_YkIekK1REe2v1YJw6fXGZA"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_YkLh5a1REe2v1YJw6fXGZA" base_Parameter="_YkLh4K1REe2v1YJw6fXGZA"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_YkOlMK1REe2v1YJw6fXGZA" base_Parameter="_YkN-IK1REe2v1YJw6fXGZA"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_YkRBda1REe2v1YJw6fXGZA" base_Parameter="_YkRBcK1REe2v1YJw6fXGZA"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_YkTdta1REe2v1YJw6fXGZA" base_Parameter="_YkTdsK1REe2v1YJw6fXGZA"/>
+  <OpenModel_Profile:PassedByReference xmi:id="_hbbPYK1REe2v1YJw6fXGZA" base_Parameter="_HyMB7qyBEe2AiI8yr-ax-A"/>
 </xmi:XMI>

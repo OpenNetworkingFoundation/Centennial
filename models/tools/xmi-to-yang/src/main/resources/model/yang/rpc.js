@@ -24,7 +24,7 @@ function rpc(name, descrip, feature, status, fileName) {
     this.output = [];
     this.input = [];
 }
-rpc.prototype.buildChild = function (att, type, rpcType) {
+rpc.prototype.buildChild = function (att, type, rpcType, store) {
 
     if(type == "leaf" || type == "leaf-list"){
         //translate the "integer" to "uint32"
@@ -47,15 +47,18 @@ rpc.prototype.buildChild = function (att, type, rpcType) {
             if(att.isRequireInstance){
                 obj.isRequireInstance = att.isRequireInstance;
                 obj.type.isRequireInstance = att.isRequireInstance;
-            }if(att["min-elements"] && att["min-elements"] > 0){
+            }
+            if((att["min-elements"] == undefined && att["max-elements"] == undefined) ||
+            (att["min-elements"] && att["min-elements"] == 1)){
                 obj.isMandatory = true;
             }
+            obj.store=store;
             break;
         case "enumeration":
             obj = new leaf(att.name, att.id, att.config, att.defaultValue, att.description, att, att.support, att.status, att.fileName);
             break;
         case "leaf-list":
-            obj = new leaf_list(att.name, att.id, att.config, att.description, att['max-elements'], att['min-elements'], att.type, att.isOrdered, att.support, att.status, att.fileName);
+            obj = new leaf_list(att.name, att.id, att.config, undefined,att.description, att['max-elements'], att['min-elements'], att.type, att.isOrdered, att.support, att.status, att.fileName);
             break;
         case "list":
             obj = new Node(att.name, att.description, att.nodeType, att['max-elements'], att['min-elements'], att.id, att.config, att.isOrdered, att.support, att.status, att.fileName);

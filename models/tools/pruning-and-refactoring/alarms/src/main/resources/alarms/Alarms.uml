@@ -47,41 +47,6 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_nzCdQl9LEemkV8c3A5D8-A" name="Interfaces"/>
     <packagedElement xmi:type="uml:Package" xmi:id="_wLnd4JAHEeyzUcpvPfllDQ" name="Notifications">
-      <packagedElement xmi:type="uml:Signal" xmi:id="_wLnd8ZAHEeyzUcpvPfllDQ" name="AttributeValueChangedNotification">
-        <ownedComment xmi:type="uml:Comment" xmi:id="_wLnd8pAHEeyzUcpvPfllDQ">
-          <body>To be sent when an attribute has changed and one or more controllers have to update their data.</body>
-        </ownedComment>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_wLnd85AHEeyzUcpvPfllDQ" name="counter" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_wLnd9JAHEeyzUcpvPfllDQ" annotatedElement="_wLnd85AHEeyzUcpvPfllDQ">
-            <body>Counts attribute value changed notifications.</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_wLnd9ZAHEeyzUcpvPfllDQ" value="-1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_ymp1UJWLEeyXJvNPAB0Mdg" name="referencedSeverityConfigurationIdentifier" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_wLnd-ZAHEeyzUcpvPfllDQ" name="attributeName" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_wLnd-pAHEeyzUcpvPfllDQ" annotatedElement="_wLnd-ZAHEeyzUcpvPfllDQ">
-            <body>Name of the attribute that has been changed.</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_wLnd-5AHEeyzUcpvPfllDQ" value="Attribute name not specified."/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_wLnd_JAHEeyzUcpvPfllDQ" name="newValue" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_wLnd_ZAHEeyzUcpvPfllDQ" annotatedElement="_wLnd_JAHEeyzUcpvPfllDQ">
-            <body>Attribute value converted to a string (xml, json, ...)</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_wLnd_pAHEeyzUcpvPfllDQ"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_wLnd_5AHEeyzUcpvPfllDQ" value="1"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_wLneAJAHEeyzUcpvPfllDQ" value="New value not specified."/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_wLnd9pAHEeyzUcpvPfllDQ" name="timestamp" isUnique="false" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="CommonDataTypes/ImplementationCommonDataTypes.uml#_iP8kJfZaEeWhRf3FikFX5w"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_wLnd95AHEeyzUcpvPfllDQ" value="2010-11-20T14:00:00+01:00"/>
-        </ownedAttribute>
-      </packagedElement>
       <packagedElement xmi:type="uml:Signal" xmi:id="_wLneAZAHEeyzUcpvPfllDQ" name="AlarmEventNotification">
         <ownedAttribute xmi:type="uml:Property" xmi:id="_b05m8JAIEeyzUcpvPfllDQ" name="alarmEventSequenceNumber" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_b05m8ZAIEeyzUcpvPfllDQ" annotatedElement="_b05m8JAIEeyzUcpvPfllDQ">
@@ -325,7 +290,7 @@
         </ownedAttribute>
         <ownedAttribute xmi:type="uml:Property" xmi:id="_9uoSsEeUEeyhy4Zv3UQM_g" name="specificProblem" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_9uoSsUeUEeyhy4Zv3UQM_g" annotatedElement="_9uoSsEeUEeyhy4Zv3UQM_g">
-            <body>This parameter, when present, identifies further refinements to the probable-cause of the alarm. This parameter qualifies &#xD;the chosen probable-cause and may be used by the managed object class definer to specify a set of identifiers for use in&#xD;managed object classes.</body>
+            <body>This parameter, when present, identifies further refinements to the probable-cause of the alarm. This parameter qualifies the chosen probable-cause and may be used by the managed object class definer to specify a set of identifiers for use in&#xD;managed object classes.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           <defaultValue xmi:type="uml:LiteralString" xmi:id="_9uoSskeUEeyhy4Zv3UQM_g" value="Not yet defined."/>
@@ -365,9 +330,10 @@
         </ownedAttribute>
         <ownedAttribute xmi:type="uml:Property" xmi:id="_rrrLQIqKEeytT9qmTMWfgg" name="resourceGroupDescription" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_rrrLQYqKEeytT9qmTMWfgg" annotatedElement="_rrrLQIqKEeytT9qmTMWfgg">
-            <body>Label that describes the group of ressources or ressource types that are subject to this severity configuration.</body>
+            <body>Label that describes the group of resources or resource types that are subject to this severity configuration.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_ZH-TQJ6HEe6YeYJrTpXZZA" value="Not yet defined."/>
         </ownedAttribute>
         <ownedAttribute xmi:type="uml:Property" xmi:id="_SlZ_AI47EeyxOvdHSchglw" name="severityLevelList" type="_3hFWIEIUEeyNsPXH_7wxzQ" isUnique="false">
           <ownedComment xmi:type="uml:Comment" xmi:id="_SlZ_AY47EeyxOvdHSchglw" annotatedElement="_SlZ_AI47EeyxOvdHSchglw">
@@ -481,7 +447,7 @@
         </ownedAttribute>
         <ownedAttribute xmi:type="uml:Property" xmi:id="_PSUMsH-MEeyDQeqq8VQhHA" name="timestamp" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_PSUMsX-MEeyDQeqq8VQhHA" annotatedElement="_PSUMsH-MEeyDQeqq8VQhHA">
-            <body>The time-stamp when this alarm event occured.</body>
+            <body>The time-stamp when this alarm event occurred.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="CommonDataTypes/ImplementationCommonDataTypes.uml#_iP8kJfZaEeWhRf3FikFX5w"/>
           <defaultValue xmi:type="uml:LiteralString" xmi:id="_1_1moJAEEeyzUcpvPfllDQ" value="2010-11-20T14:00:00+01:00"/>
@@ -491,6 +457,52 @@
         <ownedComment xmi:type="uml:Comment" xmi:id="_CexnQJk_EeyWhqcMzqRbAQ" annotatedElement="_1foNEJk6EeyWhqcMzqRbAQ">
           <body>To be translated into the YANG built in datatype instance-identifier.</body>
         </ownedComment>
+      </packagedElement>
+      <packagedElement xmi:type="uml:DataType" xmi:id="_T4FEUDEVEe65Hsbb_YAbjw" name="AlarmBehaviorType">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_T4FEUTEVEe65Hsbb_YAbjw" name="alarmTypeId" type="_2MqWUEITEeyNsPXH_7wxzQ" isUnique="false">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_T4FEUjEVEe65Hsbb_YAbjw" annotatedElement="_T4FEUTEVEe65Hsbb_YAbjw">
+            <body>The alarm type identifier to match.</body>
+          </ownedComment>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_T4FEUzEVEe65Hsbb_YAbjw" name="alarmTypeQualifier" isUnique="false">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_T4FEVDEVEe65Hsbb_YAbjw" annotatedElement="_T4FEUzEVEe65Hsbb_YAbjw">
+            <body>The optionally defined alarm type identifier for this possible alarm.</body>
+          </ownedComment>
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_iuElEE2ZEe6Y1Z00eIU0NQ"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iucYgE2ZEe6Y1Z00eIU0NQ" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_T4FEVTEVEe65Hsbb_YAbjw" name="resource" type="_1foNEJk6EeyWhqcMzqRbAQ" isUnique="false">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_T4FEVjEVEe65Hsbb_YAbjw" annotatedElement="_T4FEVTEVEe65Hsbb_YAbjw">
+            <body>xpath expression describing an individual resource or type of resource that is subject to the behavior configuration. If the configuration for a specific combination of alarmTypeId and alarmTypeQualifier would apply on all resources, the ControlConstruct would have to be referenced as resource.</body>
+          </ownedComment>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_T4FEVzEVEe65Hsbb_YAbjw" value="1"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_T4FEWDEVEe65Hsbb_YAbjw" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_T4FEWTEVEe65Hsbb_YAbjw" name="behavior" type="_fT0u4DEVEe65Hsbb_YAbjw" isUnique="false">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_T4FEWjEVEe65Hsbb_YAbjw" annotatedElement="_T4FEWTEVEe65Hsbb_YAbjw">
+            <body>Defines the behavior of the device when the alarm gets raised or cleared.</body>
+          </ownedComment>
+          <defaultValue xmi:type="uml:InstanceValue" xmi:id="_zB1KkDEVEe65Hsbb_YAbjw" type="_fT0u4DEVEe65Hsbb_YAbjw" instance="_fT0u7jEVEe65Hsbb_YAbjw"/>
+        </ownedAttribute>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Enumeration" xmi:id="_fT0u4DEVEe65Hsbb_YAbjw" name="BehaviorType">
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_fT0u4jEVEe65Hsbb_YAbjw" name="FULLY_FUNCTIONAL">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_fT0u4zEVEe65Hsbb_YAbjw" annotatedElement="_fT0u4jEVEe65Hsbb_YAbjw">
+            <body>An entry is made into the list of current alarms and a notification gets sent, if such kind of alarm is raised or cleared.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_fT0u5DEVEe65Hsbb_YAbjw" name="NOT_NOTIFIED">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_fT0u5TEVEe65Hsbb_YAbjw" annotatedElement="_fT0u5DEVEe65Hsbb_YAbjw">
+            <body>An entry is made into the list of current alarms, but no notification gets sent, if such kind of alarm is raised or cleared.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_fT0u5jEVEe65Hsbb_YAbjw" name="DISABLED">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_fT0u5zEVEe65Hsbb_YAbjw" annotatedElement="_fT0u5jEVEe65Hsbb_YAbjw">
+            <body>Alarm gets neither listed in current alarms list nor notified.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_fT0u7jEVEe65Hsbb_YAbjw" name="NOT_YET_DEFINED"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Package" xmi:id="_B9jvwJSNEeyNjcWKmZVR1A" name="SuperTypes">
         <packagedElement xmi:type="uml:Enumeration" xmi:id="_3hFWIEIUEeyNsPXH_7wxzQ" name="SeverityType">
@@ -524,52 +536,6 @@
           </ownedLiteral>
           <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_3hFWJ0IUEeyNsPXH_7wxzQ" name="NOT_YET_DEFINED"/>
         </packagedElement>
-      </packagedElement>
-      <packagedElement xmi:type="uml:DataType" xmi:id="_T4FEUDEVEe65Hsbb_YAbjw" name="AlarmBehaviorType">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_T4FEUTEVEe65Hsbb_YAbjw" name="alarmTypeId" type="_2MqWUEITEeyNsPXH_7wxzQ" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_T4FEUjEVEe65Hsbb_YAbjw" annotatedElement="_T4FEUTEVEe65Hsbb_YAbjw">
-            <body>The alarm type identifier to match.</body>
-          </ownedComment>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_T4FEUzEVEe65Hsbb_YAbjw" name="alarmTypeQualifier" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_T4FEVDEVEe65Hsbb_YAbjw" annotatedElement="_T4FEUzEVEe65Hsbb_YAbjw">
-            <body>The optionally defined alarm type identifier for this possible alarm.</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_iuElEE2ZEe6Y1Z00eIU0NQ"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_iucYgE2ZEe6Y1Z00eIU0NQ" value="1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_T4FEVTEVEe65Hsbb_YAbjw" name="resource" type="_1foNEJk6EeyWhqcMzqRbAQ" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_T4FEVjEVEe65Hsbb_YAbjw" annotatedElement="_T4FEVTEVEe65Hsbb_YAbjw">
-            <body>xpath expression describing an individual resource or type of resource that is subject to the behavior configuration. If the configuration for a specific combination of alarmTypeId and alarmTypeQualifier would apply on all resources, the ControlConstruct would have to be referenced as resource.</body>
-          </ownedComment>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_T4FEVzEVEe65Hsbb_YAbjw" value="1"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_T4FEWDEVEe65Hsbb_YAbjw" value="1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_T4FEWTEVEe65Hsbb_YAbjw" name="behavior" type="_fT0u4DEVEe65Hsbb_YAbjw" isUnique="false">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_T4FEWjEVEe65Hsbb_YAbjw" annotatedElement="_T4FEWTEVEe65Hsbb_YAbjw">
-            <body>Defines the behavior of the device when the alarm gets raised or cleared.</body>
-          </ownedComment>
-          <defaultValue xmi:type="uml:InstanceValue" xmi:id="_zB1KkDEVEe65Hsbb_YAbjw" type="_fT0u4DEVEe65Hsbb_YAbjw" instance="_fT0u7jEVEe65Hsbb_YAbjw"/>
-        </ownedAttribute>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Enumeration" xmi:id="_fT0u4DEVEe65Hsbb_YAbjw" name="BehaviorType">
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_fT0u4jEVEe65Hsbb_YAbjw" name="FULLY_FUNCTIONAL">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_fT0u4zEVEe65Hsbb_YAbjw" annotatedElement="_fT0u4jEVEe65Hsbb_YAbjw">
-            <body>An entry is made into the list of current alarms and a notification gets sent, if such kind of alarm is raised or cleared.</body>
-          </ownedComment>
-        </ownedLiteral>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_fT0u5DEVEe65Hsbb_YAbjw" name="NOT_NOTIFIED">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_fT0u5TEVEe65Hsbb_YAbjw" annotatedElement="_fT0u5DEVEe65Hsbb_YAbjw">
-            <body>An entry is made into the list of current alarms, but no notification gets sent, if such kind of alarm is raised or cleared.</body>
-          </ownedComment>
-        </ownedLiteral>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_fT0u5jEVEe65Hsbb_YAbjw" name="DISABLED">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_fT0u5zEVEe65Hsbb_YAbjw" annotatedElement="_fT0u5jEVEe65Hsbb_YAbjw">
-            <body>Alarm gets neither listed in current alarms list nor notified.</body>
-          </ownedComment>
-        </ownedLiteral>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_fT0u7jEVEe65Hsbb_YAbjw" name="NOT_YET_DEFINED"/>
       </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_nzCdr19LEemkV8c3A5D8-A" name="ExplanatoryOnly">
@@ -635,9 +601,11 @@
       <appliedProfile xmi:type="uml:Profile" href="pathmap://PAPYRUS_ACTIONLANGUAGE_PROFILE/ActionLanguage-Profile.profile.uml#ActionLanguage"/>
     </profileApplication>
   </uml:Model>
-  <OpenModel_Profile:OpenModelStatement xmi:id="_i67NgCVJEemK9ptdIxz6GQ" base_Model="_Imk30GyUEee0HrHFgb9oqw" namespace="urn:onf:yang:alarms" organization="openBackhaul.com proposal to Open Networking Foundation (ONF)" description="This model defines a technology agnostic extension to the ONF Core IM. It is for managing alarms at all kinds of interfaces and equipment." copyright="Copyright 2023 openBackhaul.com" license="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#xD;&#xA;you may not use this file except in compliance with the License.&#xD;&#xA;You may obtain a copy of the License at&#xD;&#xA;&#xD;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xD;&#xA;&#xD;&#xA;Unless required by applicable law or agreed to in writing, software&#xD;&#xA;distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#xD;&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xD;&#xA;See the License for the specific language governing permissions and&#xD;&#xA;limitations under the License.">
+  <OpenModel_Profile:OpenModelStatement xmi:id="_i67NgCVJEemK9ptdIxz6GQ" base_Model="_Imk30GyUEee0HrHFgb9oqw" namespace="urn:onf:yang:alarms" organization="openBackhaul.com proposal to Open Networking Foundation (ONF)" description="This model defines a technology agnostic extension to the ONF Core IM. It is for managing alarms at all kinds of interfaces and equipment." copyright="Copyright 2024 openBackhaul.com" license="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#xD;&#xA;you may not use this file except in compliance with the License.&#xD;&#xA;You may obtain a copy of the License at&#xD;&#xA;&#xD;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xD;&#xA;&#xD;&#xA;Unless required by applicable law or agreed to in writing, software&#xD;&#xA;distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#xD;&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xD;&#xA;See the License for the specific language governing permissions and&#xD;&#xA;limitations under the License.">
     <contact xmi:type="OpenModel_Profile:Contact" xmi:id="_DqkpUKMnEemOU89mRgVhCg" projectWeb="https://github.com/openBackhaul/Overview" projectEmail="Alarms@openBackhaul.com" editorName="Thorsten Heinze" editorEmail="Thorsten.Heinze@openBackhaul.com"/>
-    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_zw8owKMnEemOU89mRgVhCg" date="2023-07-09" version="1.0.0-tsi.230709.1825" description="Model for the Transport SDN Introduction at Telefonica Germany." changeLog="https://github.com/openBackhaul/alarms/issues" reference="https://github.com/openBackhaul/alarms/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_lW24QLnhEe6ceLqSrXrW6Q" date="2024-01-22" version="1.0.0-tsi.240122.1310" description="Model for the Transport SDN Introduction at Telefonica Germany." changeLog="https://github.com/openBackhaul/alarms/issues" reference="https://github.com/openBackhaul/alarms/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_gXNPMJ6JEe6mk8bx4GJ20g" date="2024-01-02" version="1.0.0-tsi.240102.1710" description="Model for the Transport SDN Introduction at Telefonica Germany." changeLog="https://github.com/openBackhaul/alarms/issues" reference="https://github.com/openBackhaul/alarms/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_zw8owKMnEemOU89mRgVhCg" date="2023-10-05" version="1.0.0-tsi.231005.1630" description="Model for the Transport SDN Introduction at Telefonica Germany." changeLog="https://github.com/openBackhaul/alarms/issues" reference="https://github.com/openBackhaul/alarms/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
   </OpenModel_Profile:OpenModelStatement>
   <OpenModel_Profile:Obsolete xmi:id="_n3pQUF9LEemkV8c3A5D8-A" base_Element="_nzCdr19LEemkV8c3A5D8-A"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelClass xmi:id="_QHanAEE2EeyeFZE6vHB4TA" objectCreationNotification="NO" objectDeletionNotification="NO" base_Class="_QBC5QEE2EeyeFZE6vHB4TA"/>
@@ -728,15 +696,6 @@
   <OpenModel_Profile:OpenModelAttribute xmi:id="_rrvcsIqKEeytT9qmTMWfgg" base_StructuralFeature="_rrrLQIqKEeytT9qmTMWfgg" isInvariant="true"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_SnRnQI47EeyxOvdHSchglw" base_Property="_SlZ_AI47EeyxOvdHSchglw" attributeValueChangeNotification="YES"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_SnOj8I47EeyxOvdHSchglw" base_StructuralFeature="_SlZ_AI47EeyxOvdHSchglw"/>
-  <OpenModel_Profile:OpenModelNotification xmi:id="_wLpTHJAHEeyzUcpvPfllDQ" base_Signal="_wLnd8ZAHEeyzUcpvPfllDQ"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_wLp6IJAHEeyzUcpvPfllDQ" base_Property="_wLnd85AHEeyzUcpvPfllDQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_wLp6IZAHEeyzUcpvPfllDQ" base_StructuralFeature="_wLnd85AHEeyzUcpvPfllDQ" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_wLp6IpAHEeyzUcpvPfllDQ" base_Property="_wLnd9pAHEeyzUcpvPfllDQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_wLp6I5AHEeyzUcpvPfllDQ" base_StructuralFeature="_wLnd9pAHEeyzUcpvPfllDQ" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_wLqhMJAHEeyzUcpvPfllDQ" base_Property="_wLnd-ZAHEeyzUcpvPfllDQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_wLqhMZAHEeyzUcpvPfllDQ" base_StructuralFeature="_wLnd-ZAHEeyzUcpvPfllDQ" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_wLqhMpAHEeyzUcpvPfllDQ" base_Property="_wLnd_JAHEeyzUcpvPfllDQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_wLqhM5AHEeyzUcpvPfllDQ" base_StructuralFeature="_wLnd_JAHEeyzUcpvPfllDQ" isInvariant="true"/>
   <OpenModel_Profile:OpenModelNotification xmi:id="_wLqhNJAHEeyzUcpvPfllDQ" base_Signal="_wLneAZAHEeyzUcpvPfllDQ"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_b05m8pAIEeyzUcpvPfllDQ" base_Property="_b05m8JAIEeyzUcpvPfllDQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_b06OAJAIEeyzUcpvPfllDQ" base_StructuralFeature="_b05m8JAIEeyzUcpvPfllDQ" partOfObjectKey="1" isInvariant="true" unsigned="true"/>
@@ -761,8 +720,6 @@
   <OpenModel_Profile:OpenModelAttribute xmi:id="_TnRFIIM5EeyKR7QSbmaikg" base_StructuralFeature="_TnKXeoM5EeyKR7QSbmaikg" isInvariant="true"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_TnRFI4M5EeyKR7QSbmaikg" base_Property="_TnKXfYM5EeyKR7QSbmaikg" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_TnRFIoM5EeyKR7QSbmaikg" base_StructuralFeature="_TnKXfYM5EeyKR7QSbmaikg" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_ymqcYJWLEeyXJvNPAB0Mdg" base_Property="_ymp1UJWLEeyXJvNPAB0Mdg" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_ymrDcJWLEeyXJvNPAB0Mdg" base_StructuralFeature="_ymp1UJWLEeyXJvNPAB0Mdg" partOfObjectKey="1" isInvariant="true"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_8aPc8JZUEeyUYvIdTYRi7g" base_Property="_8aO14JZUEeyUYvIdTYRi7g" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_8aPc8ZZUEeyUYvIdTYRi7g" base_StructuralFeature="_8aO14JZUEeyUYvIdTYRi7g" isInvariant="true"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_jSSEkpZVEeyUYvIdTYRi7g" base_Property="_jSSEkJZVEeyUYvIdTYRi7g" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:css="http://www.eclipse.org/papyrus/infra/gmfdiag/css" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
   <css:ModelStyleSheets xmi:id="_NiLtUHBREee5JrMEVVqNzQ">
-    <stylesheets xmi:type="css:StyleSheetReference" xmi:id="_q_SdkKFkEe27l-OTbHWFZg" path="/EthernetContainerFd_1.0.0-tsp.d.t/UmlProfiles/ClassDiagramStyleSheet.css"/>
+    <stylesheets xmi:type="css:StyleSheetReference" xmi:id="_q_SdkKFkEe27l-OTbHWFZg" path="/EthernetContainerFd_1.0.0-tsi.d.t/UmlProfiles/ClassDiagramStyleSheet.css"/>
   </css:ModelStyleSheets>
   <notation:Diagram xmi:id="_1eP-wFE7Eembl8KFq0LDlA" type="PapyrusUMLClassDiagram" name="EthernetContainerFD" measurementUnit="Pixel">
     <children xmi:type="notation:Shape" xmi:id="_2fwfEFE7Eembl8KFq0LDlA" type="Class_Shape">
@@ -518,14 +518,6 @@
       <element xsi:nil="true"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lUXt4qF_Ee2nStKExY1YoA" x="-911" y="54"/>
     </children>
-    <children xmi:type="notation:Shape" xmi:id="_MkO_oKGAEe2nStKExY1YoA" type="StereotypeComment">
-      <styles xmi:type="notation:TitleStyle" xmi:id="_MkO_oaGAEe2nStKExY1YoA"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_MkO_o6GAEe2nStKExY1YoA" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Abstraction" href="EthernetContainerFd.uml#_AwE1EKGAEe2nStKExY1YoA"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MkO_oqGAEe2nStKExY1YoA" x="-911" y="782"/>
-    </children>
     <children xmi:type="notation:Shape" xmi:id="_4TtTcKGEEe2O0o2u2PqCTA" type="Enumeration_Shape">
       <children xmi:type="notation:DecorationNode" xmi:id="_4TvvsKGEEe2O0o2u2PqCTA" type="Enumeration_NameLabel"/>
       <children xmi:type="notation:DecorationNode" xmi:id="_4TvvsaGEEe2O0o2u2PqCTA" type="Enumeration_FloatingNameLabel">
@@ -952,6 +944,14 @@
       <element xsi:nil="true"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DY55QqIUEe2O0o2u2PqCTA" x="-24" y="575"/>
     </children>
+    <children xmi:type="notation:Shape" xmi:id="_f-BBcGNUEe6bxeCPb_MuUg" type="StereotypeComment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_f-BBcWNUEe6bxeCPb_MuUg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_f-BogGNUEe6bxeCPb_MuUg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Abstraction" href="EthernetContainerFd.uml#_aIxsYGNUEe6bxeCPb_MuUg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_f-BBcmNUEe6bxeCPb_MuUg" x="-911" y="431"/>
+    </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_1eP-wVE7Eembl8KFq0LDlA" name="diagram_compatibility_version" stringValue="1.2.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_1eP-wlE7Eembl8KFq0LDlA"/>
     <styles xmi:type="style:PapyrusViewStyle" xmi:id="_1eP-w1E7Eembl8KFq0LDlA">
@@ -1292,37 +1292,6 @@
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lUYU86F_Ee2nStKExY1YoA"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lUYU9KF_Ee2nStKExY1YoA"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_AwGqQKGAEe2nStKExY1YoA" type="Abstraction_Edge" source="_ve4AoLUwEemP0vs_3-grtw" target="_LY0K0KF_Ee2nStKExY1YoA">
-      <children xmi:type="notation:DecorationNode" xmi:id="_AwGqQ6GAEe2nStKExY1YoA" type="Abstraction_NameLabel">
-        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Ji_KQKGCEe2nStKExY1YoA" source="PapyrusCSSForceValue">
-          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Ji_xUKGCEe2nStKExY1YoA" key="visible" value="true"/>
-        </eAnnotations>
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_9budgKGBEe2nStKExY1YoA" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_AwGqRKGAEe2nStKExY1YoA" y="39"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_AwGqRaGAEe2nStKExY1YoA" type="Abstraction_StereotypeLabel">
-        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_Ji_xUaGCEe2nStKExY1YoA" source="PapyrusCSSForceValue">
-          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_Ji_xUqGCEe2nStKExY1YoA" key="visible" value="true"/>
-        </eAnnotations>
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_9cD0sKGBEe2nStKExY1YoA" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_AwGqRqGAEe2nStKExY1YoA" x="3" y="7"/>
-      </children>
-      <styles xmi:type="notation:FontStyle" xmi:id="_AwGqQaGAEe2nStKExY1YoA"/>
-      <element xmi:type="uml:Abstraction" href="EthernetContainerFd.uml#_AwE1EKGAEe2nStKExY1YoA"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_AwGqQqGAEe2nStKExY1YoA" points="[-987, 619, -643984, -643984]$[-609, 352, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_AxS9EKGAEe2nStKExY1YoA" id="(0.12903225806451613,0.0)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_AxS9EaGAEe2nStKExY1YoA" id="(0.16260162601626016,1.0)"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_MkO_pKGAEe2nStKExY1YoA" type="StereotypeCommentLink" source="_AwGqQKGAEe2nStKExY1YoA" target="_MkO_oKGAEe2nStKExY1YoA">
-      <styles xmi:type="notation:FontStyle" xmi:id="_MkO_paGAEe2nStKExY1YoA"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_MkO_qaGAEe2nStKExY1YoA" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Abstraction" href="EthernetContainerFd.uml#_AwE1EKGAEe2nStKExY1YoA"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_MkO_pqGAEe2nStKExY1YoA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MkO_p6GAEe2nStKExY1YoA"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_MkO_qKGAEe2nStKExY1YoA"/>
-    </edges>
     <edges xmi:type="notation:Connector" xmi:id="_erR3kKIPEe2O0o2u2PqCTA" type="Usage_Edge" source="_3G5-oFE7Eembl8KFq0LDlA" target="_4c1aQKGEEe2O0o2u2PqCTA">
       <children xmi:type="notation:DecorationNode" xmi:id="_erSeoKIPEe2O0o2u2PqCTA" visible="false" type="Usage_NameLabel">
         <styles xmi:type="notation:BooleanValueStyle" xmi:id="_398q8LzEEe2Lppzv6HcA3Q" name="IS_UPDATED_POSITION" booleanValue="true"/>
@@ -1656,6 +1625,29 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DY55RqIUEe2O0o2u2PqCTA" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DY55R6IUEe2O0o2u2PqCTA"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DY55SKIUEe2O0o2u2PqCTA"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_aI2k4GNUEe6bxeCPb_MuUg" type="Abstraction_Edge" source="_ve4AoLUwEemP0vs_3-grtw" target="_LY0K0KF_Ee2nStKExY1YoA">
+      <children xmi:type="notation:DecorationNode" xmi:id="_aI5BIGNUEe6bxeCPb_MuUg" type="Abstraction_NameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aI5BIWNUEe6bxeCPb_MuUg" y="40"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_aI5oMGNUEe6bxeCPb_MuUg" type="Abstraction_StereotypeLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aI5oMWNUEe6bxeCPb_MuUg" x="-1" y="27"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_aI2k4WNUEe6bxeCPb_MuUg"/>
+      <element xmi:type="uml:Abstraction" href="EthernetContainerFd.uml#_aIxsYGNUEe6bxeCPb_MuUg"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aI2k4mNUEe6bxeCPb_MuUg" points="[-1072, 530, -643984, -643984]$[-1068, 277, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aK6aYGNUEe6bxeCPb_MuUg" id="(0.25161290322580643,0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aK6aYWNUEe6bxeCPb_MuUg" id="(0.3333333333333333,0.99)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_f-CPkGNUEe6bxeCPb_MuUg" type="StereotypeCommentLink" source="_aI2k4GNUEe6bxeCPb_MuUg" target="_f-BBcGNUEe6bxeCPb_MuUg">
+      <styles xmi:type="notation:FontStyle" xmi:id="_f-CPkWNUEe6bxeCPb_MuUg"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_f-CPlWNUEe6bxeCPb_MuUg" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Abstraction" href="EthernetContainerFd.uml#_aIxsYGNUEe6bxeCPb_MuUg"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_f-CPkmNUEe6bxeCPb_MuUg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_f-CPk2NUEe6bxeCPb_MuUg"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_f-CPlGNUEe6bxeCPb_MuUg"/>
     </edges>
   </notation:Diagram>
 </xmi:XMI>

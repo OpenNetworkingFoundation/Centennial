@@ -28,7 +28,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2f0JdFE7Eembl8KFq0LDlA"/>
       </children>
       <element xmi:type="uml:Class" href="VlanFd.uml#_eTT-olE6Eembl8KFq0LDlA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2fwfEVE7Eembl8KFq0LDlA" x="-1111" y="1083"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_2fwfEVE7Eembl8KFq0LDlA" x="-1154" y="720"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_2gBk0FE7Eembl8KFq0LDlA" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_2gBk0VE7Eembl8KFq0LDlA"/>
@@ -44,69 +44,73 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_25iRAVE7Eembl8KFq0LDlA" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_25iRAlE7Eembl8KFq0LDlA" type="Class_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_xq0JAFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_ZtQLZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_7AmrgLU9EemsfcwHLUCxfw"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq0JAVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_ZtQbZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq2lQFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_aUULZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWP73QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq2lQVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_aUUbZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq3MUFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_a7YLZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWTr3QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq3MUVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_a7YbZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq3MUlaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_a7YrZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWUb3QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq3MU1aFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_a7Y7ZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq3zYFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_a7ZLZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="VlanFd.uml#_UJZFILZaEey_AK7_2vgpMw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_a7ZbZbEey_AK7_2vgpMw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_v_a7ZrZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWVL3QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq3zYVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_a7Z7ZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq4acFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_bicLZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWV73QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq4acVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_bicbZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq5BgFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_bicrZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWWr3QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq5BgVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_bic7ZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq5okFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_bidLZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWXb3QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq5okVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_bidbZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq6PoFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_bidrZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWYL3QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq6PoVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_bid7ZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq62sFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_cJgLZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWY73QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq62sVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_cJgbZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq7dwFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_cJgrZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_At3G373lEemj8sLhiejUhA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq7dwVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_cJg7ZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq9S8FaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_cwkLZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_At3G4b3lEemj8sLhiejUhA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq96AFaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_cwkbZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq96AVaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_dXoLZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_At3G473lEemj8sLhiejUhA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq96AlaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_dXobZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq-hEFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_dXorZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_At3G5b3lEemj8sLhiejUhA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq-hEVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_dXo7ZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xq_IIFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_d-sLZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_At3G573lEemj8sLhiejUhA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xq_IIVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_d-sbZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_xrAWQFaFEeuF0cSLQjooPw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_d-srZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_apSuIFaFEeuF0cSLQjooPw"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_xrAWQVaFEeuF0cSLQjooPw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_d-s7ZbEey_AK7_2vgpMw"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_25iRA1E7Eembl8KFq0LDlA"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_25iRBFE7Eembl8KFq0LDlA"/>
@@ -126,7 +130,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_25i4GVE7Eembl8KFq0LDlA"/>
       </children>
       <element xmi:type="uml:Class" href="VlanFd.uml#_eTT-qVE6Eembl8KFq0LDlA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_25hC4VE7Eembl8KFq0LDlA" x="-848" y="731"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_25hC4VE7Eembl8KFq0LDlA" x="-891" y="368"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_253oM1E7Eembl8KFq0LDlA" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_253oNFE7Eembl8KFq0LDlA"/>
@@ -142,25 +146,25 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_3G7MwVE7Eembl8KFq0LDlA" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_3G7MwlE7Eembl8KFq0LDlA" type="Class_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_UJS7gO3wEeqXjOUAriI3cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_elwLZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWPb3QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UJS7ge3wEeqXjOUAriI3cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_elwbZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UJUJoO3wEeqXjOUAriI3cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_elwrZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWQb3QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UJUJoe3wEeqXjOUAriI3cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_elw7ZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UJUwsO3wEeqXjOUAriI3cA" type="Property_ClassAttributeLabel">
-          <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWQ73QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UJUwse3wEeqXjOUAriI3cA"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_UJVXwO3wEeqXjOUAriI3cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_fM0LZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWRb3QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UJVXwe3wEeqXjOUAriI3cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_fM0bZbEey_AK7_2vgpMw"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UJV-0O3wEeqXjOUAriI3cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_v_fM0rZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_UCFWwb3QEemm_Yk7AwSxsg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UJV-0e3wEeqXjOUAriI3cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_fM07ZbEey_AK7_2vgpMw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_v_fM1LZbEey_AK7_2vgpMw" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="VlanFd.uml#_YnZFALZbEey_AK7_2vgpMw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_v_fM1bZbEey_AK7_2vgpMw"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_3G7Mw1E7Eembl8KFq0LDlA"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_3G7MxFE7Eembl8KFq0LDlA"/>
@@ -180,7 +184,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3G7M0FE7Eembl8KFq0LDlA"/>
       </children>
       <element xmi:type="uml:Class" href="VlanFd.uml#_eTT-v1E6Eembl8KFq0LDlA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3G6lsFE7Eembl8KFq0LDlA" x="-848" y="1078"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3G6lsFE7Eembl8KFq0LDlA" x="-891" y="723"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_3HM5kFE7Eembl8KFq0LDlA" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_3HM5kVE7Eembl8KFq0LDlA"/>
@@ -196,10 +200,6 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_3edjAlE7Eembl8KFq0LDlA" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_3edjA1E7Eembl8KFq0LDlA" type="Class_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_UJaQQO3wEeqXjOUAriI3cA" type="Property_ClassAttributeLabel">
-          <element xmi:type="uml:Property" href="VlanFd.uml#_Qs928NYoEeqNpv1_grrMnA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UJaQQe3wEeqXjOUAriI3cA"/>
-        </children>
         <children xmi:type="notation:Shape" xmi:id="_UJa3UO3wEeqXjOUAriI3cA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="VlanFd.uml#_iawe8L6EEemj8sLhiejUhA"/>
           <layoutConstraint xmi:type="notation:Location" xmi:id="_UJa3Ue3wEeqXjOUAriI3cA"/>
@@ -234,7 +234,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3eeKGVE7Eembl8KFq0LDlA"/>
       </children>
       <element xmi:type="uml:Class" href="VlanFd.uml#_eTT-11E6Eembl8KFq0LDlA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3ebt0VE7Eembl8KFq0LDlA" x="-848" y="1263"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3ebt0VE7Eembl8KFq0LDlA" x="-891" y="900"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_3eszkFE7Eembl8KFq0LDlA" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_3eszkVE7Eembl8KFq0LDlA"/>
@@ -292,7 +292,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MzlcyVFYEembl8KFq0LDlA"/>
       </children>
       <element xmi:type="uml:Enumeration" href="VlanFd.uml#_nxTlQFFJEembl8KFq0LDlA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MzlcwVFYEembl8KFq0LDlA" x="-206" y="1215"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MzlcwVFYEembl8KFq0LDlA" x="-249" y="852"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_8tCho1RlEem5ec_9KiA7Yg" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_8tChpFRlEem5ec_9KiA7Yg"/>
@@ -326,7 +326,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ve7D97UwEemP0vs_3-grtw"/>
       </children>
       <element xmi:type="uml:Class" href="VlanFd.uml#_odj6ALUwEemP0vs_3-grtw"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ve4AobUwEemP0vs_3-grtw" x="-1111" y="882"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ve4AobUwEemP0vs_3-grtw" x="-1154" y="519"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_vfLioLUwEemP0vs_3-grtw" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_vfLiobUwEemP0vs_3-grtw"/>
@@ -340,7 +340,7 @@
       <children xmi:type="notation:DecorationNode" xmi:id="_STxtgrUyEemWW757xUxUvA" type="Constraint_NameLabel"/>
       <children xmi:type="notation:DecorationNode" xmi:id="_STxtg7UyEemWW757xUxUvA" type="Constraint_BodyLabel"/>
       <element xmi:type="uml:Constraint" href="VlanFd.uml#_STsN8LUyEemWW757xUxUvA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_STxtgbUyEemWW757xUxUvA" x="-1068" y="647"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_STxtgbUyEemWW757xUxUvA" x="-1111" y="284"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_lB5AMLU3EemsfcwHLUCxfw" type="Enumeration_Shape" fillColor="14538691">
       <children xmi:type="notation:DecorationNode" xmi:id="_lB5AMrU3EemsfcwHLUCxfw" type="Enumeration_NameLabel"/>
@@ -374,7 +374,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lB5AObU3EemsfcwHLUCxfw"/>
       </children>
       <element xmi:type="uml:Enumeration" href="VlanFd.uml#_EqKB0LUzEemWW757xUxUvA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lB5AMbU3EemsfcwHLUCxfw" x="-207" y="826"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_lB5AMbU3EemsfcwHLUCxfw" x="-250" y="410"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_HRbwMLj9EemsfcwHLUCxfw" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_HRbwMbj9EemsfcwHLUCxfw"/>
@@ -428,7 +428,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wIPPt76REemj8sLhiejUhA"/>
       </children>
       <element xmi:type="uml:Enumeration" href="VlanFd.uml#_xA6g8L6NEemj8sLhiejUhA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wIOoob6REemj8sLhiejUhA" x="271" y="935"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wIOoob6REemj8sLhiejUhA" x="228" y="465"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_wK3F4L6REemj8sLhiejUhA" type="DataType_Shape">
       <children xmi:type="notation:DecorationNode" xmi:id="_wK3F4r6REemj8sLhiejUhA" type="DataType_NameLabel"/>
@@ -472,7 +472,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wK3F7r6REemj8sLhiejUhA"/>
       </children>
       <element xmi:type="uml:DataType" href="VlanFd.uml#_gthOIL6REemj8sLhiejUhA"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wK3F4b6REemj8sLhiejUhA" x="-206" y="1030"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_wK3F4b6REemj8sLhiejUhA" x="-249" y="560"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_P32D8L6xEemj8sLhiejUhA" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_P32D8b6xEemj8sLhiejUhA"/>
@@ -497,108 +497,6 @@
       </styles>
       <element xsi:nil="true"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VKLhIsKfEemvQeH3vILmhQ" x="375" y="201"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_BPa-EOCgEeqMCqOBPciD4g" type="Signal_Shape">
-      <children xmi:type="notation:DecorationNode" xmi:id="_BPblIOCgEeqMCqOBPciD4g" type="Signal_NameLabel"/>
-      <children xmi:type="notation:DecorationNode" xmi:id="_BPblIeCgEeqMCqOBPciD4g" type="Signal_FloatingNameLabel">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_BPblIuCgEeqMCqOBPciD4g" y="5"/>
-      </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_BPblI-CgEeqMCqOBPciD4g" type="Signal_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_05kJwOChEeqMCqOBPciD4g" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="VlanFd.uml#_54DZ0eCdEeqMCqOBPciD4g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_05kJweChEeqMCqOBPciD4g"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_05lX4OChEeqMCqOBPciD4g" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="VlanFd.uml#_54DZ1OCdEeqMCqOBPciD4g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_05lX4eChEeqMCqOBPciD4g"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_05mmAOChEeqMCqOBPciD4g" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="VlanFd.uml#_54DZ1-CdEeqMCqOBPciD4g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_05mmAeChEeqMCqOBPciD4g"/>
-        </children>
-        <styles xmi:type="notation:TitleStyle" xmi:id="_BPblJOCgEeqMCqOBPciD4g"/>
-        <styles xmi:type="notation:SortingStyle" xmi:id="_BPblJeCgEeqMCqOBPciD4g"/>
-        <styles xmi:type="notation:FilteringStyle" xmi:id="_BPblJuCgEeqMCqOBPciD4g"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BPblJ-CgEeqMCqOBPciD4g"/>
-      </children>
-      <element xmi:type="uml:Signal" href="VlanFd.uml#_54DZ0OCdEeqMCqOBPciD4g"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BPa-EeCgEeqMCqOBPciD4g" x="-709" y="82"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_BP77cOCgEeqMCqOBPciD4g" type="StereotypeComment">
-      <styles xmi:type="notation:TitleStyle" xmi:id="_BP77ceCgEeqMCqOBPciD4g"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_BP77c-CgEeqMCqOBPciD4g" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="VlanFd.uml#_54DZ0OCdEeqMCqOBPciD4g"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BP77cuCgEeqMCqOBPciD4g" x="200"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_BSPBgOCgEeqMCqOBPciD4g" type="Signal_Shape">
-      <children xmi:type="notation:DecorationNode" xmi:id="_BSPBguCgEeqMCqOBPciD4g" type="Signal_NameLabel"/>
-      <children xmi:type="notation:DecorationNode" xmi:id="_BSPBg-CgEeqMCqOBPciD4g" type="Signal_FloatingNameLabel">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_BSPBhOCgEeqMCqOBPciD4g" y="5"/>
-      </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_BSPokOCgEeqMCqOBPciD4g" type="Signal_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_05n0IOChEeqMCqOBPciD4g" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="VlanFd.uml#_54HrQeCdEeqMCqOBPciD4g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_05n0IeChEeqMCqOBPciD4g"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_05tTsOChEeqMCqOBPciD4g" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="VlanFd.uml#_54HrROCdEeqMCqOBPciD4g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_05tTseChEeqMCqOBPciD4g"/>
-        </children>
-        <styles xmi:type="notation:TitleStyle" xmi:id="_BSPokeCgEeqMCqOBPciD4g"/>
-        <styles xmi:type="notation:SortingStyle" xmi:id="_BSPokuCgEeqMCqOBPciD4g"/>
-        <styles xmi:type="notation:FilteringStyle" xmi:id="_BSPok-CgEeqMCqOBPciD4g"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BSPolOCgEeqMCqOBPciD4g"/>
-      </children>
-      <element xmi:type="uml:Signal" href="VlanFd.uml#_54HrQOCdEeqMCqOBPciD4g"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BSPBgeCgEeqMCqOBPciD4g" x="-672" y="185"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_BScc4-CgEeqMCqOBPciD4g" type="StereotypeComment">
-      <styles xmi:type="notation:TitleStyle" xmi:id="_BScc5OCgEeqMCqOBPciD4g"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_BScc5uCgEeqMCqOBPciD4g" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="VlanFd.uml#_54HrQOCdEeqMCqOBPciD4g"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BScc5eCgEeqMCqOBPciD4g" x="200"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_BVIkgOCgEeqMCqOBPciD4g" type="Signal_Shape">
-      <children xmi:type="notation:DecorationNode" xmi:id="_BVIkguCgEeqMCqOBPciD4g" type="Signal_NameLabel"/>
-      <children xmi:type="notation:DecorationNode" xmi:id="_BVIkg-CgEeqMCqOBPciD4g" type="Signal_FloatingNameLabel">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_BVIkhOCgEeqMCqOBPciD4g" y="5"/>
-      </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_BVIkheCgEeqMCqOBPciD4g" type="Signal_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_05t6wOChEeqMCqOBPciD4g" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="VlanFd.uml#_54KHguCdEeqMCqOBPciD4g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_05t6weChEeqMCqOBPciD4g"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_05vI4OChEeqMCqOBPciD4g" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="VlanFd.uml#_54KHheCdEeqMCqOBPciD4g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_05vI4eChEeqMCqOBPciD4g"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_05vv8OChEeqMCqOBPciD4g" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="VlanFd.uml#_54KHiOCdEeqMCqOBPciD4g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_05vv8eChEeqMCqOBPciD4g"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_05wXAOChEeqMCqOBPciD4g" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="VlanFd.uml#_54KHi-CdEeqMCqOBPciD4g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_05wXAeChEeqMCqOBPciD4g"/>
-        </children>
-        <styles xmi:type="notation:TitleStyle" xmi:id="_BVIkhuCgEeqMCqOBPciD4g"/>
-        <styles xmi:type="notation:SortingStyle" xmi:id="_BVIkh-CgEeqMCqOBPciD4g"/>
-        <styles xmi:type="notation:FilteringStyle" xmi:id="_BVIkiOCgEeqMCqOBPciD4g"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BVIkieCgEeqMCqOBPciD4g"/>
-      </children>
-      <element xmi:type="uml:Signal" href="VlanFd.uml#_54KHgOCdEeqMCqOBPciD4g"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BVIkgeCgEeqMCqOBPciD4g" x="-630" y="289"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_BVUxwOCgEeqMCqOBPciD4g" type="StereotypeComment">
-      <styles xmi:type="notation:TitleStyle" xmi:id="_BVUxweCgEeqMCqOBPciD4g"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_BVUxw-CgEeqMCqOBPciD4g" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="VlanFd.uml#_54KHgOCdEeqMCqOBPciD4g"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BVUxwuCgEeqMCqOBPciD4g" x="200"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_-bsjoO4QEeqXjOUAriI3cA" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_-bsjoe4QEeqXjOUAriI3cA"/>
@@ -632,7 +530,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kr5XLk9PEeu4GJb1lHwHqg"/>
       </children>
       <element xmi:type="uml:Class" href="platform:/resource/OnfModel/CoreModel.uml#_oGqnr1LNEeO75dO39GbF8Q"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kr4JAU9PEeu4GJb1lHwHqg" x="-1111" y="348"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kr4JAU9PEeu4GJb1lHwHqg" x="-1154" y="-15"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_KsGygE9PEeu4GJb1lHwHqg" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_KsGygU9PEeu4GJb1lHwHqg"/>
@@ -666,7 +564,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L2DdME9PEeu4GJb1lHwHqg"/>
       </children>
       <element xmi:type="uml:Class" href="platform:/resource/OnfModel/CoreModel.uml#_oGql-FLNEeO75dO39GbF8Q"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L2C2EU9PEeu4GJb1lHwHqg" x="-1111" y="525"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_L2C2EU9PEeu4GJb1lHwHqg" x="-1154" y="162"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_L2NOI09PEeu4GJb1lHwHqg" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_L2NOJE9PEeu4GJb1lHwHqg"/>
@@ -700,7 +598,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MxZrI09PEeu4GJb1lHwHqg"/>
       </children>
       <element xmi:type="uml:Class" href="platform:/resource/OnfModel/CoreModel.uml#_eEpDMFX4EeOVGaP4lO41SQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MxZrEU9PEeu4GJb1lHwHqg" x="-817" y="525"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_MxZrEU9PEeu4GJb1lHwHqg" x="-860" y="162"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_Mxi1A09PEeu4GJb1lHwHqg" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_Mxi1BE9PEeu4GJb1lHwHqg"/>
@@ -742,7 +640,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Rrw21E9QEeu4GJb1lHwHqg"/>
       </children>
       <element xmi:type="uml:Enumeration" href="platform:/resource/OnfModel/CoreModel.uml#_MbUkMIQ4EeiXzpgfQWpR-Q"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RrwPwU9QEeu4GJb1lHwHqg" x="-1111" y="-11"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RrwPwU9QEeu4GJb1lHwHqg" x="107" y="-14"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_Rr6n009QEeu4GJb1lHwHqg" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_Rr6n1E9QEeu4GJb1lHwHqg"/>
@@ -780,7 +678,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6an2KU9QEeu4GJb1lHwHqg"/>
       </children>
       <element xmi:type="uml:Enumeration" href="VlanFd.uml#_tgds0E9QEeu4GJb1lHwHqg"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6an2IU9QEeu4GJb1lHwHqg" x="-1111" y="154"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6an2IU9QEeu4GJb1lHwHqg" x="107" y="151"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_6a9NU09QEeu4GJb1lHwHqg" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_6a9NVE9QEeu4GJb1lHwHqg"/>
@@ -830,7 +728,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XcOjrlVxEeuU0OPNoXYe3w"/>
       </children>
       <element xmi:type="uml:Interface" href="VlanFd.uml#_XSjqQFVxEeuU0OPNoXYe3w"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XcKSMVVxEeuU0OPNoXYe3w" x="-247" y="-12"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XcKSMVVxEeuU0OPNoXYe3w" x="-904" y="-15"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_Xcqog1VxEeuU0OPNoXYe3w" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_XcqohFVxEeuU0OPNoXYe3w"/>
@@ -839,6 +737,42 @@
       </styles>
       <element xsi:nil="true"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XcqohVVxEeuU0OPNoXYe3w" x="200"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_OLr7ILZbEey_AK7_2vgpMw" type="DataType_Shape">
+      <children xmi:type="notation:DecorationNode" xmi:id="_OLr7IrZbEey_AK7_2vgpMw" type="DataType_NameLabel"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_OLr7I7ZbEey_AK7_2vgpMw" type="DataType_FloatingNameLabel">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_OLr7JLZbEey_AK7_2vgpMw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_OLr7JbZbEey_AK7_2vgpMw" type="DataType_AttributeCompartment">
+        <children xmi:type="notation:Shape" xmi:id="_PsN5wLZbEey_AK7_2vgpMw" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="VlanFd.uml#_BzvuErZbEey_AK7_2vgpMw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_PsN5wbZbEey_AK7_2vgpMw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_PsPH4LZbEey_AK7_2vgpMw" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="VlanFd.uml#_BzvuFLZbEey_AK7_2vgpMw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_PsPH4bZbEey_AK7_2vgpMw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_OLr7JrZbEey_AK7_2vgpMw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_OLr7J7ZbEey_AK7_2vgpMw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_OLr7KLZbEey_AK7_2vgpMw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OLr7KbZbEey_AK7_2vgpMw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_OLr7KrZbEey_AK7_2vgpMw" type="DataType_OperationCompartment">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_OLr7K7ZbEey_AK7_2vgpMw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_OLr7LLZbEey_AK7_2vgpMw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_OLr7LbZbEey_AK7_2vgpMw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OLr7LrZbEey_AK7_2vgpMw"/>
+      </children>
+      <element xmi:type="uml:DataType" href="VlanFd.uml#_BzvuELZbEey_AK7_2vgpMw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_OLr7IbZbEey_AK7_2vgpMw" x="-250" y="737"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_BNNdELZcEey_AK7_2vgpMw" type="StereotypeComment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_BNNdEbZcEey_AK7_2vgpMw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_BNNdE7ZcEey_AK7_2vgpMw" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Usage" href="VlanFd.uml#_67Q94LZbEey_AK7_2vgpMw"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BNNdErZcEey_AK7_2vgpMw" x="-648" y="986"/>
     </children>
     <styles xmi:type="notation:StringValueStyle" xmi:id="_1eP-wVE7Eembl8KFq0LDlA" name="diagram_compatibility_version" stringValue="1.2.0"/>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_1eP-wlE7Eembl8KFq0LDlA"/>
@@ -919,7 +853,7 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_6j5C4VE7Eembl8KFq0LDlA"/>
       <element xmi:type="uml:Association" href="VlanFd.uml#_eTEuEVE6Eembl8KFq0LDlA"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6j5C4lE7Eembl8KFq0LDlA" points="[-86, 151, -643984, -643984]$[107, -21, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6j5C4lE7Eembl8KFq0LDlA" points="[-118, -121, -643984, -643984]$[75, -293, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="__l150FE7Eembl8KFq0LDlA" id="(1.0,0.33)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="__l2g4FE7Eembl8KFq0LDlA" id="(0.0,0.12091503267973856)"/>
     </edges>
@@ -956,9 +890,9 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_6k0P8VE7Eembl8KFq0LDlA"/>
       <element xmi:type="uml:Association" href="VlanFd.uml#_eTEuFVE6Eembl8KFq0LDlA"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6k0P8lE7Eembl8KFq0LDlA" points="[-85, 185, -643984, -643984]$[172, 112, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6k0P8lE7Eembl8KFq0LDlA" points="[-117, -87, -643984, -643984]$[140, -160, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_AK7j4FE8Eembl8KFq0LDlA" id="(1.0,0.37)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_AK7j4VE8Eembl8KFq0LDlA" id="(0.0,0.0273972602739726)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_AK7j4VE8Eembl8KFq0LDlA" id="(0.0,0.006172839506172839)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_6lvdAFE7Eembl8KFq0LDlA" type="Association_Edge" source="_2fwfEFE7Eembl8KFq0LDlA" target="_3ebt0FE7Eembl8KFq0LDlA">
       <children xmi:type="notation:DecorationNode" xmi:id="_6lwEEFE7Eembl8KFq0LDlA" visible="false" type="Association_StereotypeLabel">
@@ -989,11 +923,11 @@
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SNlXwLz6EemxAM_DWydfXQ" key="visible" value="true"/>
         </eAnnotations>
         <styles xmi:type="notation:BooleanValueStyle" xmi:id="_-vKJcFE7Eembl8KFq0LDlA" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_6lwrKVE7Eembl8KFq0LDlA" x="-23" y="-13"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_6lwrKVE7Eembl8KFq0LDlA" x="-34" y="-9"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_6lvdAVE7Eembl8KFq0LDlA"/>
       <element xmi:type="uml:Association" href="VlanFd.uml#_eTEuGVE6Eembl8KFq0LDlA"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6lvdAlE7Eembl8KFq0LDlA" points="[-85, 205, -643984, -643984]$[208, 226, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6lvdAlE7Eembl8KFq0LDlA" points="[-117, -67, -643984, -643984]$[176, -46, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BP8EIFE8Eembl8KFq0LDlA" id="(1.0,0.35)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BP8EIVE8Eembl8KFq0LDlA" id="(0.0,0.0)"/>
     </edges>
@@ -1008,7 +942,7 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_Og42oVFZEembl8KFq0LDlA"/>
       <element xmi:type="uml:Usage" href="VlanFd.uml#_Og0lMFFZEembl8KFq0LDlA"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Og42olFZEembl8KFq0LDlA" points="[338, 1247, -643984, -643984]$[624, 1008, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Og42olFZEembl8KFq0LDlA" points="[306, 975, -643984, -643984]$[592, 736, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_OivQwFFZEembl8KFq0LDlA" id="(1.0,0.1643835616438356)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_OivQwVFZEembl8KFq0LDlA" id="(0.0,0.15897435897435896)"/>
     </edges>
@@ -1059,7 +993,7 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_zDNDAbUwEemP0vs_3-grtw"/>
       <element xmi:type="uml:Association" href="VlanFd.uml#_zAJvALUwEemP0vs_3-grtw"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zDNDArUwEemP0vs_3-grtw" points="[-207, 1027, -643984, -643984]$[-207, 1131, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_zDNDArUwEemP0vs_3-grtw" points="[-239, 755, -643984, -643984]$[-239, 859, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zIXP0LUwEemP0vs_3-grtw" id="(0.21,1.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_zIXP0bUwEemP0vs_3-grtw" id="(0.21,0.0)"/>
     </edges>
@@ -1070,7 +1004,7 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_S4pVIbUyEemWW757xUxUvA"/>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_S4pVIrUyEemWW757xUxUvA" points="[-932, 724, -643984, -643984]$[-1040, 904, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_S4pVIrUyEemWW757xUxUvA" points="[-964, 452, -643984, -643984]$[-1072, 632, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S8rgkLUyEemWW757xUxUvA" id="(0.3638297872340426,1.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_S8rgkbUyEemWW757xUxUvA" id="(0.37,0.0)"/>
     </edges>
@@ -1085,9 +1019,9 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_Tb-qsLU9EemsfcwHLUCxfw"/>
       <element xmi:type="uml:Usage" href="VlanFd.uml#_TbzrkLU9EemsfcwHLUCxfw"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Tb-qsbU9EemsfcwHLUCxfw" points="[382, 1001, -643984, -643984]$[926, 801, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ti1goLU9EemsfcwHLUCxfw" id="(1.0,0.363013698630137)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ti1gobU9EemsfcwHLUCxfw" id="(0.0,0.4732824427480916)"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Tb-qsbU9EemsfcwHLUCxfw" points="[350, 729, -643984, -643984]$[894, 529, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ti1goLU9EemsfcwHLUCxfw" id="(1.0,0.3333333333333333)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Ti1gobU9EemsfcwHLUCxfw" id="(0.0,0.4198473282442748)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_K8gukLU-EemsfcwHLUCxfw" type="Usage_Edge" source="_25hC4FE7Eembl8KFq0LDlA" target="_lB5AMLU3EemsfcwHLUCxfw">
       <children xmi:type="notation:DecorationNode" xmi:id="_K8hVoLU-EemsfcwHLUCxfw" visible="false" type="Usage_NameLabel">
@@ -1100,9 +1034,9 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_K8gukbU-EemsfcwHLUCxfw"/>
       <element xmi:type="uml:Usage" href="VlanFd.uml#_K8b2ELU-EemsfcwHLUCxfw"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_K8gukrU-EemsfcwHLUCxfw" points="[473, 491, -643984, -643984]$[926, 922, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LB1TcLU-EemsfcwHLUCxfw" id="(1.0,0.06209150326797386)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LB1TcbU-EemsfcwHLUCxfw" id="(0.0,0.007633587786259542)"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_K8gukrU-EemsfcwHLUCxfw" points="[441, 219, -643984, -643984]$[894, 650, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LB1TcLU-EemsfcwHLUCxfw" id="(1.0,0.05029585798816568)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_LB1TcbU-EemsfcwHLUCxfw" id="(0.0,0.0)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_HRbwNLj9EemsfcwHLUCxfw" type="StereotypeCommentLink" source="_Tb-DoLU9EemsfcwHLUCxfw" target="_HRbwMLj9EemsfcwHLUCxfw">
       <styles xmi:type="notation:FontStyle" xmi:id="_HRbwNbj9EemsfcwHLUCxfw"/>
@@ -1135,9 +1069,9 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_ybVTsb6REemj8sLhiejUhA"/>
       <element xmi:type="uml:Usage" href="VlanFd.uml#_ybUsoL6REemj8sLhiejUhA"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ybVTsr6REemj8sLhiejUhA" points="[401, 1256, -643984, -643984]$[845, 1401, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yeyQUL6REemj8sLhiejUhA" id="(1.0,0.6643835616438356)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yeyQUb6REemj8sLhiejUhA" id="(0.0,0.16666666666666666)"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ybVTsr6REemj8sLhiejUhA" points="[369, 984, -643984, -643984]$[813, 1129, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yeyQUL6REemj8sLhiejUhA" id="(1.0,0.6296296296296297)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yeyQUb6REemj8sLhiejUhA" id="(0.0,0.14444444444444443)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_P32D9L6xEemj8sLhiejUhA" type="StereotypeCommentLink" source="_ybVTsL6REemj8sLhiejUhA" target="_P32D8L6xEemj8sLhiejUhA">
       <styles xmi:type="notation:FontStyle" xmi:id="_P32D9b6xEemj8sLhiejUhA"/>
@@ -1160,7 +1094,7 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_5AOCQcKdEemvQeH3vILmhQ"/>
       <element xmi:type="uml:Usage" href="VlanFd.uml#_5AERQMKdEemvQeH3vILmhQ"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5AOCQsKdEemvQeH3vILmhQ" points="[65, 1036, -643984, -643984]$[-16, 912, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5AOCQsKdEemvQeH3vILmhQ" points="[33, 632, -643984, -643984]$[-48, 508, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5D1W8MKdEemvQeH3vILmhQ" id="(1.0,0.4444444444444444)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5D1W8cKdEemvQeH3vILmhQ" id="(0.0,0.14965986394557823)"/>
     </edges>
@@ -1175,9 +1109,9 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_lVEQ0cKeEemvQeH3vILmhQ"/>
       <element xmi:type="uml:Usage" href="VlanFd.uml#_lVCboMKeEemvQeH3vILmhQ"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lVEQ0sKeEemvQeH3vILmhQ" points="[-327, 1069, -643984, -643984]$[752, 916, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lX14AMKeEemvQeH3vILmhQ" id="(1.0,0.7908496732026143)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lX14AcKeEemvQeH3vILmhQ" id="(0.0,0.06802721088435375)"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_lVEQ0sKeEemvQeH3vILmhQ" points="[-359, 797, -643984, -643984]$[720, 644, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lX14AMKeEemvQeH3vILmhQ" id="(1.0,0.7840236686390533)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_lX14AcKeEemvQeH3vILmhQ" id="(0.0,0.0163265306122449)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_UYK1YMKfEemvQeH3vILmhQ" type="StereotypeCommentLink" source="_lVEQ0MKeEemvQeH3vILmhQ" target="_UYKOUMKfEemvQeH3vILmhQ">
       <styles xmi:type="notation:FontStyle" xmi:id="_UYK1YcKfEemvQeH3vILmhQ"/>
@@ -1198,36 +1132,6 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_VKLhJsKfEemvQeH3vILmhQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VKLhJ8KfEemvQeH3vILmhQ"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_VKLhKMKfEemvQeH3vILmhQ"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_BP8igOCgEeqMCqOBPciD4g" type="StereotypeCommentLink" source="_BPa-EOCgEeqMCqOBPciD4g" target="_BP77cOCgEeqMCqOBPciD4g">
-      <styles xmi:type="notation:FontStyle" xmi:id="_BP8igeCgEeqMCqOBPciD4g"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_BP9JkOCgEeqMCqOBPciD4g" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="VlanFd.uml#_54DZ0OCdEeqMCqOBPciD4g"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BP8iguCgEeqMCqOBPciD4g" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BP8ig-CgEeqMCqOBPciD4g"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BP8ihOCgEeqMCqOBPciD4g"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_BSdD8OCgEeqMCqOBPciD4g" type="StereotypeCommentLink" source="_BSPBgOCgEeqMCqOBPciD4g" target="_BScc4-CgEeqMCqOBPciD4g">
-      <styles xmi:type="notation:FontStyle" xmi:id="_BSdD8eCgEeqMCqOBPciD4g"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_BSdD9eCgEeqMCqOBPciD4g" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="VlanFd.uml#_54HrQOCdEeqMCqOBPciD4g"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BSdD8uCgEeqMCqOBPciD4g" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BSdD8-CgEeqMCqOBPciD4g"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BSdD9OCgEeqMCqOBPciD4g"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_BVUxxOCgEeqMCqOBPciD4g" type="StereotypeCommentLink" source="_BVIkgOCgEeqMCqOBPciD4g" target="_BVUxwOCgEeqMCqOBPciD4g">
-      <styles xmi:type="notation:FontStyle" xmi:id="_BVUxxeCgEeqMCqOBPciD4g"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_BVUxyeCgEeqMCqOBPciD4g" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="VlanFd.uml#_54KHgOCdEeqMCqOBPciD4g"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BVUxxuCgEeqMCqOBPciD4g" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BVUxx-CgEeqMCqOBPciD4g"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BVUxyOCgEeqMCqOBPciD4g"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_KsHZkE9PEeu4GJb1lHwHqg" type="StereotypeCommentLink" source="_Kr4JAE9PEeu4GJb1lHwHqg" target="_KsGygE9PEeu4GJb1lHwHqg">
       <styles xmi:type="notation:FontStyle" xmi:id="_KsHZkU9PEeu4GJb1lHwHqg"/>
@@ -1286,7 +1190,7 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_d3oMMU9PEeu4GJb1lHwHqg"/>
       <element xmi:type="uml:Association" href="platform:/resource/OnfModel/CoreModel.uml#_2EZj8FYkEeOVGaP4lO41SQ"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_d3oMMk9PEeu4GJb1lHwHqg" points="[-433, 555, -643984, -643984]$[-912, 539, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_d3oMMk9PEeu4GJb1lHwHqg" points="[-465, 283, -643984, -643984]$[-944, 267, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kkrj8E9YEeu4GJb1lHwHqg" id="(0.0,0.71)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_kkrj8U9YEeu4GJb1lHwHqg" id="(1.0,0.71)"/>
     </edges>
@@ -1317,7 +1221,7 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_Ba_-EU9QEeu4GJb1lHwHqg"/>
       <element xmi:type="uml:Association" href="platform:/resource/OnfModel/CoreModel.uml#_oGqn01LNEeO75dO39GbF8Q"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ba_-Ek9QEeu4GJb1lHwHqg" points="[-1049, 347, -643984, -643984]$[-1052, 525, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ba_-Ek9QEeu4GJb1lHwHqg" points="[-1081, 75, -643984, -643984]$[-1084, 253, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UJtf8E9QEeu4GJb1lHwHqg" id="(0.2727272727272727,1.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UJtf8U9QEeu4GJb1lHwHqg" id="(0.24390243902439024,0.0)"/>
     </edges>
@@ -1358,113 +1262,22 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_9SjFgU9QEeu4GJb1lHwHqg"/>
       <element xmi:type="uml:Generalization" href="VlanFd.uml#_9RYn4E9QEeu4GJb1lHwHqg"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9SjFgk9QEeu4GJb1lHwHqg" points="[-947, 154, -643984, -643984]$[-945, 112, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_9SjFgk9QEeu4GJb1lHwHqg" points="[-33, 157, -643984, -643984]$[-31, 115, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9UwsAE9QEeu4GJb1lHwHqg" id="(0.13768115942028986,0.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_9UwsAU9QEeu4GJb1lHwHqg" id="(0.17757009345794392,1.0)"/>
     </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_pIX1wE9REeu4GJb1lHwHqg" type="Association_Edge" source="_BPa-EOCgEeqMCqOBPciD4g" target="_L2C2EE9PEeu4GJb1lHwHqg">
-      <children xmi:type="notation:DecorationNode" xmi:id="_pIYc0E9REeu4GJb1lHwHqg" visible="false" type="Association_StereotypeLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kQif8E9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_pIYc0U9REeu4GJb1lHwHqg" y="-19"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_pIYc0k9REeu4GJb1lHwHqg" visible="false" type="Association_NameLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kRXmYE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_pIYc009REeu4GJb1lHwHqg" x="1" y="17"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_pIYc1E9REeu4GJb1lHwHqg" visible="false" type="Association_TargetRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kSIbYE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_pIYc1U9REeu4GJb1lHwHqg" x="74" y="-19"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_pIYc1k9REeu4GJb1lHwHqg" visible="false" type="Association_SourceRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kS7soE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_pIYc109REeu4GJb1lHwHqg" x="-73" y="17"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_pIYc2E9REeu4GJb1lHwHqg" type="Association_SourceMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kTu94E9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_pIYc2U9REeu4GJb1lHwHqg" x="74" y="17"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_pIZD4E9REeu4GJb1lHwHqg" type="Association_TargetMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kUlScE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_pIZD4U9REeu4GJb1lHwHqg" x="-48" y="2"/>
-      </children>
-      <styles xmi:type="notation:FontStyle" xmi:id="_pIX1wU9REeu4GJb1lHwHqg"/>
-      <element xmi:type="uml:Association" href="VlanFd.uml#_ov0L0E9REeu4GJb1lHwHqg"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pIX1wk9REeu4GJb1lHwHqg" points="[-678, 51, -643984, -643984]$[-912, 495, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pLO8gE9REeu4GJb1lHwHqg" id="(0.0,0.77)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pLO8gU9REeu4GJb1lHwHqg" id="(1.0,0.08)"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_qC91wE9REeu4GJb1lHwHqg" type="Association_Edge" source="_BSPBgOCgEeqMCqOBPciD4g" target="_L2C2EE9PEeu4GJb1lHwHqg">
-      <children xmi:type="notation:DecorationNode" xmi:id="_qC-c0E9REeu4GJb1lHwHqg" visible="false" type="Association_StereotypeLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kVxlQE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_qC-c0U9REeu4GJb1lHwHqg" y="-19"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_qC-c0k9REeu4GJb1lHwHqg" visible="false" type="Association_NameLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kW0HEE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_qC-c009REeu4GJb1lHwHqg" x="1" y="18"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_qC-c1E9REeu4GJb1lHwHqg" visible="false" type="Association_TargetRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kXv7ME9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_qC-c1U9REeu4GJb1lHwHqg" x="70" y="-19"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_qC-c1k9REeu4GJb1lHwHqg" visible="false" type="Association_SourceRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kYqhME9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_qC-c109REeu4GJb1lHwHqg" x="-70" y="18"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_qC-c2E9REeu4GJb1lHwHqg" type="Association_SourceMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kZjSAE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_qC-c2U9REeu4GJb1lHwHqg" x="70" y="18"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_qC-c2k9REeu4GJb1lHwHqg" type="Association_TargetMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kaYYcE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_qC-c209REeu4GJb1lHwHqg" x="-42"/>
-      </children>
-      <styles xmi:type="notation:FontStyle" xmi:id="_qC91wU9REeu4GJb1lHwHqg"/>
-      <element xmi:type="uml:Association" href="VlanFd.uml#_qAz5oE9REeu4GJb1lHwHqg"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qC91wk9REeu4GJb1lHwHqg" points="[-641, 108, -643984, -643984]$[-912, 499, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qFKOIE9REeu4GJb1lHwHqg" id="(0.0,0.31)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qFKOIU9REeu4GJb1lHwHqg" id="(1.0,0.12)"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_q8JggE9REeu4GJb1lHwHqg" type="Association_Edge" source="_BVIkgOCgEeqMCqOBPciD4g" target="_L2C2EE9PEeu4GJb1lHwHqg">
-      <children xmi:type="notation:DecorationNode" xmi:id="_q8KHkE9REeu4GJb1lHwHqg" visible="false" type="Association_StereotypeLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kbHYQE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_q8KHkU9REeu4GJb1lHwHqg" y="-19"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_q8KHkk9REeu4GJb1lHwHqg" visible="false" type="Association_NameLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kb2_IE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_q8KHk09REeu4GJb1lHwHqg" x="1" y="17"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_q8KHlE9REeu4GJb1lHwHqg" visible="false" type="Association_TargetRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kcnNEE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_q8KHlU9REeu4GJb1lHwHqg" x="59" y="-17"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_q8KHlk9REeu4GJb1lHwHqg" visible="false" type="Association_SourceRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_kdYCEE9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_q8KHl09REeu4GJb1lHwHqg" x="-59" y="16"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_q8KHmE9REeu4GJb1lHwHqg" type="Association_SourceMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_keHo8E9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_q8KHmU9REeu4GJb1lHwHqg" x="59" y="19"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_q8KHmk9REeu4GJb1lHwHqg" type="Association_TargetMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_ke3P0E9YEeu4GJb1lHwHqg" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_q8KHm09REeu4GJb1lHwHqg" x="-26" y="-11"/>
-      </children>
-      <styles xmi:type="notation:FontStyle" xmi:id="_q8JggU9REeu4GJb1lHwHqg"/>
-      <element xmi:type="uml:Association" href="VlanFd.uml#_q6MYsE9REeu4GJb1lHwHqg"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_q8Jggk9REeu4GJb1lHwHqg" points="[-599, 256, -643984, -643984]$[-912, 506, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_q-TcoE9REeu4GJb1lHwHqg" id="(0.0,0.6521739130434783)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_q-UDsE9REeu4GJb1lHwHqg" id="(1.0,0.19)"/>
-    </edges>
     <edges xmi:type="notation:Connector" xmi:id="_pczSsFDHEeucF9CHKrNgtA" type="Abstraction_Edge" source="_ve4AoLUwEemP0vs_3-grtw" target="_L2C2EE9PEeu4GJb1lHwHqg">
       <children xmi:type="notation:DecorationNode" xmi:id="_pc1u8FDHEeucF9CHKrNgtA" type="Abstraction_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_nGB80KDoEe6sItGzTia19A" name="IS_UPDATED_POSITION" booleanValue="true"/>
         <layoutConstraint xmi:type="notation:Location" xmi:id="_pc1u8VDHEeucF9CHKrNgtA" y="40"/>
       </children>
       <children xmi:type="notation:DecorationNode" xmi:id="_pc1u8lDHEeucF9CHKrNgtA" type="Abstraction_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_nGwVkKDoEe6sItGzTia19A" name="IS_UPDATED_POSITION" booleanValue="true"/>
         <layoutConstraint xmi:type="notation:Location" xmi:id="_pc2WAFDHEeucF9CHKrNgtA" y="60"/>
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_pczSsVDHEeucF9CHKrNgtA"/>
       <element xmi:type="uml:Abstraction" href="VlanFd.uml#_pctMEFDHEeucF9CHKrNgtA"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pczSslDHEeucF9CHKrNgtA" points="[-1089, 882, -643984, -643984]$[-1089, 625, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pczSslDHEeucF9CHKrNgtA" points="[-1121, 610, -643984, -643984]$[-1121, 353, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pgI6kFDHEeucF9CHKrNgtA" id="(0.22,0.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pgI6kVDHEeucF9CHKrNgtA" id="(0.17886178861788618,1.0)"/>
     </edges>
@@ -1487,6 +1300,31 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_XcrPklVxEeuU0OPNoXYe3w" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XcrPk1VxEeuU0OPNoXYe3w"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_XcrPlFVxEeuU0OPNoXYe3w"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_67UBMLZbEey_AK7_2vgpMw" type="Usage_Edge" source="_3G5-oFE7Eembl8KFq0LDlA" target="_OLr7ILZbEey_AK7_2vgpMw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_67UBM7ZbEey_AK7_2vgpMw" visible="false" type="Usage_NameLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_nEzNwKDoEe6sItGzTia19A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_67UBNLZbEey_AK7_2vgpMw" y="39"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_67UBNbZbEey_AK7_2vgpMw" visible="false" type="Usage_StereotypeLabel">
+        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_nFYckKDoEe6sItGzTia19A" name="IS_UPDATED_POSITION" booleanValue="true"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_67UoQLZbEey_AK7_2vgpMw" y="59"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_67UBMbZbEey_AK7_2vgpMw"/>
+      <element xmi:type="uml:Usage" href="VlanFd.uml#_67Q94LZbEey_AK7_2vgpMw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_67UBMrZbEey_AK7_2vgpMw" points="[-436, 920, -643984, -643984]$[-240, 852, -643984, -643984]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_69AqULZbEey_AK7_2vgpMw" id="(1.0,0.7283950617283951)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_69AqUbZbEey_AK7_2vgpMw" id="(0.0,0.24)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_BNOEILZcEey_AK7_2vgpMw" type="StereotypeCommentLink" source="_67UBMLZbEey_AK7_2vgpMw" target="_BNNdELZcEey_AK7_2vgpMw">
+      <styles xmi:type="notation:FontStyle" xmi:id="_BNOEIbZcEey_AK7_2vgpMw"/>
+      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_BNOEJbZcEey_AK7_2vgpMw" name="BASE_ELEMENT">
+        <eObjectValue xmi:type="uml:Usage" href="VlanFd.uml#_67Q94LZbEey_AK7_2vgpMw"/>
+      </styles>
+      <element xsi:nil="true"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BNOEIrZcEey_AK7_2vgpMw" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BNOEI7ZcEey_AK7_2vgpMw"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_BNOEJLZcEey_AK7_2vgpMw"/>
     </edges>
   </notation:Diagram>
 </xmi:XMI>

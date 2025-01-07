@@ -35,24 +35,6 @@
         </eAnnotations>
         <ownedEnd xmi:type="uml:Property" xmi:id="_NAW6QKiIEemOla8dsBJp_Q" name="cochannelprofileconfiguration" type="_F9JloFRnEem5ec_9KiA7Yg" association="_NASBwKiIEemOla8dsBJp_Q"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_YkKyEA1ZEeqgZ-ctQ0qVTw" memberEnd="_YkSG0A1ZEeqgZ-ctQ0qVTw _YkZbkA1ZEeqgZ-ctQ0qVTw">
-        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_YkQRoA1ZEeqgZ-ctQ0qVTw" source="org.eclipse.papyrus">
-          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_YkQ4sA1ZEeqgZ-ctQ0qVTw" key="nature" value="UML_Nature"/>
-        </eAnnotations>
-        <ownedEnd xmi:type="uml:Property" xmi:id="_YkZbkA1ZEeqgZ-ctQ0qVTw" name="objectcreationnotification" type="_0rh6gXJ7Eemlt-eKqj5CTA" association="_YkKyEA1ZEeqgZ-ctQ0qVTw">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_cETQ8A1ZEeqgZ-ctQ0qVTw"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_cEYwgA1ZEeqgZ-ctQ0qVTw" value="*"/>
-        </ownedEnd>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_ZYhnMA1ZEeqgZ-ctQ0qVTw" memberEnd="_ZYjcYQ1ZEeqgZ-ctQ0qVTw _ZYl4oQ1ZEeqgZ-ctQ0qVTw">
-        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZYi1UA1ZEeqgZ-ctQ0qVTw" source="org.eclipse.papyrus">
-          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZYjcYA1ZEeqgZ-ctQ0qVTw" key="nature" value="UML_Nature"/>
-        </eAnnotations>
-        <ownedEnd xmi:type="uml:Property" xmi:id="_ZYl4oQ1ZEeqgZ-ctQ0qVTw" name="objectdeletionnotification" type="_0rh6jXJ7Eemlt-eKqj5CTA" association="_ZYhnMA1ZEeqgZ-ctQ0qVTw">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_aa5DIA1ZEeqgZ-ctQ0qVTw"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_aa97oA1ZEeqgZ-ctQ0qVTw" value="*"/>
-        </ownedEnd>
-      </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_yNtmkFRmEem5ec_9KiA7Yg" name="Diagrams"/>
     <packagedElement xmi:type="uml:Package" xmi:id="_yNuNoFRmEem5ec_9KiA7Yg" name="Imports">
@@ -63,52 +45,84 @@
         <importedPackage xmi:type="uml:Package" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_oGqilVLNEeO75dO39GbF8Q"/>
       </packageImport>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_yNuNoVRmEem5ec_9KiA7Yg" name="Interfaces"/>
-    <packagedElement xmi:type="uml:Package" xmi:id="_yNu0sFRmEem5ec_9KiA7Yg" name="Notifications">
-      <packagedElement xmi:type="uml:Signal" xmi:id="_0rh6gXJ7Eemlt-eKqj5CTA" name="ObjectCreationNotification">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_0rh6g3J7Eemlt-eKqj5CTA" name="counter" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_0rh6hHJ7Eemlt-eKqj5CTA" annotatedElement="_0rh6g3J7Eemlt-eKqj5CTA">
-            <body>Counts object creation notifications.</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_0rh6hXJ7Eemlt-eKqj5CTA" value="-1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_0rh6hnJ7Eemlt-eKqj5CTA" name="timestamp" isUnique="false" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="CommonDataTypes/ImplementationCommonDataTypes.uml#_iP8kJfZaEeWhRf3FikFX5w"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_0rh6h3J7Eemlt-eKqj5CTA" value="2010-11-20T14:00:00+01:00"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_YkSG0A1ZEeqgZ-ctQ0qVTw" name="_objectIdRef" isReadOnly="true" aggregation="shared" association="_YkKyEA1ZEeqgZ-ctQ0qVTw">
-          <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_GLc2MJ47Eemkbek818V8NQ"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_0rh6inJ7Eemlt-eKqj5CTA" name="objectType" isUnique="false" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_0rh6jHJ7Eemlt-eKqj5CTA" value="Type of created object not specified."/>
-        </ownedAttribute>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Signal" xmi:id="_0rh6jXJ7Eemlt-eKqj5CTA" name="ObjectDeletionNotification">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_0rh6j3J7Eemlt-eKqj5CTA" name="counter" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_0rh6kHJ7Eemlt-eKqj5CTA" annotatedElement="_0rh6j3J7Eemlt-eKqj5CTA">
-            <body>Counts object deletion notifications.</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_0rh6kXJ7Eemlt-eKqj5CTA" value="-1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_0rh6knJ7Eemlt-eKqj5CTA" name="timestamp" isUnique="false" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="CommonDataTypes/ImplementationCommonDataTypes.uml#_iP8kJfZaEeWhRf3FikFX5w"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_0rh6k3J7Eemlt-eKqj5CTA" value="2010-11-20T14:00:00+01:00"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_ZYjcYQ1ZEeqgZ-ctQ0qVTw" name="_objectIdRef" isReadOnly="true" aggregation="shared" association="_ZYhnMA1ZEeqgZ-ctQ0qVTw">
-          <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_GLc2MJ47Eemkbek818V8NQ"/>
-        </ownedAttribute>
+    <packagedElement xmi:type="uml:Package" xmi:id="_yNuNoVRmEem5ec_9KiA7Yg" name="Interfaces">
+      <packagedElement xmi:type="uml:Interface" xmi:id="_jmLNkKecEe2VB6m2xY-hwQ" name="CoChannelProfileOperations">
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_Fd5V8KedEe2VB6m2xY-hwQ" name="createCoChannelProfile">
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_5N808K1HEe2Bw4yOdAHxkA" name="externalLabel" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_5N808a1HEe2Bw4yOdAHxkA" annotatedElement="_5N808K1HEe2Bw4yOdAHxkA">
+              <body>Identifier of the instance of CoChannelProfile. Could be a name, could be a number. Free text field to be filled by the operator.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5N808q1HEe2Bw4yOdAHxkA"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5N80861HEe2Bw4yOdAHxkA" value="1"/>
+            <defaultValue xmi:type="uml:LiteralString" xmi:id="_5N809K1HEe2Bw4yOdAHxkA" value="External label not yet defined."/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_9NTmcK1HEe2Bw4yOdAHxkA" name="kindOfCoChannelProfile" type="_Y9pz4KiiEemyiIAHrYlM9g" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_9NTmca1HEe2Bw4yOdAHxkA" annotatedElement="_9NTmcK1HEe2Bw4yOdAHxkA">
+              <body>Type of group (XPIC, MIMO, ALIC) of air interfaces with the same transmit and receive frequency.</body>
+            </ownedComment>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_9NTmcq1HEe2Bw4yOdAHxkA" value="1"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_9NTmc61HEe2Bw4yOdAHxkA" value="1"/>
+            <defaultValue xmi:type="uml:InstanceValue" xmi:id="_Iwgj4K1IEe2Bw4yOdAHxkA" type="_Y9pz4KiiEemyiIAHrYlM9g" instance="_gbYwwKiiEemyiIAHrYlM9g"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_5SEf8K1HEe2Bw4yOdAHxkA" name="_logicalTerminationPointList" isUnique="false" effect="create">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_5SEf8a1HEe2Bw4yOdAHxkA" annotatedElement="_5SEf8K1HEe2Bw4yOdAHxkA">
+              <body>List of AirInterfaces, which are part of the co-channel group. Referenced LTP must associate a LayerProtocol class with layerProtocolName attribute having LAYER_PROTOCOL_NAME_TYPE_AIR_LAYER as value.</body>
+            </ownedComment>
+            <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_eEpDMFX4EeOVGaP4lO41SQ"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_aZ41YK1IEe2Bw4yOdAHxkA"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_aZ-8AK1IEe2Bw4yOdAHxkA" value="*"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_qT4w0KeeEe2VB6m2xY-hwQ" name="_createdCoChannelProfile" direction="out" effect="read">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_qT4w0aeeEe2VB6m2xY-hwQ" annotatedElement="_qT4w0KeeEe2VB6m2xY-hwQ">
+              <body>UUID of the instance of CoChannelProfile that has been newly created.</body>
+            </ownedComment>
+            <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_GLc2MJ47Eemkbek818V8NQ"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_URoTMKehEe2VB6m2xY-hwQ" name="modifyCoChannelProfile">
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_vZ3OUKyPEe2QhNctQp4dIA" name="_coChannelProfileToBeModified" isUnique="false" effect="read">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_vZ3OUayPEe2QhNctQp4dIA" annotatedElement="_vZ3OUKyPEe2QhNctQp4dIA">
+              <body>UUID of the instance of CoChannelProfile (ProfileNameType==PROFILE_NAME_TYPE_CO_CHANNEL_PROFILE) that shall be modified.</body>
+            </ownedComment>
+            <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_GLc2MJ47Eemkbek818V8NQ"/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_URoTMaehEe2VB6m2xY-hwQ" name="externalLabel" isUnique="false" effect="update">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_jjYmAKehEe2VB6m2xY-hwQ" annotatedElement="_URoTMaehEe2VB6m2xY-hwQ">
+              <body>Identifier of the instance of CoChannelProfile. Could be a name, could be a number. Free text field to be filled by the operator.</body>
+            </ownedComment>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_y7nCUKyFEe2QhNctQp4dIA"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_y-APAKyFEe2QhNctQp4dIA" value="1"/>
+            <defaultValue xmi:type="uml:LiteralString" xmi:id="_8TNfUKyPEe2QhNctQp4dIA" value="External label not yet defined."/>
+          </ownedParameter>
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_URoTM6ehEe2VB6m2xY-hwQ" name="_newLogicalTerminationPointList" isUnique="false" effect="update">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_g_4ugKehEe2VB6m2xY-hwQ" annotatedElement="_URoTM6ehEe2VB6m2xY-hwQ">
+              <body>New list of AirInterfaces, which are part of the co-channel group. Referenced LTP must associate a LayerProtocol class with layerProtocolName attribute having LAYER_PROTOCOL_NAME_TYPE_AIR_LAYER as value. This list is replacing the existing configuration. It is not possible to add or remove individual LTPs from the list. If the attribute is not provided in the RPC request, the existing list of LTPs shall be kept.</body>
+            </ownedComment>
+            <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_eEpDMFX4EeOVGaP4lO41SQ"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Zd15YKehEe2VB6m2xY-hwQ"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Zd-cQKehEe2VB6m2xY-hwQ" value="*"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:type="uml:Operation" xmi:id="_79dvQKehEe2VB6m2xY-hwQ" name="deleteCoChannelProfile">
+          <ownedParameter xmi:type="uml:Parameter" xmi:id="_79dvQaehEe2VB6m2xY-hwQ" name="_obsoleteCoChannelProfile" isUnique="false" effect="delete">
+            <ownedComment xmi:type="uml:Comment" xmi:id="_79dvQqehEe2VB6m2xY-hwQ" annotatedElement="_79dvQaehEe2VB6m2xY-hwQ">
+              <body>UUID of the instance of CoChannelProfile that shall be deleted.</body>
+            </ownedComment>
+            <type xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_GLc2MJ47Eemkbek818V8NQ"/>
+          </ownedParameter>
+        </ownedOperation>
       </packagedElement>
     </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_yNu0sFRmEem5ec_9KiA7Yg" name="Notifications"/>
     <packagedElement xmi:type="uml:Package" xmi:id="_yNu0sVRmEem5ec_9KiA7Yg" name="ObjectClasses">
       <packagedElement xmi:type="uml:Class" xmi:id="_QLeGIKR8EemZx_PrWGDYjw" name="CoChannelProfileSpec">
         <ownedAttribute xmi:type="uml:Property" xmi:id="_fVEigKR8EemZx_PrWGDYjw" name="_coChannelProfile_Pac" type="_F9F7QFRnEem5ec_9KiA7Yg" aggregation="composite" association="_fU900KR8EemZx_PrWGDYjw"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_F9F7QFRnEem5ec_9KiA7Yg" name="CoChannelProfile_Pac">
         <ownedAttribute xmi:type="uml:Property" xmi:id="_p1I8oVRnEem5ec_9KiA7Yg" name="_coChannelProfileCapability" type="_F9HwcFRnEem5ec_9KiA7Yg" isReadOnly="true" aggregation="composite" association="_p1HugFRnEem5ec_9KiA7Yg"/>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_qU1wYlRnEem5ec_9KiA7Yg" name="_coChannelProfileConfiguration" type="_F9JloFRnEem5ec_9KiA7Yg" aggregation="composite" association="_qU1JUFRnEem5ec_9KiA7Yg"/>
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_qU1wYlRnEem5ec_9KiA7Yg" name="_coChannelProfileConfiguration" type="_F9JloFRnEem5ec_9KiA7Yg" isReadOnly="true" aggregation="composite" association="_qU1JUFRnEem5ec_9KiA7Yg"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_F9HwcFRnEem5ec_9KiA7Yg" name="CoChannelProfileCapability">
         <ownedAttribute xmi:type="uml:Property" xmi:id="_b-LooKiBEemOla8dsBJp_Q" name="xpicIsAvail" isUnique="false" isReadOnly="true">
@@ -143,20 +157,20 @@
         </ownedAttribute>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_F9JloFRnEem5ec_9KiA7Yg" name="CoChannelProfileConfiguration">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_kWedUGdnEemdnIp_r4TiRA" name="profileName" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_kWedUGdnEemdnIp_r4TiRA" name="externalLabel" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_kWedUWdnEemdnIp_r4TiRA" annotatedElement="_kWedUGdnEemdnIp_r4TiRA">
-            <body>Identifier of the profile. Could be a name, could be a number. Free text field to be filled by the operator.</body>
+            <body>Identifier of the instance of CoChannelProfile. Could be a name, could be a number. Free text field to be filled by the operator.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_kWedUmdnEemdnIp_r4TiRA" value="Name of profile not yet defined."/>
+          <defaultValue xmi:type="uml:LiteralString" xmi:id="_kWedUmdnEemdnIp_r4TiRA" value="External label not yet defined."/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_AEEHIKiBEemOla8dsBJp_Q" name="kindOfCoChannelGroup" type="_Y9pz4KiiEemyiIAHrYlM9g" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_AEEHIKiBEemOla8dsBJp_Q" name="kindOfCoChannelProfile" type="_Y9pz4KiiEemyiIAHrYlM9g" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_AEEHIaiBEemOla8dsBJp_Q" annotatedElement="_AEEHIKiBEemOla8dsBJp_Q">
             <body>Type of group (XPIC, MIMO, ALIC) of air interfaces with the same transmit and receive frequency.</body>
           </ownedComment>
           <defaultValue xmi:type="uml:InstanceValue" xmi:id="_qh34kKiiEemyiIAHrYlM9g" type="_Y9pz4KiiEemyiIAHrYlM9g" instance="_gbYwwKiiEemyiIAHrYlM9g"/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_NAVsIKiIEemOla8dsBJp_Q" name="_logicalTerminationPointList" isUnique="false" aggregation="shared" association="_NASBwKiIEemOla8dsBJp_Q">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_NAVsIKiIEemOla8dsBJp_Q" name="_logicalTerminationPointList" isUnique="false" isReadOnly="true" aggregation="shared" association="_NASBwKiIEemOla8dsBJp_Q">
           <ownedComment xmi:type="uml:Comment" xmi:id="_7MHAEKiIEemOla8dsBJp_Q" annotatedElement="_NAVsIKiIEemOla8dsBJp_Q">
             <body>List of AirInterfaces, which are part of the co-channel group. Referenced LTP must associate a LayerProtocol class with layerProtocolName attribute having LAYER_PROTOCOL_NAME_TYPE_AIR_LAYER as value.</body>
           </ownedComment>
@@ -168,7 +182,7 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_yN0UQFRmEem5ec_9KiA7Yg" name="Rules"/>
     <packagedElement xmi:type="uml:Package" xmi:id="_yN0UQVRmEem5ec_9KiA7Yg" name="TypeDefinitions">
-      <packagedElement xmi:type="uml:Enumeration" xmi:id="_Y9pz4KiiEemyiIAHrYlM9g" name="kindOfCoChannelGroupType">
+      <packagedElement xmi:type="uml:Enumeration" xmi:id="_Y9pz4KiiEemyiIAHrYlM9g" name="kindOfCoChannelProfileType">
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cinIYKiiEemyiIAHrYlM9g" name="XPIC">
           <ownedComment xmi:type="uml:Comment" xmi:id="_x5QncAbJEeqH8IvLYW96Jw" annotatedElement="_cinIYKiiEemyiIAHrYlM9g">
             <body>Cross Polarization Interference Cancellation</body>
@@ -241,29 +255,18 @@
       <appliedProfile xmi:type="uml:Profile" href="UmlProfiles/ProfileLifecycleProfile/ProfileLifecycle_Profile.profile.uml#_CBpGoEdZEearpawF38eisA"/>
     </profileApplication>
   </uml:Model>
-  <OpenModel_Profile:OpenModelStatement xmi:id="_i67NgCVJEemK9ptdIxz6GQ" base_Model="_Imk30GyUEee0HrHFgb9oqw" namespace="urn:onf:yang:co-channel-profile" organization="openBackhaul.com proposal to Open Networking Foundation (ONF)" description="This model defines a technology specific extension to the ONF Core IM. It defines a co-channel group profile class, which instances can be used for referencing those AirInterfaces that are part of XPIC, MIMO or ALIC configuration and sharing the same TX and RX frequencies." copyright="Copyright 2019 openBackhaul.com" license="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#xD;&#xA;you may not use this file except in compliance with the License.&#xD;&#xA;You may obtain a copy of the License at&#xD;&#xA;&#xD;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xD;&#xA;&#xD;&#xA;Unless required by applicable law or agreed to in writing, software&#xD;&#xA;distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#xD;&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xD;&#xA;See the License for the specific language governing permissions and&#xD;&#xA;limitations under the License.">
+  <OpenModel_Profile:OpenModelStatement xmi:id="_i67NgCVJEemK9ptdIxz6GQ" base_Model="_Imk30GyUEee0HrHFgb9oqw" namespace="urn:onf:yang:co-channel-profile" organization="openBackhaul.com proposal to Open Networking Foundation (ONF)" description="This model defines a technology specific extension to the ONF Core IM. It defines a co-channel group profile class, which instances can be used for referencing those AirInterfaces that are part of XPIC, MIMO or ALIC configuration and sharing the same TX and RX frequencies." copyright="Copyright 2024 openBackhaul.com" license="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#xD;&#xA;you may not use this file except in compliance with the License.&#xD;&#xA;You may obtain a copy of the License at&#xD;&#xA;&#xD;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xD;&#xA;&#xD;&#xA;Unless required by applicable law or agreed to in writing, software&#xD;&#xA;distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#xD;&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xD;&#xA;See the License for the specific language governing permissions and&#xD;&#xA;limitations under the License.">
     <contact xmi:type="OpenModel_Profile:Contact" xmi:id="_uZDooKSIEemZx_PrWGDYjw" projectWeb="https://github.com/openBackhaul/Overview" projectEmail="CoChannelProfile@openBackhaul.com" editorName="Thorsten Heinze" editorEmail="Thorsten.Heinze@openBackhaul.com"/>
-    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_heiSUEEdEeq7eYXlmb2KWA" date="2020-01-27" version="1.0.0-tsp.200127.1715" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/coChannelProfile/issues" reference="https://github.com/openBackhaul/coChannelProfile/tree/tsp: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
-    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_rEHwEAbTEeqH8IvLYW96Jw" date="2019-11-02" version="1.0.0-tsp.191122.2005" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/coChannelProfile/issues" reference="https://github.com/openBackhaul/coChannelProfile/tree/tsp: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
-    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_pFj5QKSJEemZx_PrWGDYjw" date="2019-07-17" version="1.0.0-tsp.190717.1725" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/coChannelProfile/issues" reference="https://github.com/openBackhaul/coChannelProfile/tree/tsp: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_-H2u4J8VEe6nRp8eHaxHgg" date="2024-01-03" version="1.0.0-tsi.240103.1055" description="Model for the Transport SDN Introduction at Telefonica Germany." changeLog="https://github.com/openBackhaul/coChannelProfile/issues" reference="https://github.com/openBackhaul/coChannelProfile/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_heiSUEEdEeq7eYXlmb2KWA" date="2020-01-27" version="1.0.0-tsp.200127.1715" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/coChannelProfile/issues" reference="https://github.com/openBackhaul/coChannelProfile/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_rEHwEAbTEeqH8IvLYW96Jw" date="2019-11-02" version="1.0.0-tsp.191122.2005" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/coChannelProfile/issues" reference="https://github.com/openBackhaul/coChannelProfile/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_pFj5QKSJEemZx_PrWGDYjw" date="2019-07-17" version="1.0.0-tsp.190717.1725" description="Model for the Transport SDN Pilot at Telefonica Germany." changeLog="https://github.com/openBackhaul/coChannelProfile/issues" reference="https://github.com/openBackhaul/coChannelProfile/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
   </OpenModel_Profile:OpenModelStatement>
   <OpenModel_Profile:Obsolete xmi:id="_yOpasFRmEem5ec_9KiA7Yg" base_Element="_yN4lsFRmEem5ec_9KiA7Yg"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_p1PqUFRnEem5ec_9KiA7Yg" base_StructuralFeature="_p1PDQFRnEem5ec_9KiA7Yg"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_p1PqUVRnEem5ec_9KiA7Yg" base_Property="_p1PDQFRnEem5ec_9KiA7Yg"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_qU2-gVRnEem5ec_9KiA7Yg" base_StructuralFeature="_qU2-gFRnEem5ec_9KiA7Yg"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_qU2-glRnEem5ec_9KiA7Yg" base_Property="_qU2-gFRnEem5ec_9KiA7Yg"/>
-  <OpenModel_Profile:OpenModelNotification xmi:id="_0rihkHJ7Eemlt-eKqj5CTA" base_Signal="_0rh6gXJ7Eemlt-eKqj5CTA"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_0rjvsHJ7Eemlt-eKqj5CTA" base_Property="_0rh6g3J7Eemlt-eKqj5CTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_0rjvsXJ7Eemlt-eKqj5CTA" base_StructuralFeature="_0rh6g3J7Eemlt-eKqj5CTA" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_0rjvsnJ7Eemlt-eKqj5CTA" base_Property="_0rh6hnJ7Eemlt-eKqj5CTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_0rjvs3J7Eemlt-eKqj5CTA" base_StructuralFeature="_0rh6hnJ7Eemlt-eKqj5CTA" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_0rkWwnJ7Eemlt-eKqj5CTA" base_Property="_0rh6inJ7Eemlt-eKqj5CTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_0rkWw3J7Eemlt-eKqj5CTA" base_StructuralFeature="_0rh6inJ7Eemlt-eKqj5CTA" isInvariant="true"/>
-  <OpenModel_Profile:OpenModelNotification xmi:id="_0rkWxHJ7Eemlt-eKqj5CTA" base_Signal="_0rh6jXJ7Eemlt-eKqj5CTA"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_0rkWxXJ7Eemlt-eKqj5CTA" base_Property="_0rh6j3J7Eemlt-eKqj5CTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_0rk90HJ7Eemlt-eKqj5CTA" base_StructuralFeature="_0rh6j3J7Eemlt-eKqj5CTA" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_0rk90XJ7Eemlt-eKqj5CTA" base_Property="_0rh6knJ7Eemlt-eKqj5CTA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_0rk90nJ7Eemlt-eKqj5CTA" base_StructuralFeature="_0rh6knJ7Eemlt-eKqj5CTA" isInvariant="true"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelClass xmi:id="_F9GiUVRnEem5ec_9KiA7Yg" objectCreationNotification="NO" objectDeletionNotification="NO" base_Class="_F9F7QFRnEem5ec_9KiA7Yg"/>
   <OpenModel_Profile:OpenModelClass xmi:id="_F9GiUFRnEem5ec_9KiA7Yg" base_Class="_F9F7QFRnEem5ec_9KiA7Yg"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelClass xmi:id="_QLetMKR8EemZx_PrWGDYjw" objectCreationNotification="YES" objectDeletionNotification="YES" base_Class="_QLeGIKR8EemZx_PrWGDYjw"/>
@@ -280,15 +283,15 @@
   <OpenModel_Profile:OpenModelClass xmi:id="_F9Hwd1RnEem5ec_9KiA7Yg" base_Class="_F9HwcFRnEem5ec_9KiA7Yg"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelClass xmi:id="_F9Jlp1RnEem5ec_9KiA7Yg" objectCreationNotification="NO" objectDeletionNotification="NO" base_Class="_F9JloFRnEem5ec_9KiA7Yg"/>
   <OpenModel_Profile:OpenModelClass xmi:id="_F9JlplRnEem5ec_9KiA7Yg" base_Class="_F9JloFRnEem5ec_9KiA7Yg"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_kWfEYWdnEemdnIp_r4TiRA" base_Property="_kWedUGdnEemdnIp_r4TiRA" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_kWfEYGdnEemdnIp_r4TiRA" base_StructuralFeature="_kWedUGdnEemdnIp_r4TiRA" partOfObjectKey="1" isInvariant="true"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_kWfEYWdnEemdnIp_r4TiRA" base_Property="_kWedUGdnEemdnIp_r4TiRA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_kWfEYGdnEemdnIp_r4TiRA" base_StructuralFeature="_kWedUGdnEemdnIp_r4TiRA" isInvariant="true"/>
   <OpenModel_Profile:Specify xmi:id="_ZP5TAKSHEemZx_PrWGDYjw" base_Abstraction="_W07FYKSHEemZx_PrWGDYjw">
     <target>/CoreModel:ControlConstruct:ControlConstruct/CoreModel:ProfileCollection:ProfileCollection/CoreModel:ProfileCollection:Profile</target>
   </OpenModel_Profile:Specify>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_NfmbAKiIEemOla8dsBJp_Q" base_StructuralFeature="_NAW6QKiIEemOla8dsBJp_Q"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_NfnpIKiIEemOla8dsBJp_Q" base_Property="_NAW6QKiIEemOla8dsBJp_Q"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_NAWTMKiIEemOla8dsBJp_Q" base_Property="_NAVsIKiIEemOla8dsBJp_Q" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_NAVsIaiIEemOla8dsBJp_Q" base_StructuralFeature="_NAVsIKiIEemOla8dsBJp_Q" isInvariant="true"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_NAWTMKiIEemOla8dsBJp_Q" base_Property="_NAVsIKiIEemOla8dsBJp_Q" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_NAVsIaiIEemOla8dsBJp_Q" base_StructuralFeature="_NAVsIKiIEemOla8dsBJp_Q"/>
   <OpenModel_Profile:Obsolete xmi:id="_GxdTwKijEemyiIAHrYlM9g" base_Element="_Eq7FEKijEemyiIAHrYlM9g"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_b-M2wKiBEemOla8dsBJp_Q" base_Property="_b-LooKiBEemOla8dsBJp_Q" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_b-Loo6iBEemOla8dsBJp_Q" base_StructuralFeature="_b-LooKiBEemOla8dsBJp_Q" isInvariant="true"/>
@@ -298,19 +301,26 @@
   <OpenModel_Profile:OpenModelAttribute xmi:id="_Cij_VaiAEemOla8dsBJp_Q" base_StructuralFeature="_Cij_UKiAEemOla8dsBJp_Q" isInvariant="true" unit="channels"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_Cipe4KiAEemOla8dsBJp_Q" base_Property="_CioQwKiAEemOla8dsBJp_Q" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_Cio30KiAEemOla8dsBJp_Q" base_StructuralFeature="_CioQwKiAEemOla8dsBJp_Q" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_AEEuMKiBEemOla8dsBJp_Q" base_Property="_AEEHIKiBEemOla8dsBJp_Q" writeAllowed="CREATE_ONLY" attributeValueChangeNotification="NO"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_AEEuMKiBEemOla8dsBJp_Q" base_Property="_AEEHIKiBEemOla8dsBJp_Q" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_AEEHI6iBEemOla8dsBJp_Q" base_StructuralFeature="_AEEHIKiBEemOla8dsBJp_Q" isInvariant="true"/>
   <OpenModel_Profile:PassedByReference xmi:id="_BFPQIAbPEeqH8IvLYW96Jw" base_Property="_NAVsIKiIEemOla8dsBJp_Q"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_YkTU8A1ZEeqgZ-ctQ0qVTw" base_Property="_YkSG0A1ZEeqgZ-ctQ0qVTw" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_YkUjEA1ZEeqgZ-ctQ0qVTw" base_StructuralFeature="_YkSG0A1ZEeqgZ-ctQ0qVTw" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_YyzD8A1ZEeqgZ-ctQ0qVTw" base_Property="_YkZbkA1ZEeqgZ-ctQ0qVTw"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_Yy05IA1ZEeqgZ-ctQ0qVTw" base_StructuralFeature="_YkZbkA1ZEeqgZ-ctQ0qVTw"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_ZYkqgA1ZEeqgZ-ctQ0qVTw" base_Property="_ZYjcYQ1ZEeqgZ-ctQ0qVTw" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_ZYl4oA1ZEeqgZ-ctQ0qVTw" base_StructuralFeature="_ZYjcYQ1ZEeqgZ-ctQ0qVTw" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_ZYnt0A1ZEeqgZ-ctQ0qVTw" base_Property="_ZYl4oQ1ZEeqgZ-ctQ0qVTw"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_ZYoU4A1ZEeqgZ-ctQ0qVTw" base_StructuralFeature="_ZYl4oQ1ZEeqgZ-ctQ0qVTw"/>
   <OpenModel_Profile:Obsolete xmi:id="_4XPvcEEdEeq7eYXlmb2KWA" base_Element="_0KNkIAbOEeqH8IvLYW96Jw"/>
   <OpenModel_Profile:Obsolete xmi:id="_5oZ1UEEdEeq7eYXlmb2KWA" base_Element="_IayhYAbPEeqH8IvLYW96Jw"/>
-  <OpenModel_Profile:PassedByReference xmi:id="_ATfNQEEeEeq7eYXlmb2KWA" base_Property="_ZYjcYQ1ZEeqgZ-ctQ0qVTw"/>
-  <OpenModel_Profile:PassedByReference xmi:id="_BunHcEEeEeq7eYXlmb2KWA" base_Property="_YkSG0A1ZEeqgZ-ctQ0qVTw"/>
+  <OpenModel_Profile:OpenModelInterface xmi:id="_joOcAKecEe2VB6m2xY-hwQ" base_Interface="_jmLNkKecEe2VB6m2xY-hwQ"/>
+  <OpenModel_Profile:OpenModelOperation xmi:id="_Fd59AKedEe2VB6m2xY-hwQ" base_Operation="_Fd5V8KedEe2VB6m2xY-hwQ" isAtomic="true"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_qT5X4KeeEe2VB6m2xY-hwQ" base_Parameter="_qT4w0KeeEe2VB6m2xY-hwQ"/>
+  <OpenModel_Profile:OpenModelOperation xmi:id="_URoTNKehEe2VB6m2xY-hwQ" base_Operation="_URoTMKehEe2VB6m2xY-hwQ" isOperationIdempotent="true" isAtomic="true"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_URo6QKehEe2VB6m2xY-hwQ" base_Parameter="_URoTMaehEe2VB6m2xY-hwQ"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_URo6QaehEe2VB6m2xY-hwQ" base_Parameter="_URoTM6ehEe2VB6m2xY-hwQ"/>
+  <OpenModel_Profile:OpenModelOperation xmi:id="_79dvQ6ehEe2VB6m2xY-hwQ" base_Operation="_79dvQKehEe2VB6m2xY-hwQ" isOperationIdempotent="true" isAtomic="true"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_79eWUKehEe2VB6m2xY-hwQ" base_Parameter="_79dvQaehEe2VB6m2xY-hwQ"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_vZ31YKyPEe2QhNctQp4dIA" base_Parameter="_vZ3OUKyPEe2QhNctQp4dIA"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_5Rdb8K1HEe2Bw4yOdAHxkA" base_Parameter="_5N808K1HEe2Bw4yOdAHxkA"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_5SFHAK1HEe2Bw4yOdAHxkA" base_Parameter="_5SEf8K1HEe2Bw4yOdAHxkA"/>
+  <OpenModel_Profile:OpenModelParameter xmi:id="_9NUNgK1HEe2Bw4yOdAHxkA" base_Parameter="_9NTmcK1HEe2Bw4yOdAHxkA"/>
+  <OpenModel_Profile:PassedByReference xmi:id="_8j7K4K1KEe2Bw4yOdAHxkA" base_Parameter="_qT4w0KeeEe2VB6m2xY-hwQ"/>
+  <OpenModel_Profile:PassedByReference xmi:id="_W4gxoK1OEe2Bw4yOdAHxkA" base_Parameter="_vZ3OUKyPEe2QhNctQp4dIA"/>
+  <OpenModel_Profile:PassedByReference xmi:id="_qQXPwK1REe2Bw4yOdAHxkA" base_Parameter="_79dvQaehEe2VB6m2xY-hwQ"/>
+  <OpenModel_Profile:PassedByReference xmi:id="_8XGdALHCEe2OT7C2d-M2TQ" base_Parameter="_5SEf8K1HEe2Bw4yOdAHxkA"/>
+  <OpenModel_Profile:PassedByReference xmi:id="__sfrgLHCEe2OT7C2d-M2TQ" base_Parameter="_URoTM6ehEe2VB6m2xY-hwQ"/>
 </xmi:XMI>

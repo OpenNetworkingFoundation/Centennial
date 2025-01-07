@@ -47,6 +47,7 @@
     <!--module>mac-interface</module-->
     <!--module>ip-interface</module-->
     <!--module>wred-profile</module-->
+    <!--module>wred-template-profile</module-->
     <!--module>policing-profile</module-->
     <!--module>qos-profile</module-->
     <!--module>l3vpn-profile</module-->
@@ -54,19 +55,19 @@
     <!--module>scheduler-profile</module-->
     <!--module>vlan-interface</module-->
     <!--module>vlan-fc</module-->
-    <!--module>vlan-fc</module-->
-    <!--module>ltp-augment</module-->
+    <!--module>vlan-fd</module-->
+    <!--module>ltp-augment</modulei-->
     <!--module>mac-fc</module-->
     <!--module>mac-fd</module-->
-    <!--module>test-model</module>
-    <module>firmware</module-->
+    <!--module>test-model</module-->
+    <!--module>firmware</modulei-->
     <!--module>backup-and-restore</module-->
     <!--module>synchronization</module-->
     <!--module>alarms</module-->
-    <!--module>lldp</module>
-    <module>equipment-augment</module-->
+    <module>lldp</module>
+    <module>equipment-augment</module>
     <!--module>ethernet-container-fc</module-->
-    <module>ethernet-container-fd</module>
+    <!--module>ethernet-container-fd</module-->
     <!--module>notifications</module-->
   </modules>
 

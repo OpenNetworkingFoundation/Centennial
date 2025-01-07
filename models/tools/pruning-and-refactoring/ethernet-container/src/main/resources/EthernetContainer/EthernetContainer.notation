@@ -10,33 +10,33 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_viHKZF-HEemI8ps-yiNc8Q" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_viHKZV-HEemI8ps-yiNc8Q" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6PE_UKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwGumwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_viDgDl-HEemI8ps-yiNc8Q"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6PE_UaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrwGu2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6PICoKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwGvGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_viDgEF-HEemI8ps-yiNc8Q"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6PICoaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrwGvWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6PIpsKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwtwGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_viDgEl-HEemI8ps-yiNc8Q"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6PIpsaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrwtwWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6PJQwKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwtwmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_viDgFF-HEemI8ps-yiNc8Q"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6PJQwaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrwtw2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6PJQwqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwtxGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_viDgFl-HEemI8ps-yiNc8Q"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6PJ30KJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrwtxWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6PJ30aJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwtxmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_viDgGF-HEemI8ps-yiNc8Q"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6PJ30qJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrwtx2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6PMUEqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwtyGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_viDgHl-HEemI8ps-yiNc8Q"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6PMUE6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrwtyWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_viHKeF-HEemI8ps-yiNc8Q"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_viHKeV-HEemI8ps-yiNc8Q"/>
@@ -76,7 +76,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zffbkWBvEemiq_YnKFzkFg"/>
       </children>
       <element xmi:type="uml:Class" href="EthernetContainer.uml#_ENVvU2BvEemiq_YnKFzkFg"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zfe0cWBvEemiq_YnKFzkFg" x="-167" y="745"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zfe0cWBvEemiq_YnKFzkFg" x="-167" y="406"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_zfmwQ2BvEemiq_YnKFzkFg" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_zfmwRGBvEemiq_YnKFzkFg"/>
@@ -95,97 +95,105 @@
         <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_qUHB4GDvEemaMYhtIMl4rA" source="PapyrusCSSForceValue">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_qUHo8GDvEemaMYhtIMl4rA" key="collapsed" value="true"/>
         </eAnnotations>
-        <children xmi:type="notation:Shape" xmi:id="_UtB_gKxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSqD9GwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdwfmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtB_gaxbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSqD9WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGQ8qxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSqD9mwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_nlRiwKxZEeyS05cRzrF6cA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGQ86xbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSqD92wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGQ9KxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSqrAGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_nsmSwKxZEeyS05cRzrF6cA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGQ9axbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSqrAWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGQ9qxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSqrAmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_zPlNwKxZEeyS05cRzrF6cA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGQ96xbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSqrA2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGQ-KxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSqrBGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="EthernetContainer.uml#_OLehsGwMEe6pRv3EnSd_sA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSqrBWwPEe6pRv3EnSd_sA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_GSrSEGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
+          <element xmi:type="uml:Property" href="EthernetContainer.uml#_uTYuwGwLEe6pRv3EnSd_sA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSrSEWwPEe6pRv3EnSd_sA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_GSrSEmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdwgmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGQ-axbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSrSE2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGQ-qxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSrSFGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_o7vmIGECEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGQ-6xbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSrSFWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGQ_KxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSr5IGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_hp6XQGECEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGQ_axbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSr5IWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGQ_qxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSr5ImwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_qJfQgGsuEem7ObOWcjf7XA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGQ_6xbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSr5I2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRAKxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSr5JGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_qJfQg2suEem7ObOWcjf7XA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRAaxbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSr5JWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRAqxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSsgMGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVvYWBvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRA6xbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSsgMWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRBKxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSsgMmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmJ5WEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRBaxbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSsgM2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRBqxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSsgNGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmJ72EgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRB6xbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSsgNWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRCKxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GStHQGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmJ92EgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRCaxbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GStHQWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRCqxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GStHQmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmJ_WEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRC6xbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GStHQ2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRDKxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GStuUGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmKAWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRDaxbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GStuUWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRDqxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GStuUmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmKBWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRD6xbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GStuU2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGREKxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GStuVGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmKCWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGREaxbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GStuVWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGREqxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSuVYGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVvfGBvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRE6xbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSuVYWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRFKxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSuVYmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_mpemoKI_Eem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRFaxbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSuVY2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRFqxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSuVZGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_YBw54KJAEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRF6xbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSuVZWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRGKxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSu8cGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_4XrRQKJAEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRGaxbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSu8cWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRGqxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSu8cmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ZUUNoILVEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRG6xbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSu8c2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_UtGRHKxbEeyS05cRzrF6cA" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSu8dGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_3DP7sILVEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_UtGRHaxbEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSu8dWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_1tF7hGBvEemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_1tF7hWBvEemiq_YnKFzkFg"/>
@@ -221,81 +229,81 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_26imFGBvEemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_26imFWBvEemiq_YnKFzkFg" type="Class_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6Pz_IKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSd2smwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_LVXDQKJBEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Pz_IaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSd2s2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P0mMKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSd2tGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_LVY4cKJBEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P0mMaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSd2tWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P0mMqJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSedwGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdwhmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P0mM6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSedwWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P1NQKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSedwmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdwimB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P1NQaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSedw2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P10UKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSfE0GwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_darJgGswEem7ObOWcjf7XA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P10UaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSfE0WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P10UqJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSfE0mwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_qJfQjWsuEem7ObOWcjf7XA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P2bYKJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSfE02wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P2bYaJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSfr4GwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_qJfQkGsuEem7ObOWcjf7XA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P2bYqJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSfr4WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P3CcKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSgS8GwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmKOmEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P3CcaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSgS8WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P3CcqJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSgS8mwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmKS2EgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P3Cc6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSgS82wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P3pgKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSgS9GwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmKUWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P3pgaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSgS9WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P4QkKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSg6AGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmKVWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P4QkaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSg6AWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P43oKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSg6AmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmKWWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P43oaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSg6A2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P43oqJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSg6BGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmKXWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P43o6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSg6BWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P5esKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSg6BmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVvt2BvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P5esaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSg6B2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P6FwKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GShhEGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVvvGBvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P6FwaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GShhEWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P6FwqJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GShhEmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Z4kOAKJBEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P6Fw6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GShhE2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P6s0KJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GShhFGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Z4pGgKJBEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P6s0aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GShhFWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P7T4KJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSiIIGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_DoDgEILWEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P7T4aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSiIIWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6P768KJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSiIImwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVvv2BvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6P768aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSiII2wPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_26imFmBvEemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_26imF2BvEemiq_YnKFzkFg"/>
@@ -334,133 +342,133 @@
         <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_RzP8kGEuEemaMYhtIMl4rA" source="PapyrusCSSForceValue">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_RzQjoGEuEemaMYhtIMl4rA" key="collapsed" value="true"/>
         </eAnnotations>
-        <children xmi:type="notation:Shape" xmi:id="_EElkMKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSjWQGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_U3MfsGBzEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkMawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSjWQWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkMqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSjWQmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmKsmEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkM6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSjWQ2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkNKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSjWRGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_RKmKu2EgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkNawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSjWRWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkNqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSjWRmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_IgIGEKJCEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkN6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSjWR2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkOKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSjWSGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AxXawI3iEemStpE-Td3xTg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkOawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSjWSWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkOqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSj9UGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ilrSoKJCEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkO6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSj9UWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkPKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSj9UmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_1jz9MI3hEemStpE-Td3xTg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkPawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSj9U2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkPqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSj9VGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVvx2BvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkP6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSj9VWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkQKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSj9VmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_JXTFYILXEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkQawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSj9V2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkQqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSj9WGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ROoOAILXEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkQ6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSj9WWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkRKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSkkYGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_0IvAcILXEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkRawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSkkYWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkSqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSkkYmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_055qEKwjEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkS6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSkkY2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkTKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSkkZGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_05-ikKwjEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkTawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSkkZWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkTqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSlLcGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_06Bl4KwjEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkT6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSlLcWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkUKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSlLcmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_06EpMKwjEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkUawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSlLc2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkUqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSlLdGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_06HFcKwjEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkU6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSlLdWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkVKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSlygGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_06JhsKwjEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkVawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSlygWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkVqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSlygmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--b0oKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkV6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSlyg2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkWKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSlyhGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--ffAKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkWawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSlyhWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkWqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSmZkGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--h7QKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkW6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSmZkWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkXKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSmZkmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--kXgKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkXawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSmZk2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkXqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSnAoGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--mzwKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkX6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSnAoWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkYKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSnAomwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--oo8KwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkYawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSnAo2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkYqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSnnsGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--rFMKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkY6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSnnsWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkZKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSnnsmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--uIgKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkZawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSnns2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkZqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSnntGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--wkwKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkZ6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSnntWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkaKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSoOwGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--zBAKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkaawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSoOwWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkaqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSoOwmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--1dQKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElka6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSoOw2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkbKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSo10GwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--4gkKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkbawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSo10WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkbqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSo10mwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--680KwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkb6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSo102wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkcKwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSpc4GwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_--9ZEKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkcawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSpc4WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkcqwnEeysQIVL6YR7_g" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSpc4mwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_-_BDcKwkEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkc6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSpc42wPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_3tK85GBvEemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_3tK85WBvEemiq_YnKFzkFg"/>
@@ -496,13 +504,13 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_6H1BcmBvEemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_6H1Bc2BvEemiq_YnKFzkFg" type="Class_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_1Fk60DxxEeqLZ8WAD_XfEw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSvjgGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVv0GBvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_1Fk60TxxEeqLZ8WAD_XfEw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSvjgWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_1FrBcDxxEeqLZ8WAD_XfEw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSvjgmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_L49BcDxxEeqLZ8WAD_XfEw"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_1FrBcTxxEeqLZ8WAD_XfEw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSvjg2wPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_6H1BdGBvEemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_6H1BdWBvEemiq_YnKFzkFg"/>
@@ -538,17 +546,17 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_7uWTUmBvEemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_7uWTU2BvEemiq_YnKFzkFg" type="Class_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_1FuEwDxxEeqLZ8WAD_XfEw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSpc5GwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVv1WBvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_1FuEwTxxEeqLZ8WAD_XfEw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSpc5WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_1Fur0DxxEeqLZ8WAD_XfEw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSqD8GwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Q7o4MDxxEeqLZ8WAD_XfEw"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_1Fur0TxxEeqLZ8WAD_XfEw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSqD8WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_1FvS4DxxEeqLZ8WAD_XfEw" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSqD8mwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Q7rUcDxxEeqLZ8WAD_XfEw"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_1FvS4TxxEeqLZ8WAD_XfEw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSqD82wPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_7uWTVGBvEemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_7uWTVWBvEemiq_YnKFzkFg"/>
@@ -584,25 +592,25 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_EPhqNGBwEemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_EPhqNWBwEemiq_YnKFzkFg" type="Class_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6QEd0KJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSdPomwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtgGaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QEd0aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSdPo2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QEd0qJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSdPpGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtg2aeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QEd06JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSdPpWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QFE4KJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSdPpmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNthmaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QFE4aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSdPp2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QFr8KJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSdPqGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtiWaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QFr8aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSdPqWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QGTAqJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSd2sGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtjWaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QGTA6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSd2sWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_EPhqNmBwEemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_EPhqN2BwEemiq_YnKFzkFg"/>
@@ -641,21 +649,21 @@
         <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_DR4ZMKI6Eem31MmnPfrwaQ" source="PapyrusCSSForceValue">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_DR4ZMaI6Eem31MmnPfrwaQ" key="collapsed" value="true"/>
         </eAnnotations>
-        <children xmi:type="notation:Shape" xmi:id="_bOaesDukEeqG_fzDAhLukQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GScBgGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtomaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_bOaesTukEeqG_fzDAhLukQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GScBgWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_bOcT4DukEeqG_fzDAhLukQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GScokGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtpWaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_bOcT4TukEeqG_fzDAhLukQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GScokWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_bOc68DukEeqG_fzDAhLukQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GScokmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_o1YgIDujEeqG_fzDAhLukQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_bOc68TukEeqG_fzDAhLukQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GScok2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_bOdiADukEeqG_fzDAhLukQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSdPoGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_pbRbcDujEeqG_fzDAhLukQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_bOdiATukEeqG_fzDAhLukQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSdPoWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_EQCnlmBwEemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_EQCnl2BwEemiq_YnKFzkFg"/>
@@ -691,81 +699,97 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_qbP-YmBwEemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_qbP-Y2BwEemiq_YnKFzkFg" type="DataType_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_EElkdKwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JroK5mwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVu1WBvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkdawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JroK52wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkeKwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JroK6GwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="EthernetContainer.uml#_y1_JYKxWEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JroK6WwPEe6pRv3EnSd_sA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_Jrox8GwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVu32BvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElkeawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrox8WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EElkeqwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrox8mwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdw8GB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EElke6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrox82wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVMKwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrox9GwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVu5GBvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVMawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrox9WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVMqwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrox9mwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yrvq4KwmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVM6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrox92wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVNKwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrpZAGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr5b4awmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVNawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrpZAWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVNqwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrpZAmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr5b5qwmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVN6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrpZA2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVOKwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrpZBGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr5b66wmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVOawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrpZBWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVOqwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrpZBmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr5b8KwmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVO6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrpZB2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVPKwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrpZCGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr5b9awmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVPawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrpZCWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVPqwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrpZCmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr5b-qwmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVP6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrpZC2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVQKwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrqAEGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr5b_6wmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVQawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrqAEWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVQqwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrqAEmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr9GQqwmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVQ6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrqAE2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVRKwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrqAFGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr9GR6wmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVRawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrqAFWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVRqwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrqAFmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr9GTKwmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVR6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrqAF2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVSKwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrqAGGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr9GUawmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVSawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrqAGWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVSqwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrqAGmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr9GVqwmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVS6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrqAG2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVTKwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrqnIGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr9GW6wmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVTawnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrqnIWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_EEvVTqwnEeysQIVL6YR7_g" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrqnImwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_Yr9GYKwmEeysQIVL6YR7_g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_EEvVT6wnEeysQIVL6YR7_g"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrqnI2wPEe6pRv3EnSd_sA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_JrqnJGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="EthernetContainer.uml#_OEjIYGwOEe6pRv3EnSd_sA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrqnJWwPEe6pRv3EnSd_sA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_JrqnJmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="EthernetContainer.uml#_OEk9kGwOEe6pRv3EnSd_sA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrqnJ2wPEe6pRv3EnSd_sA"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_JrqnKGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
+          <element xmi:type="uml:Property" href="EthernetContainer.uml#_OEmLsGwOEe6pRv3EnSd_sA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrqnKWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_qbP-ZGBwEemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_qbP-ZWBwEemiq_YnKFzkFg"/>
@@ -779,7 +803,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbP-bGBwEemiq_YnKFzkFg"/>
       </children>
       <element xmi:type="uml:DataType" href="EthernetContainer.uml#_ENVu02BvEemiq_YnKFzkFg"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbPXUWBwEemiq_YnKFzkFg" x="1663" y="972"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qbPXUWBwEemiq_YnKFzkFg" x="1661" y="875"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_tDw4wGBwEemiq_YnKFzkFg" type="DataType_Shape">
       <children xmi:type="notation:DecorationNode" xmi:id="_tDw4wmBwEemiq_YnKFzkFg" type="DataType_NameLabel"/>
@@ -787,29 +811,29 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_tDxf0WBwEemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_tDxf0mBwEemiq_YnKFzkFg" type="DataType_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6QRSIKJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrr1QGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVu6mBvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QRSIaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrr1QWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QRSIqJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrr1QmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtgGaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QRSI6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrr1Q2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QR5MKJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrr1RGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtg2aeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QR5MaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrr1RWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QSgQKJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrr1RmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNthmaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QSgQaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrr1R2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QSgQqJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrr1SGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtiWaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QSgQ6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrr1SWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QTuYKJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrscUGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtjWaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QTuYaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrscUWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_tDxf02BwEemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_tDxf1GBwEemiq_YnKFzkFg"/>
@@ -831,25 +855,25 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_tfucBGBwEemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_tfucBWBwEemiq_YnKFzkFg" type="DataType_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_fph_IDukEeqG_fzDAhLukQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrnj0mwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_ENVu7mBvEemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_fph_ITukEeqG_fzDAhLukQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrnj02wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_fpjNQDukEeqG_fzDAhLukQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrnj1GwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtomaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_fpjNQTukEeqG_fzDAhLukQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrnj1WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_fpkbYDukEeqG_fzDAhLukQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrnj1mwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_AWNtpWaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_fpkbYTukEeqG_fzDAhLukQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrnj12wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_fplCcDukEeqG_fzDAhLukQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrnj2GwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_o1YgIDujEeqG_fzDAhLukQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_fplCcTukEeqG_fzDAhLukQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrnj2WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_fpmQkDukEeqG_fzDAhLukQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JroK4GwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_pbRbcDujEeqG_fzDAhLukQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_fpmQkTukEeqG_fzDAhLukQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JroK4WwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_tfucBmBwEemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_tfucB2BwEemiq_YnKFzkFg"/>
@@ -874,13 +898,13 @@
         <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_bgSpsIxcEemB8ZCGu4qmig" source="PapyrusCSSForceValue">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_bgTQwIxcEemB8ZCGu4qmig" key="collapsed" value="true"/>
         </eAnnotations>
-        <children xmi:type="notation:Shape" xmi:id="_6QbqMKJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JroK4mwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdw1GB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QbqMaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JroK42wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QbqMqJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JroK5GwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_mBSn0ILbEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QbqM6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JroK5WwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_EEK8hGB1Eemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_EEK8hWB1Eemiq_YnKFzkFg"/>
@@ -902,41 +926,41 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_QMWPRGB1Eemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_QMWPRWB1Eemiq_YnKFzkFg" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6QcRQKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrxU1GwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwkmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QcRQaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrxU1WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Qc4UKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrx74GwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwk2B0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Qc4UaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrx74WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Qc4UqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrx74mwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwlGB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Qc4U6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrx742wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QdfYKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrx75GwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwlWB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QdfYaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrx75WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QdfYqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrx75mwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwlmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QdfY6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrx752wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QdfZKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jryi8GwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwl2B0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QdfZaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jryi8WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QeGcKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jryi8mwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwmGB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QeGcaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jryi82wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QeGcqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jryi9GwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwmWB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QeGc6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jryi9WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QetgKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jryi9mwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwmmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QetgaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jryi92wPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_QMWPRmB1Eemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_QMWPR2B1Eemiq_YnKFzkFg"/>
@@ -952,21 +976,21 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_QPLg1GB1Eemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_QPLg1WB1Eemiq_YnKFzkFg" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6QetgqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrlHlGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwnGB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Qetg6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrlHlWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QfUkKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrlHlmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwn2B0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QfUkaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrlHl2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QfUkqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrlHmGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwoWB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QfUk6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrlHmWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Qf7oKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrlHmmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwo2B0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Qf7oaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrlHm2wPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_QPLg1mB1Eemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_QPLg12B1Eemiq_YnKFzkFg"/>
@@ -982,25 +1006,25 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_QRz-FGB1Eemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_QRz-FWB1Eemiq_YnKFzkFg" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6Qf7oqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrlupmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwpWB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Qf7o6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrlup2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Qf7pKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrluqGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwpmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Qf7paJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrluqWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QgisKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrluqmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwqGB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QgisaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrluq2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QgisqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrlurGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwqmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Qgis6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrlurWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6QhJwKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrmVsGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwrGB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6QhJwaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrmVsWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_QRz-FmB1Eemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_QRz-F2B1Eemiq_YnKFzkFg"/>
@@ -1016,25 +1040,25 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_QUVtpGB1Eemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_QUVtpWB1Eemiq_YnKFzkFg" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6Qhw0KJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrlHnGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwrmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Qhw0aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrlHnWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Qhw0qJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrlHnmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwsGB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Qhw06JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrlHn2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Q7ZcKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrluoGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#__ukeUILbEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Q7ZcaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrluoWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Q7ZcqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrluomwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_Bk9_QILcEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Q7Zc6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrluo2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Q8AgKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrlupGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_jIdwtmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Q8AgaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrlupWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_QUVtpmB1Eemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_QUVtp2B1Eemiq_YnKFzkFg"/>
@@ -1050,29 +1074,29 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_QWqB1GB1Eemiq_YnKFzkFg" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_QWqB1WB1Eemiq_YnKFzkFg" type="DataType_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6Q8nkKJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrzKAGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdwuGB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Q8nkaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrzKAWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Q9OoKJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrzKAmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdwu2B0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Q9OoaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrzKA2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Q91sKJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrzKBGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdwwWB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Q91saJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrzKBWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Q-cwKJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrzKBmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdwxmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Q-cwaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrzKB2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Q_D0KJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrzKCGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdwy2B0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Q_D0aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrzKCWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6Q_D0qJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrzxEGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdwzmB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6Q_D06JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrzxEWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_QWqB1mB1Eemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_QWqB12B1Eemiq_YnKFzkFg"/>
@@ -1097,29 +1121,29 @@
         <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_2Q5lkGsXEem7ObOWcjf7XA" source="PapyrusCSSForceValue">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_2Q6MoGsXEem7ObOWcjf7XA" key="collapsed" value="true"/>
         </eAnnotations>
-        <children xmi:type="notation:Shape" xmi:id="_aTBykEwNEeqvy6AV6tys0A" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrtqcmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdw22B0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_aTBykUwNEeqvy6AV6tys0A"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrtqc2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_aTHSIEwNEeqvy6AV6tys0A" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrtqdGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdw3mB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_aTHSIUwNEeqvy6AV6tys0A"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrtqdWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_aTH5MEwNEeqvy6AV6tys0A" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrtqdmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdw42B0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_aTH5MUwNEeqvy6AV6tys0A"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrtqd2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_aTIgQEwNEeqvy6AV6tys0A" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JruRgGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdw5WB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_aTIgQUwNEeqvy6AV6tys0A"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JruRgWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_aTJHUEwNEeqvy6AV6tys0A" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JruRgmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdw6WB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_aTJHUUwNEeqvy6AV6tys0A"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JruRg2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_aTJuYEwNEeqvy6AV6tys0A" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JruRhGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jIdw7GB0Eemiq_YnKFzkFg"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_aTJuYUwNEeqvy6AV6tys0A"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JruRhWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_Rn_G1GB1Eemiq_YnKFzkFg"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_Rn_G1WB1Eemiq_YnKFzkFg"/>
@@ -1144,25 +1168,25 @@
         <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_CCJuEGD8EemaMYhtIMl4rA" source="PapyrusCSSForceValue">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_CCJuEWD8EemaMYhtIMl4rA" key="collapsed" value="true"/>
         </eAnnotations>
-        <children xmi:type="notation:Shape" xmi:id="_6RCHIqJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSiIJGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_mpt6IGD3EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RCHI6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSiIJWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RCuMKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSivMGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_yFnOUGD6EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RCuMaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSivMWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RDVQKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSivMmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_t3g9kGD3EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RDVQaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSivM2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RD8UKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSivNGwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_jrCTUIOlEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RD8UaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSivNWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6REjYKJiEemT8Nyuil27qQ" type="Property_ClassAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_GSivNmwPEe6pRv3EnSd_sA" type="Property_ClassAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_UEB0kGD7EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6REjYaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_GSivN2wPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_WR-PpmD3EemaMYhtIMl4rA"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_WR-Pp2D3EemaMYhtIMl4rA"/>
@@ -1198,57 +1222,57 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_voGKYmD3EemaMYhtIMl4rA" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_voGKY2D3EemaMYhtIMl4rA" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6REjYqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jru4lmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_05cu4ILbEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6REjY6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jru4l2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RFKcKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrvfoGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_3wHaYGD3EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RFKcaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrvfoWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RFxgKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrvfomwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_5vLIEGD3EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RFxgaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrvfo2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RFxgqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrvfpGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_7OlsYGD3EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RFxg6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrvfpWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RGYkKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrvfpmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_8FTR8GD3EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RGYkaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrvfp2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RGYkqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrvfqGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_9iZiEGD3EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RGYk6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrvfqWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RG_oKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrvfqmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_-esyQGD3EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RG_oaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrvfq2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RG_oqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrvfrGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_AEYWoGD4EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RG_o6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrvfrWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RHmsKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwGsGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_A77CoGD4EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RHmsaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrwGsWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RINwKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwGsmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_3ze3EILbEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RINwaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrwGs2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RI00KJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwGtGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_6fHW4ILbEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RI00aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrwGtWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RI00qJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwGtmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_73I5wILbEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RI006JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrwGt2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RJb4KJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwGuGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_gekxEGD4EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RJb4aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrwGuWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_voGKZGD3EemaMYhtIMl4rA"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_voGKZWD3EemaMYhtIMl4rA"/>
@@ -1264,25 +1288,25 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_qFImMWD5EemaMYhtIMl4rA" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_qFImMmD5EemaMYhtIMl4rA" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="__UGoMKxcEeyS05cRzrF6cA" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrrONGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_ua66sGD5EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="__UGoMaxcEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrrONWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="__UGoMqxcEeyS05cRzrF6cA" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrrONmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_wKv5kGD5EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="__UGoM6xcEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrrON2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="__UGoNKxcEeyS05cRzrF6cA" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrrOOGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_-96y8GD5EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="__UGoNaxcEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrrOOWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="__UGoNqxcEeyS05cRzrF6cA" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrrOOmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_x0lIAKxcEeyS05cRzrF6cA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="__UGoN6xcEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrrOO2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="__UGoOKxcEeyS05cRzrF6cA" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrrOPGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_z2sKYGD6EemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="__UGoOaxcEeyS05cRzrF6cA"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrrOPWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_qFImM2D5EemaMYhtIMl4rA"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_qFImNGD5EemaMYhtIMl4rA"/>
@@ -1458,21 +1482,21 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_xYOvMmtTEemvrsWkqcBb8g" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_xYPWQGtTEemvrsWkqcBb8g" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6RKC9KJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwtymwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_AWNtvmaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RKC9aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrwty2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RKqAKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrwtzGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_AWNtv2aeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RKqAaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrwtzWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RKqAqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrxU0GwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_AWNtwGaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RKqA6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrxU0WwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RLREKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrxU0mwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_AWNtwWaeEemaCpXjwie7xQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RLREaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrxU02wPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_xYPWQWtTEemvrsWkqcBb8g"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_xYPWQmtTEemvrsWkqcBb8g"/>
@@ -1480,7 +1504,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xYPWRGtTEemvrsWkqcBb8g"/>
       </children>
       <element xmi:type="uml:Enumeration" href="EthernetContainer.uml#_AWNtvGaeEemaCpXjwie7xQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xYM6AWtTEemvrsWkqcBb8g" x="1660" y="789"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xYM6AWtTEemvrsWkqcBb8g" x="1658" y="692"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_sz-AEILcEem1r8z-Ndbz2g" type="DataType_Shape">
       <children xmi:type="notation:DecorationNode" xmi:id="_sz_1QILcEem1r8z-Ndbz2g" type="DataType_NameLabel"/>
@@ -1488,17 +1512,17 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_sz_1QoLcEem1r8z-Ndbz2g" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_sz_1Q4LcEem1r8z-Ndbz2g" type="DataType_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6RNGQKJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jru4kGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_i32ckILZEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RNGQaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jru4kWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RNGQqJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jru4kmwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_k7lO4ILZEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RNGQ6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jru4k2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RNtUKJiEemT8Nyuil27qQ" type="Property_DataTypeAttributeLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jru4lGwPEe6pRv3EnSd_sA" type="Property_DataTypeAttributeLabel">
           <element xmi:type="uml:Property" href="EthernetContainer.uml#_qSDH0ILaEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RNtUaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jru4lWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_sz_1RILcEem1r8z-Ndbz2g"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_sz_1RYLcEem1r8z-Ndbz2g"/>
@@ -1520,29 +1544,29 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_zEe74oLcEem1r8z-Ndbz2g" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_zEe744LcEem1r8z-Ndbz2g" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6RNtUqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrj5cGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllLWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RNtU6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrj5cWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RNtVKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrkggGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllLmEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RNtVaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrkggWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6ROUYKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrkggmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllL2EgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6ROUYaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrkgg2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6ROUYqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrkghGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllMGEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6ROUY6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrkghWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RO7cKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrlHkGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllMWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RO7caJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrlHkWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RO7cqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrlHkmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllMmEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RO7c6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrlHk2wPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_zEe75ILcEem1r8z-Ndbz2g"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_zEe75YLcEem1r8z-Ndbz2g"/>
@@ -1558,21 +1582,21 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_zHFj9ILcEem1r8z-Ndbz2g" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_zHFj9YLcEem1r8z-Ndbz2g" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6RPigKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrtDZGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllNGEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RPigaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrtDZWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RPigqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrtDZmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllNWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RPig6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrtDZ2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RPihKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrtDaGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllNmEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RPihaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrtDaWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RQJkKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrtqcGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllN2EgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RQJkaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrtqcWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_zHFj9oLcEem1r8z-Ndbz2g"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_zHGLAILcEem1r8z-Ndbz2g"/>
@@ -1588,57 +1612,57 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_zJ2kFILcEem1r8z-Ndbz2g" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_zJ2kFYLcEem1r8z-Ndbz2g" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6RQJkqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrmVsmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllOmEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RQJk6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrmVs2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RQwoKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrmVtGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllO2EgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RQwoaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrmVtWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RQwoqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrmVtmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllPGEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RQwo6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrmVt2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RRXsKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrmVuGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllPWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RRXsaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrmVuWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RRXsqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrmVumwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllPmEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RRXs6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrmVu2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RR-wKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrmVvGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllP2EgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RR-waJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrmVvWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RR-wqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrm8wGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllQGEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RR-w6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrm8wWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RSl0KJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrm8wmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllQWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RSl0aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrm8w2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RSl0qJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrm8xGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllQmEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RSl06JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrm8xWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RTM4KJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrm8xmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllQ2EgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RTM4aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrm8x2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RTM4qJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrm8yGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKllRGEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RTM46JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrm8yWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RTM5KJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrm8ymwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKmJgGEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RTM5aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrm8y2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RTz8KJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_Jrnj0GwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_RKmJgWEgEemaMYhtIMl4rA"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RTz8aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_Jrnj0WwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_zJ2kFoLcEem1r8z-Ndbz2g"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_zJ2kF4LcEem1r8z-Ndbz2g"/>
@@ -1694,25 +1718,25 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_O-iyooxXEemB8ZCGu4qmig" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_O-iyo4xXEemB8ZCGu4qmig" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6RTz8qJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrscWmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_-YUOQIOlEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RTz86JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrscW2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RTz9KJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrscXGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_-s_dwIOlEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RTz9aJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrscXWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RUbAKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrscXmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_-626oIOlEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RUbAaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrscX2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RUbAqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrtDYGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_E2l5QIOmEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RUbA6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrtDYWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RVCEKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrtDYmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_FUk1wIOmEem1r8z-Ndbz2g"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RVCEaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrtDY2wPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_O-iypIxXEemB8ZCGu4qmig"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_O-iypYxXEemB8ZCGu4qmig"/>
@@ -1754,7 +1778,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jOx7DqI3Eem31MmnPfrwaQ"/>
       </children>
       <element xmi:type="uml:Class" href="EthernetContainer.uml#_WM_fsKI3Eem31MmnPfrwaQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jOwF0aI3Eem31MmnPfrwaQ" x="-167" y="483"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_jOwF0aI3Eem31MmnPfrwaQ" x="-167" y="144"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_jPBLkKI3Eem31MmnPfrwaQ" type="StereotypeComment">
       <styles xmi:type="notation:TitleStyle" xmi:id="_jPBLkaI3Eem31MmnPfrwaQ"/>
@@ -1770,21 +1794,21 @@
         <layoutConstraint xmi:type="notation:Location" xmi:id="_-3fX4qJBEem31MmnPfrwaQ" y="5"/>
       </children>
       <children xmi:type="notation:BasicCompartment" xmi:id="_-3fX46JBEem31MmnPfrwaQ" type="Enumeration_LiteralCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_6RVCEqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrscUmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_b-kGoaJAEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RVCE6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrscU2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RVCFKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrscVGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_b-kGoqJAEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RVCFaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrscVWwPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RVpIKJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrscVmwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_b-kGpKJAEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RVpIaJiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrscV2wPEe6pRv3EnSd_sA"/>
         </children>
-        <children xmi:type="notation:Shape" xmi:id="_6RVpIqJiEemT8Nyuil27qQ" type="EnumerationLiteral_LiteralLabel">
+        <children xmi:type="notation:Shape" xmi:id="_JrscWGwPEe6pRv3EnSd_sA" type="EnumerationLiteral_LiteralLabel">
           <element xmi:type="uml:EnumerationLiteral" href="EthernetContainer.uml#_b-kGpqJAEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_6RVpI6JiEemT8Nyuil27qQ"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_JrscWWwPEe6pRv3EnSd_sA"/>
         </children>
         <styles xmi:type="notation:TitleStyle" xmi:id="_-3fX5KJBEem31MmnPfrwaQ"/>
         <styles xmi:type="notation:SortingStyle" xmi:id="_-3fX5aJBEem31MmnPfrwaQ"/>
@@ -1818,7 +1842,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sh8EgaJjEemT8Nyuil27qQ"/>
       </children>
       <element xmi:type="uml:Class" href="platform:/resource/ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_gROecFYXEeOVGaP4lO41SQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sh7dYaJjEemT8Nyuil27qQ" x="-168" y="199"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sh7dYaJjEemT8Nyuil27qQ" x="-168" y="-140"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_tXjd0KJjEemT8Nyuil27qQ" type="Class_Shape" fillColor="8421504">
       <children xmi:type="notation:DecorationNode" xmi:id="_tXjd0qJjEemT8Nyuil27qQ" type="Class_NameLabel"/>
@@ -1858,7 +1882,7 @@
       <children xmi:type="notation:DecorationNode" xmi:id="__7odAKJjEemT8Nyuil27qQ" type="Constraint_NameLabel"/>
       <children xmi:type="notation:DecorationNode" xmi:id="__7odAaJjEemT8Nyuil27qQ" type="Constraint_BodyLabel"/>
       <element xmi:type="uml:Constraint" href="EthernetContainer.uml#__7ghMKJjEemT8Nyuil27qQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="__7n18aJjEemT8Nyuil27qQ" x="-168" y="352"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="__7n18aJjEemT8Nyuil27qQ" x="-168" y="13"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_8F_KsA3bEeqJFpwd-R6pdQ" type="Enumeration_Shape" fillColor="8421504">
       <children xmi:type="notation:DecorationNode" xmi:id="_8F_xwA3bEeqJFpwd-R6pdQ" type="Enumeration_NameLabel"/>
@@ -1910,109 +1934,7 @@
         <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AOMWQQ3cEeqJFpwd-R6pdQ"/>
       </children>
       <element xmi:type="uml:Class" href="platform:/resource/ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_eEpDMFX4EeOVGaP4lO41SQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AOLvIQ3cEeqJFpwd-R6pdQ" x="-168" y="-44"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_Fv65YA3cEeqJFpwd-R6pdQ" type="Signal_Shape">
-      <children xmi:type="notation:DecorationNode" xmi:id="_Fv7gcA3cEeqJFpwd-R6pdQ" type="Signal_NameLabel"/>
-      <children xmi:type="notation:DecorationNode" xmi:id="_Fv7gcQ3cEeqJFpwd-R6pdQ" type="Signal_FloatingNameLabel">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_Fv7gcg3cEeqJFpwd-R6pdQ" y="5"/>
-      </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_Fv7gcw3cEeqJFpwd-R6pdQ" type="Signal_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_U_7qUA3dEeqJFpwd-R6pdQ" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="EthernetContainer.uml#_OljbIaJhEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_U_7qUQ3dEeqJFpwd-R6pdQ"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_U_8RYA3dEeqJFpwd-R6pdQ" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="EthernetContainer.uml#_OlkpQqJhEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_U_8RYQ3dEeqJFpwd-R6pdQ"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_U_-GkA3dEeqJFpwd-R6pdQ" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="EthernetContainer.uml#_OlkpRaJhEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_U_-GkQ3dEeqJFpwd-R6pdQ"/>
-        </children>
-        <styles xmi:type="notation:TitleStyle" xmi:id="_Fv7gdA3cEeqJFpwd-R6pdQ"/>
-        <styles xmi:type="notation:SortingStyle" xmi:id="_Fv7gdQ3cEeqJFpwd-R6pdQ"/>
-        <styles xmi:type="notation:FilteringStyle" xmi:id="_Fv7gdg3cEeqJFpwd-R6pdQ"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fv7gdw3cEeqJFpwd-R6pdQ"/>
-      </children>
-      <element xmi:type="uml:Signal" href="EthernetContainer.uml#_OljbIKJhEem31MmnPfrwaQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Fv65YQ3cEeqJFpwd-R6pdQ" x="-167" y="-567"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_FwKxAA3cEeqJFpwd-R6pdQ" type="StereotypeComment">
-      <styles xmi:type="notation:TitleStyle" xmi:id="_FwKxAQ3cEeqJFpwd-R6pdQ"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_FwKxAw3cEeqJFpwd-R6pdQ" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="EthernetContainer.uml#_OljbIKJhEem31MmnPfrwaQ"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FwKxAg3cEeqJFpwd-R6pdQ" x="200"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_GDNo0A3cEeqJFpwd-R6pdQ" type="Signal_Shape">
-      <children xmi:type="notation:DecorationNode" xmi:id="_GDNo0g3cEeqJFpwd-R6pdQ" type="Signal_NameLabel"/>
-      <children xmi:type="notation:DecorationNode" xmi:id="_GDNo0w3cEeqJFpwd-R6pdQ" type="Signal_FloatingNameLabel">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_GDNo1A3cEeqJFpwd-R6pdQ" y="5"/>
-      </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_GDNo1Q3cEeqJFpwd-R6pdQ" type="Signal_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_U_6cMg3dEeqJFpwd-R6pdQ" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="EthernetContainer.uml#_OlnFgaJhEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_U_6cMw3dEeqJFpwd-R6pdQ"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_U_7DQA3dEeqJFpwd-R6pdQ" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="EthernetContainer.uml#_OlnFhKJhEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_U_7DQQ3dEeqJFpwd-R6pdQ"/>
-        </children>
-        <styles xmi:type="notation:TitleStyle" xmi:id="_GDNo1g3cEeqJFpwd-R6pdQ"/>
-        <styles xmi:type="notation:SortingStyle" xmi:id="_GDNo1w3cEeqJFpwd-R6pdQ"/>
-        <styles xmi:type="notation:FilteringStyle" xmi:id="_GDNo2A3cEeqJFpwd-R6pdQ"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GDNo2Q3cEeqJFpwd-R6pdQ"/>
-      </children>
-      <element xmi:type="uml:Signal" href="EthernetContainer.uml#_OlnFgKJhEem31MmnPfrwaQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GDNo0Q3cEeqJFpwd-R6pdQ" x="-124" y="-460"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_GDVkoA3cEeqJFpwd-R6pdQ" type="StereotypeComment">
-      <styles xmi:type="notation:TitleStyle" xmi:id="_GDVkoQ3cEeqJFpwd-R6pdQ"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_GDVkow3cEeqJFpwd-R6pdQ" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="EthernetContainer.uml#_OlnFgKJhEem31MmnPfrwaQ"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GDVkog3cEeqJFpwd-R6pdQ" x="200"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_GXNi4A3cEeqJFpwd-R6pdQ" type="Signal_Shape">
-      <children xmi:type="notation:DecorationNode" xmi:id="_GXNi4g3cEeqJFpwd-R6pdQ" type="Signal_NameLabel"/>
-      <children xmi:type="notation:DecorationNode" xmi:id="_GXNi4w3cEeqJFpwd-R6pdQ" type="Signal_FloatingNameLabel">
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_GXNi5A3cEeqJFpwd-R6pdQ" y="5"/>
-      </children>
-      <children xmi:type="notation:BasicCompartment" xmi:id="_GXNi5Q3cEeqJFpwd-R6pdQ" type="Signal_AttributeCompartment">
-        <children xmi:type="notation:Shape" xmi:id="_U_4nAA3dEeqJFpwd-R6pdQ" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="EthernetContainer.uml#_Olo6saJhEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_U_4nAQ3dEeqJFpwd-R6pdQ"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_U_5OEA3dEeqJFpwd-R6pdQ" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="EthernetContainer.uml#_Olo6tKJhEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_U_5OEQ3dEeqJFpwd-R6pdQ"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_U_51IA3dEeqJFpwd-R6pdQ" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="EthernetContainer.uml#_Olo6t6JhEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_U_51IQ3dEeqJFpwd-R6pdQ"/>
-        </children>
-        <children xmi:type="notation:Shape" xmi:id="_U_6cMA3dEeqJFpwd-R6pdQ" type="Property_SignalAttributeLabel">
-          <element xmi:type="uml:Property" href="EthernetContainer.uml#_Olo6uqJhEem31MmnPfrwaQ"/>
-          <layoutConstraint xmi:type="notation:Location" xmi:id="_U_6cMQ3dEeqJFpwd-R6pdQ"/>
-        </children>
-        <styles xmi:type="notation:TitleStyle" xmi:id="_GXNi5g3cEeqJFpwd-R6pdQ"/>
-        <styles xmi:type="notation:SortingStyle" xmi:id="_GXNi5w3cEeqJFpwd-R6pdQ"/>
-        <styles xmi:type="notation:FilteringStyle" xmi:id="_GXNi6A3cEeqJFpwd-R6pdQ"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GXNi6Q3cEeqJFpwd-R6pdQ"/>
-      </children>
-      <element xmi:type="uml:Signal" href="EthernetContainer.uml#_Olo6sKJhEem31MmnPfrwaQ"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GXNi4Q3cEeqJFpwd-R6pdQ" x="-72" y="-354"/>
-    </children>
-    <children xmi:type="notation:Shape" xmi:id="_GXVesw3cEeqJFpwd-R6pdQ" type="StereotypeComment">
-      <styles xmi:type="notation:TitleStyle" xmi:id="_GXVetA3cEeqJFpwd-R6pdQ"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_GXVetg3cEeqJFpwd-R6pdQ" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="EthernetContainer.uml#_Olo6sKJhEem31MmnPfrwaQ"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GXVetQ3cEeqJFpwd-R6pdQ" x="200"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_AOLvIQ3cEeqJFpwd-R6pdQ" x="-168" y="-383"/>
     </children>
     <children xmi:type="notation:Shape" xmi:id="_wYz8cA3cEeqJFpwd-R6pdQ" type="Enumeration_Shape">
       <children xmi:type="notation:DecorationNode" xmi:id="_wYz8cg3cEeqJFpwd-R6pdQ" type="Enumeration_NameLabel"/>
@@ -2220,8 +2142,8 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_ED3XUWBxEemiq_YnKFzkFg"/>
       <element xmi:type="uml:Association" href="EthernetContainer.uml#_ENVwPmBvEemiq_YnKFzkFg"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ED3XUmBxEemiq_YnKFzkFg" points="[104, 556, -643984, -643984]$[505, -62, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y-t-0GBxEemiq_YnKFzkFg" id="(0.5886524822695035,0.0)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y-t-0WBxEemiq_YnKFzkFg" id="(0.0,0.17511520737327188)"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y-t-0GBxEemiq_YnKFzkFg" id="(0.9858156028368794,0.34)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y-t-0WBxEemiq_YnKFzkFg" id="(0.0,0.18025751072961374)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_EEaJ4GBxEemiq_YnKFzkFg" type="Association_Edge" source="_zfe0cGBvEemiq_YnKFzkFg" target="_26imEGBvEemiq_YnKFzkFg">
       <children xmi:type="notation:DecorationNode" xmi:id="_EEaJ42BxEemiq_YnKFzkFg" visible="false" type="Association_StereotypeLabel">
@@ -2257,8 +2179,8 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_EEaJ4WBxEemiq_YnKFzkFg"/>
       <element xmi:type="uml:Association" href="EthernetContainer.uml#_ENVwQmBvEemiq_YnKFzkFg"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EEaJ4mBxEemiq_YnKFzkFg" points="[124, 556, -643984, -643984]$[497, 197, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nZH0sGBxEemiq_YnKFzkFg" id="(1.0,0.79)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nZH0sWBxEemiq_YnKFzkFg" id="(0.0,0.14054054054054055)"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nZH0sGBxEemiq_YnKFzkFg" id="(0.9858156028368794,0.58)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nZH0sWBxEemiq_YnKFzkFg" id="(0.0,0.13513513513513514)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_EFAm0GBxEemiq_YnKFzkFg" type="Association_Edge" source="_zfe0cGBvEemiq_YnKFzkFg" target="_3tKV0GBvEemiq_YnKFzkFg">
       <children xmi:type="notation:DecorationNode" xmi:id="_EFAm02BxEemiq_YnKFzkFg" visible="false" type="Association_StereotypeLabel">
@@ -2294,7 +2216,7 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_EFAm0WBxEemiq_YnKFzkFg"/>
       <element xmi:type="uml:Association" href="EthernetContainer.uml#_ENVwRmBvEemiq_YnKFzkFg"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EFAm0mBxEemiq_YnKFzkFg" points="[140, 588, -643984, -643984]$[458, 498, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yPBnQGBxEemiq_YnKFzkFg" id="(1.0,0.75)"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yPBnQGBxEemiq_YnKFzkFg" id="(1.0,0.74)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yPBnQWBxEemiq_YnKFzkFg" id="(0.0,0.17993079584775087)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_EGZG4GBxEemiq_YnKFzkFg" type="Association_Edge" source="_zfe0cGBvEemiq_YnKFzkFg" target="_6H0aYGBvEemiq_YnKFzkFg">
@@ -2331,8 +2253,8 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_EGZG4WBxEemiq_YnKFzkFg"/>
       <element xmi:type="uml:Association" href="EthernetContainer.uml#_ENVwTmBvEemiq_YnKFzkFg"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EGZG4mBxEemiq_YnKFzkFg" points="[108, 656, -643984, -643984]$[518, 1192, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yo1OYGBxEemiq_YnKFzkFg" id="(1.0,0.49)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yo1OYWBxEemiq_YnKFzkFg" id="(0.0,0.02)"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yo1OYGBxEemiq_YnKFzkFg" id="(0.9858156028368794,0.82)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_yo1OYWBxEemiq_YnKFzkFg" id="(0.0,0.0)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_EHFDYGBxEemiq_YnKFzkFg" type="Association_Edge" source="_zfe0cGBvEemiq_YnKFzkFg" target="_7uVsQGBvEemiq_YnKFzkFg">
       <children xmi:type="notation:DecorationNode" xmi:id="_EHFDY2BxEemiq_YnKFzkFg" visible="false" type="Association_StereotypeLabel">
@@ -2368,8 +2290,8 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_EHFDYWBxEemiq_YnKFzkFg"/>
       <element xmi:type="uml:Association" href="EthernetContainer.uml#_ENVwUmBvEemiq_YnKFzkFg"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_EHFDYmBxEemiq_YnKFzkFg" points="[93, 656, -643984, -643984]$[541, 1602, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y0u8YmBxEemiq_YnKFzkFg" id="(1.0,0.31)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y0u8Y2BxEemiq_YnKFzkFg" id="(0.0,0.20175438596491227)"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y0u8YmBxEemiq_YnKFzkFg" id="(0.9858156028368794,0.94)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_y0u8Y2BxEemiq_YnKFzkFg" id="(0.0,0.18421052631578946)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_KByuUGBxEemiq_YnKFzkFg" type="Usage_Edge" source="_6H0aYGBvEemiq_YnKFzkFg" target="_tDw4wGBwEemiq_YnKFzkFg">
       <children xmi:type="notation:DecorationNode" xmi:id="_KByuU2BxEemiq_YnKFzkFg" visible="false" type="Usage_NameLabel">
@@ -2414,7 +2336,7 @@
       <element xmi:type="uml:Usage" href="EthernetContainer.uml#_ENVws2BvEemiq_YnKFzkFg"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_KCza8mBxEemiq_YnKFzkFg" points="[1185, 1509, -643984, -643984]$[1533, 1249, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4COU8GBxEemiq_YnKFzkFg" id="(1.0,0.23972602739726026)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4COU8WBxEemiq_YnKFzkFg" id="(0.0,0.1783783783783784)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4COU8WBxEemiq_YnKFzkFg" id="(0.0,0.1781115879828326)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_KDUYUGBxEemiq_YnKFzkFg" type="Usage_Edge" source="_tDw4wGBwEemiq_YnKFzkFg" target="_qbPXUGBwEemiq_YnKFzkFg">
       <children xmi:type="notation:DecorationNode" xmi:id="_KDUYU2BxEemiq_YnKFzkFg" visible="false" type="Usage_NameLabel">
@@ -2429,7 +2351,7 @@
       <element xmi:type="uml:Usage" href="EthernetContainer.uml#_ENVwtGBvEemiq_YnKFzkFg"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_KDUYUmBxEemiq_YnKFzkFg" points="[1241, 1159, -643984, -643984]$[1515, 1222, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4COU8mBxEemiq_YnKFzkFg" id="(1.0,0.037037037037037035)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4COU82BxEemiq_YnKFzkFg" id="(0.0,0.10270270270270271)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4COU82BxEemiq_YnKFzkFg" id="(0.0,0.10085836909871244)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_PXdLcGBxEemiq_YnKFzkFg" type="Generalization_Edge" source="_tDw4wGBwEemiq_YnKFzkFg" target="_EPhqMGBwEemiq_YnKFzkFg">
       <children xmi:type="notation:DecorationNode" xmi:id="_PXdLc2BxEemiq_YnKFzkFg" type="Generalization_StereotypeLabel">
@@ -3053,7 +2975,7 @@
       <styles xmi:type="notation:FontStyle" xmi:id="_4mvOEYLdEem1r8z-Ndbz2g"/>
       <element xmi:type="uml:Usage" href="EthernetContainer.uml#_4msKwILdEem1r8z-Ndbz2g"/>
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4mvOEoLdEem1r8z-Ndbz2g" points="[2043, 1277, -643984, -643984]$[1067, -784, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4qlMQILdEem1r8z-Ndbz2g" id="(1.0,0.518918918918919)"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4qlMQILdEem1r8z-Ndbz2g" id="(1.0,0.5171673819742489)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_4qlMQYLdEem1r8z-Ndbz2g" id="(0.0,0.18421052631578946)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_BRWNxILeEem1r8z-Ndbz2g" type="StereotypeCommentLink" source="_4mvOEILdEem1r8z-Ndbz2g" target="_BRWNwILeEem1r8z-Ndbz2g">
@@ -3153,7 +3075,7 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_xkSoAaI3Eem31MmnPfrwaQ"/>
       <element xmi:type="uml:Association" href="EthernetContainer.uml#_xhVaoKI3Eem31MmnPfrwaQ"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xkSoAqI3Eem31MmnPfrwaQ" points="[2, -48, -643984, -643984]$[2, 375, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_xkSoAqI3Eem31MmnPfrwaQ" points="[2, -302, -643984, -643984]$[2, 121, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xpl-wKI3Eem31MmnPfrwaQ" id="(0.27741935483870966,1.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_xpl-waI3Eem31MmnPfrwaQ" id="(0.3049645390070922,0.0)"/>
     </edges>
@@ -3213,7 +3135,7 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_2V2OgaJjEemT8Nyuil27qQ"/>
       <element xmi:type="uml:Abstraction" href="EthernetContainer.uml#_2Vx9EKJjEemT8Nyuil27qQ"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2V2OgqJjEemT8Nyuil27qQ" points="[10, 439, -643984, -643984]$[10, -207, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_2V2OgqJjEemT8Nyuil27qQ" points="[10, 185, -643984, -643984]$[10, -461, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2bC3kKJjEemT8Nyuil27qQ" id="(0.3161290322580645,0.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_2bC3kaJjEemT8Nyuil27qQ" id="(0.52,1.0)"/>
     </edges>
@@ -3234,7 +3156,7 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_AiwHYaJkEemT8Nyuil27qQ"/>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_AiwHYqJkEemT8Nyuil27qQ" points="[91, 61, -643984, -643984]$[7, 439, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_AiwHYqJkEemT8Nyuil27qQ" points="[91, -193, -643984, -643984]$[7, 185, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_An7iUKJkEemT8Nyuil27qQ" id="(0.4171779141104294,1.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_An7iUaJkEemT8Nyuil27qQ" id="(0.3161290322580645,0.0)"/>
     </edges>
@@ -3333,132 +3255,9 @@
       </children>
       <styles xmi:type="notation:FontStyle" xmi:id="_D9_BsQ3cEeqJFpwd-R6pdQ"/>
       <element xmi:type="uml:Association" href="EthernetContainer.uml#_lvO_QFYXEeOVGaP4lO41SQ"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_D9_Bsg3cEeqJFpwd-R6pdQ" points="[-104, 908, -643984, -643984]$[0, 552, -643984, -643984]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_D9_Bsg3cEeqJFpwd-R6pdQ" points="[-104, 654, -643984, -643984]$[0, 298, -643984, -643984]"/>
       <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_j2nxwA3dEeqJFpwd-R6pdQ" id="(0.5,0.0)"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_j2oY0A3dEeqJFpwd-R6pdQ" id="(0.32679738562091504,1.0)"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_FwLYEA3cEeqJFpwd-R6pdQ" type="StereotypeCommentLink" source="_Fv65YA3cEeqJFpwd-R6pdQ" target="_FwKxAA3cEeqJFpwd-R6pdQ">
-      <styles xmi:type="notation:FontStyle" xmi:id="_FwLYEQ3cEeqJFpwd-R6pdQ"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_FwL_IQ3cEeqJFpwd-R6pdQ" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="EthernetContainer.uml#_OljbIKJhEem31MmnPfrwaQ"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_FwLYEg3cEeqJFpwd-R6pdQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FwLYEw3cEeqJFpwd-R6pdQ"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_FwL_IA3cEeqJFpwd-R6pdQ"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_GDVkpA3cEeqJFpwd-R6pdQ" type="StereotypeCommentLink" source="_GDNo0A3cEeqJFpwd-R6pdQ" target="_GDVkoA3cEeqJFpwd-R6pdQ">
-      <styles xmi:type="notation:FontStyle" xmi:id="_GDVkpQ3cEeqJFpwd-R6pdQ"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_GDVkqQ3cEeqJFpwd-R6pdQ" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="EthernetContainer.uml#_OlnFgKJhEem31MmnPfrwaQ"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GDVkpg3cEeqJFpwd-R6pdQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GDVkpw3cEeqJFpwd-R6pdQ"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GDVkqA3cEeqJFpwd-R6pdQ"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_GXVetw3cEeqJFpwd-R6pdQ" type="StereotypeCommentLink" source="_GXNi4A3cEeqJFpwd-R6pdQ" target="_GXVesw3cEeqJFpwd-R6pdQ">
-      <styles xmi:type="notation:FontStyle" xmi:id="_GXVeuA3cEeqJFpwd-R6pdQ"/>
-      <styles xmi:type="notation:EObjectValueStyle" xmi:id="_GXVevA3cEeqJFpwd-R6pdQ" name="BASE_ELEMENT">
-        <eObjectValue xmi:type="uml:Signal" href="EthernetContainer.uml#_Olo6sKJhEem31MmnPfrwaQ"/>
-      </styles>
-      <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_GXVeuQ3cEeqJFpwd-R6pdQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GXVeug3cEeqJFpwd-R6pdQ"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_GXVeuw3cEeqJFpwd-R6pdQ"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_IhuSoA3cEeqJFpwd-R6pdQ" type="Association_Edge" source="_Fv65YA3cEeqJFpwd-R6pdQ" target="_AOLvIA3cEeqJFpwd-R6pdQ">
-      <children xmi:type="notation:DecorationNode" xmi:id="_Ihu5sA3cEeqJFpwd-R6pdQ" visible="false" type="Association_StereotypeLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_97Q00A3cEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_Ihu5sQ3cEeqJFpwd-R6pdQ" x="1" y="-19"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_IhvgwA3cEeqJFpwd-R6pdQ" visible="false" type="Association_NameLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_99NVkA3cEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_IhvgwQ3cEeqJFpwd-R6pdQ" x="-1" y="18"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_Ihvgwg3cEeqJFpwd-R6pdQ" visible="false" type="Association_TargetRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_9_aVAA3cEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_Ihvgww3cEeqJFpwd-R6pdQ" x="51" y="-18"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_IhvgxA3cEeqJFpwd-R6pdQ" visible="false" type="Association_SourceRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_-Bh04A3cEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_IhvgxQ3cEeqJFpwd-R6pdQ" x="-52" y="19"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_Ihvgxg3cEeqJFpwd-R6pdQ" type="Association_SourceMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_-DdukA3cEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_Ihvgxw3cEeqJFpwd-R6pdQ" x="21" y="-7"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_IhvgyA3cEeqJFpwd-R6pdQ" type="Association_TargetMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_-FjZQA3cEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_IhvgyQ3cEeqJFpwd-R6pdQ" x="-17" y="-12"/>
-      </children>
-      <styles xmi:type="notation:FontStyle" xmi:id="_IhuSoQ3cEeqJFpwd-R6pdQ"/>
-      <element xmi:type="uml:Association" href="EthernetContainer.uml#_ISduoA3cEeqJFpwd-R6pdQ"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_IhuSog3cEeqJFpwd-R6pdQ" points="[-104, 204, -643984, -643984]$[-40, 452, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ImEnIA3cEeqJFpwd-R6pdQ" id="(0.05367231638418079,0.99)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ImFOMA3cEeqJFpwd-R6pdQ" id="(0.13071895424836602,0.0)"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_JBRVYA3cEeqJFpwd-R6pdQ" type="Association_Edge" source="_GDNo0A3cEeqJFpwd-R6pdQ" target="_AOLvIA3cEeqJFpwd-R6pdQ">
-      <children xmi:type="notation:DecorationNode" xmi:id="_JBRVYw3cEeqJFpwd-R6pdQ" visible="false" type="Association_StereotypeLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_Wk75QA3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JBRVZA3cEeqJFpwd-R6pdQ" y="-18"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_JBRVZQ3cEeqJFpwd-R6pdQ" visible="false" type="Association_NameLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_WnBj8A3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JBRVZg3cEeqJFpwd-R6pdQ" x="1" y="18"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_JBRVZw3cEeqJFpwd-R6pdQ" visible="false" type="Association_TargetRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_WpJq4A3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JBR8cA3cEeqJFpwd-R6pdQ" x="47" y="-18"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_JBR8cQ3cEeqJFpwd-R6pdQ" visible="false" type="Association_SourceRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_Wrd_EA3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JBR8cg3cEeqJFpwd-R6pdQ" x="-48" y="17"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_JBR8cw3cEeqJFpwd-R6pdQ" type="Association_SourceMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_WtfYUA3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JBR8dA3cEeqJFpwd-R6pdQ" x="17" y="-2"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_JBR8dQ3cEeqJFpwd-R6pdQ" type="Association_TargetMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_Wvj04A3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JBR8dg3cEeqJFpwd-R6pdQ" x="-15" y="-12"/>
-      </children>
-      <styles xmi:type="notation:FontStyle" xmi:id="_JBRVYQ3cEeqJFpwd-R6pdQ"/>
-      <element xmi:type="uml:Association" href="EthernetContainer.uml#_I-Tg8A3cEeqJFpwd-R6pdQ"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JBRVYg3cEeqJFpwd-R6pdQ" points="[80, 316, -643984, -643984]$[-4, 452, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JGDHsA3cEeqJFpwd-R6pdQ" id="(0.037037037037037035,1.0)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JGDuwA3cEeqJFpwd-R6pdQ" id="(0.3660130718954248,0.0)"/>
-    </edges>
-    <edges xmi:type="notation:Connector" xmi:id="_JoY_wA3cEeqJFpwd-R6pdQ" type="Association_Edge" source="_GXNi4A3cEeqJFpwd-R6pdQ" target="_AOLvIA3cEeqJFpwd-R6pdQ">
-      <children xmi:type="notation:DecorationNode" xmi:id="_JoY_ww3cEeqJFpwd-R6pdQ" visible="false" type="Association_StereotypeLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_YMS4oA3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JoY_xA3cEeqJFpwd-R6pdQ" y="-19"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_JoY_xQ3cEeqJFpwd-R6pdQ" visible="false" type="Association_NameLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_YOyzAA3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JoY_xg3cEeqJFpwd-R6pdQ" x="-1" y="18"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_JoY_xw3cEeqJFpwd-R6pdQ" visible="false" type="Association_TargetRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_YQ3PkA3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JoZm0A3cEeqJFpwd-R6pdQ" x="67" y="-19"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_JoZm0Q3cEeqJFpwd-R6pdQ" visible="false" type="Association_SourceRoleLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_YS2zoA3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JoZm0g3cEeqJFpwd-R6pdQ" x="-67" y="18"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_JoZm0w3cEeqJFpwd-R6pdQ" type="Association_SourceMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_YVbmgA3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JoZm1A3cEeqJFpwd-R6pdQ" x="19" y="-11"/>
-      </children>
-      <children xmi:type="notation:DecorationNode" xmi:id="_JoZm1Q3cEeqJFpwd-R6pdQ" type="Association_TargetMultiplicityLabel">
-        <styles xmi:type="notation:BooleanValueStyle" xmi:id="_YYSGMA3dEeqJFpwd-R6pdQ" name="IS_UPDATED_POSITION" booleanValue="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_JoZm1g3cEeqJFpwd-R6pdQ" x="-28" y="-8"/>
-      </children>
-      <styles xmi:type="notation:FontStyle" xmi:id="_JoY_wQ3cEeqJFpwd-R6pdQ"/>
-      <element xmi:type="uml:Association" href="EthernetContainer.uml#_JmI9AA3cEeqJFpwd-R6pdQ"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_JoY_wg3cEeqJFpwd-R6pdQ" points="[288, 404, -643984, -643984]$[68, 452, -643984, -643984]"/>
-      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JuZhIA3cEeqJFpwd-R6pdQ" id="(0.041916167664670656,0.991304347826087)"/>
-      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_JuZhIQ3cEeqJFpwd-R6pdQ" id="(0.5620915032679739,0.0)"/>
     </edges>
     <edges xmi:type="notation:Connector" xmi:id="_x8yQoA3cEeqJFpwd-R6pdQ" type="Generalization_Edge" source="_wYz8cA3cEeqJFpwd-R6pdQ" target="_8F_KsA3bEeqJFpwd-R6pdQ">
       <children xmi:type="notation:DecorationNode" xmi:id="_x8yQow3cEeqJFpwd-R6pdQ" type="Generalization_StereotypeLabel">

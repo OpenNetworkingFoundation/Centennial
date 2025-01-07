@@ -5,10 +5,10 @@
       <body>Technology specific augmentation to the ForwardingDomain for describing potential forwarding of frames on OSI layer 1.</body>
     </ownedComment>
     <packagedElement xmi:type="uml:Package" xmi:id="_eTEuEFE6Eembl8KFq0LDlA" name="Associations">
-      <packagedElement xmi:type="uml:Abstraction" xmi:id="_AwE1EKGAEe2nStKExY1YoA" client="_eTPGIFE6Eembl8KFq0LDlA">
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_aIxsYGNUEe6bxeCPb_MuUg" client="_odj6ALUwEemP0vs_3-grtw">
         <supplier xmi:type="uml:Class" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_oGql-FLNEeO75dO39GbF8Q"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Constraint" xmi:id="_STsN8LUyEemWW757xUxUvA" name="When" constrainedElement="_AwE1EKGAEe2nStKExY1YoA">
+      <packagedElement xmi:type="uml:Constraint" xmi:id="_STsN8LUyEemWW757xUxUvA" name="When">
         <specification xmi:type="uml:LiteralString" xmi:id="_STvRQLUyEemWW757xUxUvA" name="constraintSpec" value="layerProtocolName=vlan-interface:LAYER_PROTOCOL_NAME_TYPE_ETHERNET_CONTAINER_LAYER"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Association" xmi:id="_zAJvALUwEemP0vs_3-grtw" name="_ethernetContainerFdPac" memberEnd="_zAVVMLUwEemP0vs_4-grtw _zAdRALUwEemP0vs_3-grtw">
@@ -50,9 +50,6 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_eTPGIFE6Eembl8KFq0LDlA" name="Diagrams"/>
     <packagedElement xmi:type="uml:Package" xmi:id="_eTRiYFE6Eembl8KFq0LDlA" name="Imports">
-      <packageImport xmi:type="uml:PackageImport" xmi:id="_EIUbEGqZEemhHpL8kAIrbQ">
-        <importedPackage xmi:type="uml:Model" href="CommonDataTypes/ImplementationCommonDataTypes.uml#_-lRh4FDNEeWpFusmeDrF3w"/>
-      </packageImport>
       <packageImport xmi:type="uml:PackageImport" xmi:id="_dEszMKF-Ee2nStKExY1YoA">
         <importedPackage xmi:type="uml:Package" href="../ONF%20CoreMode%20pruned%20and%20refactored%20as%20device%20model/CoreModel.pnr.uml#_oGqilVLNEeO75dO39GbF8Q"/>
       </packageImport>
@@ -64,7 +61,7 @@
         </ownedComment>
         <ownedOperation xmi:type="uml:Operation" xmi:id="_26goEFV0EeuU0OPNoXYe3w" name="createEthernetContainerFc">
           <ownedComment xmi:type="uml:Comment" xmi:id="_G3LgIFV1EeuU0OPNoXYe3w" annotatedElement="_26goEFV0EeuU0OPNoXYe3w">
-            <body>Creates a new layer 1 frame forwarding between the referenced interfaces on the referenced Ethernet switch or hub. The following error-messages are to be send, if the operation would fail: #[onf:Referenced object is invalid.]#, if the referenced ForwardingDomain or at least one of the referenced LogicalTerminationPoints does not exist or does not belong to the EthernetContainer layer. #[onf:Resources not available.]#, if e.g. an additional layer 1 forwarding cannot be configured or a referenced LogicalTerminationPoint is already referenced by an existing EthernetContainerFc.</body>
+            <body>Creates a new layer 1 frame forwarding between the referenced interfaces on the referenced Ethernet switch or hub. The following error-messages are to be send, if the operation would fail: #[onf:Referenced object is invalid.]#, if the referenced ForwardingDomain or at least one of the referenced LogicalTerminationPoints does not exist on the EthernetContainer layer, or if at least one of the referenced LogicalTerminationPoints is not connected to the referenced ForwardingDomain. #[onf:Resources not available.]#, if e.g. an additional layer 1 forwarding cannot be configured or a referenced LogicalTerminationPoint is already referenced by an existing EthernetContainerFc.</body>
           </ownedComment>
           <ownedParameter xmi:type="uml:Parameter" xmi:id="_rmYrcFo1EeuXMf3rMy2J2A" name="_affectedEthernetContainerFd" isUnique="false">
             <ownedComment xmi:type="uml:Comment" xmi:id="_rmYrcVo1EeuXMf3rMy2J2A" annotatedElement="_rmYrcFo1EeuXMf3rMy2J2A">
@@ -545,9 +542,10 @@
       <appliedProfile xmi:type="uml:Profile" href="UmlProfiles/ProfileLifecycleProfile/ProfileLifecycle_Profile.profile.uml#_CBpGoEdZEearpawF38eisA"/>
     </profileApplication>
   </uml:Model>
-  <OpenModel_Profile:OpenModelStatement xmi:id="_i67NgCVJEemK9ptdIxz6GQ" base_Model="_Imk30GyUEee0HrHFgb9oqw" namespace="urn:onf:yang:ethernet-container-fd" organization="openBackhaul.com proposal to Open Networking Foundation (ONF)" description="This model defines a technology specific extension to the ONF Core IM. It describes the potential to forward frames on OSI Layer 1." copyright="Copyright 2023 openBackhaul.com" license="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#xD;&#xA;you may not use this file except in compliance with the License.&#xD;&#xA;You may obtain a copy of the License at&#xD;&#xA;&#xD;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xD;&#xA;&#xD;&#xA;Unless required by applicable law or agreed to in writing, software&#xD;&#xA;distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#xD;&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xD;&#xA;See the License for the specific language governing permissions and&#xD;&#xA;limitations under the License.">
+  <OpenModel_Profile:OpenModelStatement xmi:id="_i67NgCVJEemK9ptdIxz6GQ" base_Model="_Imk30GyUEee0HrHFgb9oqw" namespace="urn:onf:yang:ethernet-container-fd" organization="openBackhaul.com proposal to Open Networking Foundation (ONF)" description="This model defines a technology specific extension to the ONF Core IM. It describes the potential to forward frames on OSI Layer 1." copyright="Copyright 2024 openBackhaul.com" license="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#xD;&#xA;you may not use this file except in compliance with the License.&#xD;&#xA;You may obtain a copy of the License at&#xD;&#xA;&#xD;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xD;&#xA;&#xD;&#xA;Unless required by applicable law or agreed to in writing, software&#xD;&#xA;distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#xD;&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xD;&#xA;See the License for the specific language governing permissions and&#xD;&#xA;limitations under the License.">
     <contact xmi:type="OpenModel_Profile:Contact" xmi:id="_g74fwL0cEemxAM_DWydfXQ" projectWeb="https://github.com/openBackhaul/Overview" projectEmail="EthernetContainerFd@openBackhaul.com" editorName="Thorsten Heinze" editorEmail="Thorsten.Heinze@openBackhaul.com"/>
-    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_bi8j8OCaEeqMCqOBPciD4g" date="2023-10-04" version="1.0.0-tsp.231004.1300" description="Model for the Transport SDN Introduction at Telefonica Germany." changeLog="https://github.com/openBackhaul/ethernetContainerFd/issues" reference="https://github.com/openBackhaul/ethernetContainerFd/tree/tsp: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_kxbuoJ8UEe6eCNlOwJeF6Q" date="2024-01-03" version="1.0.0-tsi.240103.0905" description="Model for the Transport SDN Introduction at Telefonica Germany." changeLog="https://github.com/openBackhaul/ethernetContainerFd/issues" reference="https://github.com/openBackhaul/ethernetContainerFd/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_bi8j8OCaEeqMCqOBPciD4g" date="2023-10-05" version="1.0.0-tsi.231005.1000" description="Model for the Transport SDN Introduction at Telefonica Germany." changeLog="https://github.com/openBackhaul/ethernetContainerFd/issues" reference="https://github.com/openBackhaul/ethernetContainerFd/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
   </OpenModel_Profile:OpenModelStatement>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_eTFVIFE6Eembl8KFq0LDlA" base_StructuralFeature="_eTEuFFE6Eembl8KFq0LDlA"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_eTF8MFE6Eembl8KFq0LDlA" base_Property="_eTEuFFE6Eembl8KFq0LDlA"/>
@@ -614,9 +612,6 @@
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_upPoAKF-Ee2nStKExY1YoA" base_Property="_upNLwKF-Ee2nStKExY1YoA" attributeValueChangeNotification="YES"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_upNy0KF-Ee2nStKExY1YoA" base_StructuralFeature="_upNLwKF-Ee2nStKExY1YoA"/>
   <OpenModel_Profile:Obsolete xmi:id="_lTYPYKF_Ee2nStKExY1YoA" base_Element="_iYfyoKF_Ee2nStKExY1YoA"/>
-  <OpenModel_Profile:Specify xmi:id="_Mjk4UKGAEe2nStKExY1YoA" base_Abstraction="_AwE1EKGAEe2nStKExY1YoA">
-    <target>/CoreModel:ControlConstruct:ControlConstruct/CoreModel:ForwardingDomain:ForwardingDomain</target>
-  </OpenModel_Profile:Specify>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_291stKGEEe2O0o2u2PqCTA" base_StructuralFeature="_290emqGEEe2O0o2u2PqCTA" unit="%"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_291staGEEe2O0o2u2PqCTA" base_Property="_290emqGEEe2O0o2u2PqCTA" attributeValueChangeNotification="YES" bitLength="LENGTH_8_BIT"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_Ydp3tKIPEe2O0o2u2PqCTA" base_StructuralFeature="_Ydp3sKIPEe2O0o2u2PqCTA"/>
@@ -667,4 +662,7 @@
   <OpenModel_Profile:OpenModelAttribute xmi:id="_29nDNaGEEe2O0o2u2PqCTA" base_StructuralFeature="_29knBaGEEe2O0o2u2PqCTA" isInvariant="true"/>
   <OpenModel_Profile:Obsolete xmi:id="_DYPK4KIUEe2O0o2u2PqCTA" base_Element="_BXqaQKIUEe2O0o2u2PqCTA"/>
   <OpenModel_Profile:PassedByReference xmi:id="_eB3GIKIaEe2O0o2u2PqCTA" base_Parameter="_ustNsKFoEe27l-OTbHWFZg"/>
+  <OpenModel_Profile:Specify xmi:id="_f80uoGNUEe6bxeCPb_MuUg" base_Abstraction="_aIxsYGNUEe6bxeCPb_MuUg">
+    <target>/CoreModel:ControlConstruct:ControlConstruct/CoreModel:ForwardingDomain:ForwardingDomain</target>
+  </OpenModel_Profile:Specify>
 </xmi:XMI>

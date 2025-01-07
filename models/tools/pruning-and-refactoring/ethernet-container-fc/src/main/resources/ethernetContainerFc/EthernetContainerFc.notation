@@ -3,7 +3,7 @@
   <css:ModelStyleSheets xmi:id="_NiLtUHBREee5JrMEVVqNzQ">
     <stylesheets xmi:type="css:StyleSheetReference" xmi:id="_5JNcEM1KEe29Iam_bHxN8w" path="/EthernetContainerFc_1.0.0-tsp.d.t/UmlProfiles/ClassDiagramStyleSheet.css"/>
   </css:ModelStyleSheets>
-  <notation:Diagram xmi:id="_1eP-wFE7Eembl8KFq0LDlA" type="PapyrusUMLClassDiagram" name="VlanFc" measurementUnit="Pixel">
+  <notation:Diagram xmi:id="_1eP-wFE7Eembl8KFq0LDlA" type="PapyrusUMLClassDiagram" name="EthernetContainerFc" measurementUnit="Pixel">
     <children xmi:type="notation:Shape" xmi:id="_2fwfEFE7Eembl8KFq0LDlA" type="Class_Shape">
       <children xmi:type="notation:DecorationNode" xmi:id="_2fy7UFE7Eembl8KFq0LDlA" type="Class_NameLabel"/>
       <children xmi:type="notation:DecorationNode" xmi:id="_2fy7UVE7Eembl8KFq0LDlA" type="Class_FloatingNameLabel">

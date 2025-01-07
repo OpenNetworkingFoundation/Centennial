@@ -367,7 +367,7 @@ module.exports = {
                             if (k === store.Class.length) {
                             
                                 
-                                ele[i].attribute[j].nodeType === "list" ? ele[i].attribute[j].nodeType = "leaf-list" : ele[i].attribute[j].nodeType = "leaf";
+                                (ele[i].attribute[j].nodeType === "list"|| ele[i].attribute[j].nodeType === "leaf-list") ? ele[i].attribute[j].nodeType = "leaf-list" : ele[i].attribute[j].nodeType = "leaf";
 
                                 var typeMapping = {
                                     "_ip8kjfzaeewhrf3fikfx5w": "yang:date-and-time",
@@ -648,7 +648,11 @@ module.exports = {
 
                             if(oma.passedByReference){
                                 ele[i].attribute[j].isleafRef = true;
-				ele[i].attribute[j].nodeType = "leaf";
+				if(pValue.nodeType === "list"){
+                                    ele[i].attribute[j].nodeType = "leaf-list";
+                                }else{
+                                    ele[i].attribute[j].nodeType = "leaf";
+                                }
                             }
                             break;
                         }

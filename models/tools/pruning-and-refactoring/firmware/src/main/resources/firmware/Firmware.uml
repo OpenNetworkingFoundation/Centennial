@@ -5,7 +5,7 @@
       <body>Augment to the ControlConstruct for managing firmware on the device.</body>
     </ownedComment>
     <packagedElement xmi:type="uml:Package" xmi:id="_eTEuEFE6Eembl8KFq0LDlA" name="Associations">
-      <packagedElement xmi:type="uml:Abstraction" xmi:id="_PnmmoHwGEeubC9VcQOc8WQ" client="_FV5v0Fr1EeuYrZ_QjB-ntA">
+      <packagedElement xmi:type="uml:Abstraction" xmi:id="_Zi6woJL5EeuJntb74ynMBA" client="_hW8DYJL1EeuJntb74ynMBA">
         <supplier xmi:type="uml:Class" href="../OnfModel/CoreModel.uml#_oGqnr1LNEeO75dO39GbF8Q"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Association" xmi:id="_eTEuEVE6Eembl8KFq0LDlA" memberEnd="_eTT-o1E6Eembl8KFq0LDlA _eTEuFFE6Eembl8KFq0LDlA">
@@ -41,38 +41,17 @@
         </eAnnotations>
         <ownedEnd xmi:type="uml:Property" xmi:id="_CSo8sFsBEeuYrZ_QjB-ntA" name="firmwarecomponent" type="_l1luQFr1EeuYrZ_QjB-ntA" association="_CSi2EFsBEeuYrZ_QjB-ntA"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_NWrfIHwBEeubC9VcQOc8WQ" memberEnd="_NWyM0HwBEeubC9VcQOc8WQ _NW2eQHwBEeubC9VcQOc8WQ">
-        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_NWuicHwBEeubC9VcQOc8WQ" source="org.eclipse.papyrus">
-          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_NWvJgHwBEeubC9VcQOc8WQ" key="nature" value="UML_Nature"/>
-        </eAnnotations>
-        <ownedEnd xmi:type="uml:Property" xmi:id="_NW2eQHwBEeubC9VcQOc8WQ" name="objectcreationnotification" type="_54DZ0OCdEeqMCqOBPciD4g" association="_NWrfIHwBEeubC9VcQOc8WQ">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_PDN5cHwBEeubC9VcQOc8WQ"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_PDSK4HwBEeubC9VcQOc8WQ" value="*"/>
-        </ownedEnd>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_ZX-xAHwFEeubC9VcQOc8WQ" memberEnd="_ZYBNQXwFEeubC9VcQOc8WQ _ZYEQkHwFEeubC9VcQOc8WQ">
-        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ZYAmMHwFEeubC9VcQOc8WQ" source="org.eclipse.papyrus">
-          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ZYBNQHwFEeubC9VcQOc8WQ" key="nature" value="UML_Nature"/>
-        </eAnnotations>
-        <ownedEnd xmi:type="uml:Property" xmi:id="_ZYEQkHwFEeubC9VcQOc8WQ" name="objectdeletionnotification" type="_54HrQOCdEeqMCqOBPciD4g" association="_ZX-xAHwFEeubC9VcQOc8WQ">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_fKoFEHwFEeubC9VcQOc8WQ"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_fK8OIHwFEeubC9VcQOc8WQ" value="*"/>
-        </ownedEnd>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_y_NC0HwFEeubC9VcQOc8WQ" memberEnd="_y_OQ8XwFEeubC9VcQOc8WQ _y_QGIHwFEeubC9VcQOc8WQ">
-        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_y_Np4HwFEeubC9VcQOc8WQ" source="org.eclipse.papyrus">
-          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_y_OQ8HwFEeubC9VcQOc8WQ" key="nature" value="UML_Nature"/>
-        </eAnnotations>
-        <ownedEnd xmi:type="uml:Property" xmi:id="_y_QGIHwFEeubC9VcQOc8WQ" name="attributevaluechangednotification" type="_54KHgOCdEeqMCqOBPciD4g" association="_y_NC0HwFEeubC9VcQOc8WQ">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_0p4b8HwFEeubC9VcQOc8WQ"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_0p7fQHwFEeubC9VcQOc8WQ" value="*"/>
-        </ownedEnd>
-      </packagedElement>
       <packagedElement xmi:type="uml:Association" xmi:id="_f5Ns8HxTEeuPp6qHJm-oAQ" memberEnd="_f5WP0HxTEeuPp6qHJm-oAQ _f5bIUHxTEeuPp6qHJm-oAQ">
         <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_f5UaoHxTEeuPp6qHJm-oAQ" source="org.eclipse.papyrus">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_f5UaoXxTEeuPp6qHJm-oAQ" key="nature" value="UML_Nature"/>
         </eAnnotations>
         <ownedEnd xmi:type="uml:Property" xmi:id="_f5bIUHxTEeuPp6qHJm-oAQ" name="firmwarecomponentstatus" type="_eTT-11E6Eembl8KFq0LDlA" association="_f5Ns8HxTEeuPp6qHJm-oAQ"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_10ZCMJL5EeuJntb74ynMBA" memberEnd="_10dToJL5EeuJntb74ynMBA _10lPcJL5EeuJntb74ynMBA">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_10a3YJL5EeuJntb74ynMBA" source="org.eclipse.papyrus">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_10becJL5EeuJntb74ynMBA" key="nature" value="UML_Nature"/>
+        </eAnnotations>
+        <ownedEnd xmi:type="uml:Property" xmi:id="_10lPcJL5EeuJntb74ynMBA" name="firmwareccspec" type="_hW8DYJL1EeuJntb74ynMBA" association="_10ZCMJL5EeuJntb74ynMBA"/>
       </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_eTPGIFE6Eembl8KFq0LDlA" name="Diagrams"/>
@@ -91,7 +70,7 @@
         </ownedComment>
         <ownedOperation xmi:type="uml:Operation" xmi:id="__pTboHA4EeuxtbuLkZiGLA" name="downloadFirmwareComponent">
           <ownedComment xmi:type="uml:Comment" xmi:id="__pTboXA4EeuxtbuLkZiGLA" annotatedElement="__pTboHA4EeuxtbuLkZiGLA">
-            <body>Operation for downloading some firmware component (e.g. package) from a server onto the device.</body>
+            <body>Idempotent operation for downloading some firmware component (e.g. package) from a server onto the device. The following error-messages are to be send, if the operation would fail: #[onf:URI syntax is incorrect.]#, if the URI is not correct. #[onf:Input parameter missing.]#, if the input parameters are insufficient for identifying the download resource and to authenticate at the server.</body>
           </ownedComment>
           <ownedParameter xmi:type="uml:Parameter" xmi:id="_edgvsHA5EeuxtbuLkZiGLA" name="sourceUri" isUnique="false">
             <ownedComment xmi:type="uml:Comment" xmi:id="_edgvsXA5EeuxtbuLkZiGLA" annotatedElement="_edgvsHA5EeuxtbuLkZiGLA">
@@ -110,34 +89,40 @@
               <body>Username to access the file server.</body>
             </ownedComment>
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_oiLlAIKBEeur68jJyqNt5A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_oi26cIKBEeur68jJyqNt5A" value="1"/>
           </ownedParameter>
           <ownedParameter xmi:type="uml:Parameter" xmi:id="_43JV4HA5EeuxtbuLkZiGLA" name="passwordAtFileServer" isUnique="false">
             <ownedComment xmi:type="uml:Comment" xmi:id="_43JV4XA5EeuxtbuLkZiGLA" annotatedElement="_43JV4HA5EeuxtbuLkZiGLA">
               <body>Password to access the file server.</body>
             </ownedComment>
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pgBGQIKBEeur68jJyqNt5A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pgN6kIKBEeur68jJyqNt5A" value="1"/>
           </ownedParameter>
           <ownedParameter xmi:type="uml:Parameter" xmi:id="_lUgx0HA7EeuxtbuLkZiGLA" name="sshKey" isUnique="false">
             <ownedComment xmi:type="uml:Comment" xmi:id="_lUgx0XA7EeuxtbuLkZiGLA" annotatedElement="_lUgx0HA7EeuxtbuLkZiGLA">
               <body>Client key for accessing the file server.</body>
             </ownedComment>
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+            <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_qSu8oIKBEeur68jJyqNt5A"/>
+            <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_qS7J4IKBEeur68jJyqNt5A" value="1"/>
           </ownedParameter>
           <ownedParameter xmi:type="uml:Parameter" xmi:id="_gntzIHIKEeuVzopMUCKjuQ" name="forceDownload" isUnique="false">
             <ownedComment xmi:type="uml:Comment" xmi:id="_gntzIXIKEeuVzopMUCKjuQ" annotatedElement="_gntzIHIKEeuVzopMUCKjuQ">
-              <body>Files to be downloaded, even if already present on the device.</body>
+              <body>Files to be downloaded, even if already present on any software bank of the device.</body>
             </ownedComment>
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:type="uml:Operation" xmi:id="_CjAIcHBAEeuxtbuLkZiGLA" name="abortFirmwareDownload">
           <ownedComment xmi:type="uml:Comment" xmi:id="_E8iysHBAEeuxtbuLkZiGLA" annotatedElement="_CjAIcHBAEeuxtbuLkZiGLA">
-            <body>Currently on-going download of a firmware component shall immediately be terminated.</body>
+            <body>Idempotent operation for immediately terminating currently on-going downloads of firmware components.</body>
           </ownedComment>
         </ownedOperation>
         <ownedOperation xmi:type="uml:Operation" xmi:id="_00vXsFsBEeuYrZ_QjB-ntA" name="activateFirmwareComponent">
           <ownedComment xmi:type="uml:Comment" xmi:id="_-G3qYFsBEeuYrZ_QjB-ntA" annotatedElement="_00vXsFsBEeuYrZ_QjB-ntA">
-            <body>Operation for activating some firmware component on the device. (Attention! Invoking this operation might cause the device to reboot.)</body>
+            <body>Idempotent operation for activating some firmware component on the device. (Attention! Invoking this operation might cause the device to reboot.) The following error-message is to be send, if the operation would fail: #[onf:Referenced object is invalid.]#, if the referenced FirmwareComponent does not exist.</body>
           </ownedComment>
           <ownedParameter xmi:type="uml:Parameter" xmi:id="_00vXsVsBEeuYrZ_QjB-ntA" name="_firmwareComponent" type="_l1luQFr1EeuYrZ_QjB-ntA" isUnique="false">
             <ownedComment xmi:type="uml:Comment" xmi:id="_00vXslsBEeuYrZ_QjB-ntA" annotatedElement="_00vXsVsBEeuYrZ_QjB-ntA">
@@ -153,88 +138,19 @@
         </ownedOperation>
       </packagedElement>
     </packagedElement>
-    <packagedElement xmi:type="uml:Package" xmi:id="_eTTXkFE6Eembl8KFq0LDlA" name="Notifications">
-      <packagedElement xmi:type="uml:Signal" xmi:id="_54DZ0OCdEeqMCqOBPciD4g" name="ObjectCreationNotification">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_54DZ0eCdEeqMCqOBPciD4g" name="counter" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_54DZ0uCdEeqMCqOBPciD4g" annotatedElement="_54DZ0eCdEeqMCqOBPciD4g">
-            <body>Counts object creation notifications.</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_54DZ0-CdEeqMCqOBPciD4g" value="-1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_54DZ1OCdEeqMCqOBPciD4g" name="timestamp" isUnique="false" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="CommonDataTypes/ImplementationCommonDataTypes.uml#_iP8kJfZaEeWhRf3FikFX5w"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_54DZ1eCdEeqMCqOBPciD4g" value="2010-11-20T14:00:00+01:00"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_NWyM0HwBEeubC9VcQOc8WQ" name="_objectIdRef" type="_l1luQFr1EeuYrZ_QjB-ntA" isReadOnly="true" aggregation="shared" association="_NWrfIHwBEeubC9VcQOc8WQ">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_Q3EcsHwBEeubC9VcQOc8WQ" value="1"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_Q3hvsHwBEeubC9VcQOc8WQ" value="1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_54DZ1-CdEeqMCqOBPciD4g" name="objectType" isUnique="false" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_54DZ2OCdEeqMCqOBPciD4g" value="Type of created object not specified."/>
-        </ownedAttribute>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Signal" xmi:id="_54HrQOCdEeqMCqOBPciD4g" name="ObjectDeletionNotification">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_54HrQeCdEeqMCqOBPciD4g" name="counter" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_54HrQuCdEeqMCqOBPciD4g" annotatedElement="_54HrQeCdEeqMCqOBPciD4g">
-            <body>Counts object deletion notifications.</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_54HrQ-CdEeqMCqOBPciD4g" value="-1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_54HrROCdEeqMCqOBPciD4g" name="timestamp" isUnique="false" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="CommonDataTypes/ImplementationCommonDataTypes.uml#_iP8kJfZaEeWhRf3FikFX5w"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_54HrReCdEeqMCqOBPciD4g" value="2010-11-20T14:00:00+01:00"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_ZYBNQXwFEeubC9VcQOc8WQ" name="_objectIdRef" type="_l1luQFr1EeuYrZ_QjB-ntA" isReadOnly="true" aggregation="shared" association="_ZX-xAHwFEeubC9VcQOc8WQ">
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_a1Ck4HwFEeubC9VcQOc8WQ" value="1"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_a1IEcHwFEeubC9VcQOc8WQ" value="1"/>
-        </ownedAttribute>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Signal" xmi:id="_54KHgOCdEeqMCqOBPciD4g" name="AttributeValueChangedNotification">
-        <ownedComment xmi:type="uml:Comment" xmi:id="_54KHgeCdEeqMCqOBPciD4g">
-          <body>To be sent when an attribute has changed and one or more controllers have to update their data.</body>
-        </ownedComment>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_54KHguCdEeqMCqOBPciD4g" name="counter" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_54KHg-CdEeqMCqOBPciD4g" annotatedElement="_54KHguCdEeqMCqOBPciD4g">
-            <body>Counts attribute value changed notifications.</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_54KHhOCdEeqMCqOBPciD4g" value="-1"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_54KHheCdEeqMCqOBPciD4g" name="timestamp" isUnique="false" isReadOnly="true">
-          <type xmi:type="uml:PrimitiveType" href="CommonDataTypes/ImplementationCommonDataTypes.uml#_iP8kJfZaEeWhRf3FikFX5w"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_54KHhuCdEeqMCqOBPciD4g" value="2010-11-20T14:00:00+01:00"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_y_OQ8XwFEeubC9VcQOc8WQ" name="_objectIdRef" type="_l1luQFr1EeuYrZ_QjB-ntA" isReadOnly="true" aggregation="shared" association="_y_NC0HwFEeubC9VcQOc8WQ"/>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_54KHiOCdEeqMCqOBPciD4g" name="attributeName" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_54KHieCdEeqMCqOBPciD4g" annotatedElement="_54KHiOCdEeqMCqOBPciD4g">
-            <body>Name of the attribute that has been changed.</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_54KHiuCdEeqMCqOBPciD4g" value="Attribute name not specified."/>
-        </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_54KHi-CdEeqMCqOBPciD4g" name="newValue" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_54KHjOCdEeqMCqOBPciD4g" annotatedElement="_54KHi-CdEeqMCqOBPciD4g">
-            <body>Attribute value converted to a string (xml, json, ...)</body>
-          </ownedComment>
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_54KHjeCdEeqMCqOBPciD4g"/>
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_54KHjuCdEeqMCqOBPciD4g" value="1"/>
-          <defaultValue xmi:type="uml:LiteralString" xmi:id="_54KHj-CdEeqMCqOBPciD4g" value="New value not specified."/>
-        </ownedAttribute>
-      </packagedElement>
-    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_eTTXkFE6Eembl8KFq0LDlA" name="Notifications"/>
     <packagedElement xmi:type="uml:Package" xmi:id="_eTT-oFE6Eembl8KFq0LDlA" name="ObjectClasses">
+      <packagedElement xmi:type="uml:Class" xmi:id="_hW8DYJL1EeuJntb74ynMBA" name="FirmwareCcSpec">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_10dToJL5EeuJntb74ynMBA" name="_firmwareCollection" type="_FV5v0Fr1EeuYrZ_QjB-ntA" aggregation="composite" association="_10ZCMJL5EeuJntb74ynMBA"/>
+      </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_FV5v0Fr1EeuYrZ_QjB-ntA" name="FirmwareCollection">
         <ownedAttribute xmi:type="uml:Property" xmi:id="_XWhnMFr2EeuYrZ_QjB-ntA" name="_firmwareComponentList" type="_l1luQFr1EeuYrZ_QjB-ntA" isReadOnly="true" aggregation="composite" association="_XWbgkFr2EeuYrZ_QjB-ntA">
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_cyvYQFr2EeuYrZ_QjB-ntA"/>
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_cyxNcFr2EeuYrZ_QjB-ntA" value="*"/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_2SN6cHv_EeubC9VcQOc8WQ" name="download" type="_rUk9oHv-EeubC9VcQOc8WQ" isUnique="false">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_2SN6cHv_EeubC9VcQOc8WQ" name="download" type="_rUk9oHv-EeubC9VcQOc8WQ" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_54VFgHv_EeubC9VcQOc8WQ" annotatedElement="_2SN6cHv_EeubC9VcQOc8WQ">
-            <body>List of currently on-going downloads.</body>
+            <body>Currently on-going download.</body>
           </ownedComment>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_3qiYQHv_EeubC9VcQOc8WQ" value="1"/>
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_3qoe4Hv_EeubC9VcQOc8WQ" value="1"/>
@@ -255,12 +171,6 @@
         <ownedAttribute xmi:type="uml:Property" xmi:id="_eTT-pVE6Eembl8KFq0LDlA" name="_firmwareComponentStatus" type="_eTT-11E6Eembl8KFq0LDlA" isReadOnly="true" aggregation="composite" association="_eTEuGVE6Eembl8KFq0LDlA"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_eTT-qVE6Eembl8KFq0LDlA" name="FirmwareComponentCapability">
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_At3G5b3lEemj8sLhiejUhA" name="firmwareComponentKind" type="_fi42kFr0EeuYrZ_QjB-ntA" isUnique="false" isReadOnly="true">
-          <ownedComment xmi:type="uml:Comment" xmi:id="_At3G5r3lEemj8sLhiejUhA" annotatedElement="_At3G5b3lEemj8sLhiejUhA">
-            <body>Kind of firmware component (e.g. package, image).</body>
-          </ownedComment>
-          <defaultValue xmi:type="uml:InstanceValue" xmi:id="_jat8YFr3EeuYrZ_QjB-ntA" type="_fi42kFr0EeuYrZ_QjB-ntA" instance="_l0_GwFr0EeuYrZ_QjB-ntA"/>
-        </ownedAttribute>
         <ownedAttribute xmi:type="uml:Property" xmi:id="_UCFWPb3QEemm_Yk7AwSxsg" name="firmwareComponentName" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_UCFWPr3QEemm_Yk7AwSxsg" annotatedElement="_UCFWPb3QEemm_Yk7AwSxsg">
             <body>Name of the firmware component.</body>
@@ -288,9 +198,9 @@
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
           <defaultValue xmi:type="uml:LiteralBoolean" xmi:id="_trnyMlr8EeuYrZ_QjB-ntA"/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_v4TTUGueEeujR-qJpYpV_w" name="kindsOfEquipmentUsingThisFirmwareComponent" isUnique="false" isReadOnly="true">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_v4TTUGueEeujR-qJpYpV_w" name="relatedKindsOfEquipmentList" isUnique="false" isReadOnly="true">
           <ownedComment xmi:type="uml:Comment" xmi:id="_Qz8N8GufEeujR-qJpYpV_w" annotatedElement="_v4TTUGueEeujR-qJpYpV_w">
-            <body>Kinds of equipment using this firmware component after activation. Values should be identical with entries in Equipment::ManufacturedThing::EquipmentType::modelIdentifier attribute.</body>
+            <body>Kinds of equipment using this firmware component after activation. Values should be identical with entries in Equipment::ManufacturedThing::EquipmentType::modelIdentifier attribute. Might be empty, if firmwareComponentClass==PACKAGE.</body>
           </ownedComment>
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5boDsGueEeujR-qJpYpV_w"/>
@@ -312,7 +222,7 @@
           <type xmi:type="uml:PrimitiveType" href="CommonDataTypes/ImplementationCommonDataTypes.uml#_iP8kJfZaEeWhRf3FikFX5w"/>
           <defaultValue xmi:type="uml:LiteralString" xmi:id="_FW7LkHwHEeubC9VcQOc8WQ" value="2010-11-20T14:00:00+01:00"/>
         </ownedAttribute>
-        <ownedAttribute xmi:type="uml:Property" xmi:id="_f5WP0HxTEeuPp6qHJm-oAQ" name="_firmwareComponentIsActiveOnEquipmentList" isUnique="false" isReadOnly="true" aggregation="shared" association="_f5Ns8HxTEeuPp6qHJm-oAQ">
+        <ownedAttribute xmi:type="uml:Property" xmi:id="_f5WP0HxTEeuPp6qHJm-oAQ" name="_isActiveOnEquipmentList" isUnique="false" isReadOnly="true" aggregation="shared" association="_f5Ns8HxTEeuPp6qHJm-oAQ">
           <type xmi:type="uml:Class" href="../OnfModel/CoreModel.uml#_8SXNej-HEeaRI-H69PghuA"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_nKWYQHxTEeuPp6qHJm-oAQ"/>
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_nKrvcHxTEeuPp6qHJm-oAQ" value="*"/>
@@ -321,11 +231,6 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_eThaAFE6Eembl8KFq0LDlA" name="Rules"/>
     <packagedElement xmi:type="uml:Package" xmi:id="_eTiBEFE6Eembl8KFq0LDlA" name="TypeDefinitions">
-      <packagedElement xmi:type="uml:Enumeration" xmi:id="_fi42kFr0EeuYrZ_QjB-ntA" name="FirmwareComponentKindType">
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_h8fLMFr0EeuYrZ_QjB-ntA" name="PACKAGE"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_jOatIFr0EeuYrZ_QjB-ntA" name="IMAGE"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_l0_GwFr0EeuYrZ_QjB-ntA" name="NOT_YET_DEFINED"/>
-      </packagedElement>
       <packagedElement xmi:type="uml:Enumeration" xmi:id="_Dk50EGuPEeujR-qJpYpV_w" name="FirmwareComponentClassType">
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_DCSZwGuQEeujR-qJpYpV_w" name="UNKNOWN"/>
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_DhKHEGuQEeujR-qJpYpV_w" name="OTHER"/>
@@ -339,33 +244,102 @@
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_gCyeEGucEeujR-qJpYpV_w" name="OPERATING_SYSTEM"/>
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_gC06UGucEeujR-qJpYpV_w" name="MIDDLEWARE"/>
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_gC3WkGucEeujR-qJpYpV_w" name="FIRMWARE"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_gC5y0GucEeujR-qJpYpV_w" name="BIOS_FCODE"/>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_gC5y0GucEeujR-qJpYpV_w" name="BIOS_CODE"/>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_A4PP8IZeEeunpIreMXpnZA" name="FPGA_CODE"/>
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_gLH6sGucEeujR-qJpYpV_w" name="SUPPORT_SERVICE_PACK"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_gLKW8GucEeujR-qJpYpV_w" name="SOFTWARE_BUNDLE"/>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_gLKW8GucEeujR-qJpYpV_w" name="PACKAGE"/>
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_gLMMIGucEeujR-qJpYpV_w" name="RESERVE"/>
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_gLPPcGucEeujR-qJpYpV_w" name="DOWNSTREAM_DEVICE"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Enumeration" xmi:id="_cbL88Hv9EeubC9VcQOc8WQ" name="DownloadStatusType">
         <ownedComment xmi:type="uml:Comment" xmi:id="_cbMkAHv9EeubC9VcQOc8WQ" annotatedElement="_cbL88Hv9EeubC9VcQOc8WQ">
-          <body>Current status of the download.</body>
+          <body>Status or result of the download process, which had been started last.</body>
         </ownedComment>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkAXv9EeubC9VcQOc8WQ" name="SUCCESSFUL"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkAnv9EeubC9VcQOc8WQ" name="INVALID_URI"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_srHyoHwmEeuPp6qHJm-oAQ" name="AUTHENTICATION_FAILED"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkA3v9EeubC9VcQOc8WQ" name="UNABLE_TO_CONNECT_TO_SERVER"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkBXv9EeubC9VcQOc8WQ" name="FILE_NOT_FOUND"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkBnv9EeubC9VcQOc8WQ" name="INCOMPATIBLE_FILE"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkB3v9EeubC9VcQOc8WQ" name="NETWORK_FAILURE"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CCsw0Hv-EeubC9VcQOc8WQ" name="TRANSFER_MECHANISM_NOT_AVAILABLE"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CEoqgHv-EeubC9VcQOc8WQ" name="NO_SPACE_AVAILABLE"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CGrR4Hv-EeubC9VcQOc8WQ" name="ALIGNMENT_FAILURE"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CIZwMHv-EeubC9VcQOc8WQ" name="SW_UNIT_CHECK_FAILURE"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CJ7aMHv-EeubC9VcQOc8WQ" name="SW_RELEASE_CHECK_FAILURE"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CLh8sHv-EeubC9VcQOc8WQ" name="ABORTED"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CNJGQHv-EeubC9VcQOc8WQ" name="INTERNAL_ERROR"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_L-QeYHwnEeuPp6qHJm-oAQ" name="FAILED"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CR31QHv-EeubC9VcQOc8WQ" name="DOWNLOAD_IN_PROGRESS"/>
-        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CTzu8Hv-EeubC9VcQOc8WQ" name="IDLE"/>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CTzu8Hv-EeubC9VcQOc8WQ" name="IDLE">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_pSUacIZQEeunpIreMXpnZA" annotatedElement="_CTzu8Hv-EeubC9VcQOc8WQ">
+            <body>There is no download status to be represented. The device is available for starting some.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CR31QHv-EeubC9VcQOc8WQ" name="DOWNLOAD_IN_PROGRESS">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_SGR8MIZREeunpIreMXpnZA" annotatedElement="_CR31QHv-EeubC9VcQOc8WQ">
+            <body>Download process is currently in progress.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkAXv9EeubC9VcQOc8WQ" name="SUCCESSFUL">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_EAEVoIY0EeunpIreMXpnZA" annotatedElement="_cbMkAXv9EeubC9VcQOc8WQ">
+            <body>Download process successfully accomplished.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkAnv9EeubC9VcQOc8WQ" name="INVALID_URI">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_I5QSIIY0EeunpIreMXpnZA" annotatedElement="_cbMkAnv9EeubC9VcQOc8WQ">
+            <body>Download process could not be started, because of invalid URI.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkA3v9EeubC9VcQOc8WQ" name="UNABLE_TO_CONNECT_TO_SERVER">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_kzrVoIY0EeunpIreMXpnZA" annotatedElement="_cbMkA3v9EeubC9VcQOc8WQ">
+            <body>Download process could not be started, because client could not reach the server.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CGrR4Hv-EeubC9VcQOc8WQ" name="ALIGNMENT_FAILURE">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_GGnFMIZREeunpIreMXpnZA" annotatedElement="_CGrR4Hv-EeubC9VcQOc8WQ">
+            <body>Download process failed, because client and server could not align.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_srHyoHwmEeuPp6qHJm-oAQ" name="AUTHENTICATION_FAILED">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_S2ld8IY0EeunpIreMXpnZA" annotatedElement="_srHyoHwmEeuPp6qHJm-oAQ">
+            <body>Download process could not be started, because client could not successfully authenticate at the server.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkBXv9EeubC9VcQOc8WQ" name="FILE_NOT_FOUND">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_zPKHwIY0EeunpIreMXpnZA" annotatedElement="_cbMkBXv9EeubC9VcQOc8WQ">
+            <body>Client could connect to the server, but download process could not be started, because the file could not be found.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CEoqgHv-EeubC9VcQOc8WQ" name="NO_SPACE_AVAILABLE">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_Sb2kkIZGEeunpIreMXpnZA" annotatedElement="_CEoqgHv-EeubC9VcQOc8WQ">
+            <body>Client could authenticate at the server and find the file, but download process has been aborted, because there is not sufficient storage space for the file on the client.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CCsw0Hv-EeubC9VcQOc8WQ" name="TRANSFER_MECHANISM_NOT_AVAILABLE">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_Gi1W4IZAEeunpIreMXpnZA" annotatedElement="_CCsw0Hv-EeubC9VcQOc8WQ">
+            <body>Client could authenticate at the server and find the file, but download process could not be started, because transfer mechanism is not supported.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkB3v9EeubC9VcQOc8WQ" name="NETWORK_FAILURE">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_r3sJ8IY_EeunpIreMXpnZA" annotatedElement="_cbMkB3v9EeubC9VcQOc8WQ">
+            <body>Download process could be started, but got interrupted, because client lost connection to the server.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CIZwMHv-EeubC9VcQOc8WQ" name="SW_UNIT_CHECK_FAILURE">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_7SRkcIZGEeunpIreMXpnZA" annotatedElement="_CIZwMHv-EeubC9VcQOc8WQ">
+            <body>Client could connect to the server and download the file, but the file was corrupted.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkBnv9EeubC9VcQOc8WQ" name="INCOMPATIBLE_FILE">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_Az7IwIY_EeunpIreMXpnZA" annotatedElement="_cbMkBnv9EeubC9VcQOc8WQ">
+            <body>Client could connect to the server and download the file, but the file cannot be used due to incompatibility with either hardware of other firmware components.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CJ7aMHv-EeubC9VcQOc8WQ" name="SW_RELEASE_CHECK_FAILURE">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_P7bZwIZHEeunpIreMXpnZA" annotatedElement="_CJ7aMHv-EeubC9VcQOc8WQ">
+            <body>Client could download the file, but the file cannot be used due to release mismatch with other firmware components.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CNJGQHv-EeubC9VcQOc8WQ" name="INTERNAL_ERROR">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_D3ZKsIZIEeunpIreMXpnZA" annotatedElement="_CNJGQHv-EeubC9VcQOc8WQ">
+            <body>Download process has been terminated due to an error internal to the client.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_CLh8sHv-EeubC9VcQOc8WQ" name="ABORTED">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_1IgUYIZHEeunpIreMXpnZA" annotatedElement="_CLh8sHv-EeubC9VcQOc8WQ">
+            <body>Client could connect to the server and start downloading the file, but the download process was interrupted by the client.</body>
+          </ownedComment>
+        </ownedLiteral>
+        <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_L-QeYHwnEeuPp6qHJm-oAQ" name="FAILED">
+          <ownedComment xmi:type="uml:Comment" xmi:id="_rdXPUIZIEeunpIreMXpnZA" annotatedElement="_L-QeYHwnEeuPp6qHJm-oAQ">
+            <body>Download process failed due to a reason, which is not more specifically described by any other value in this enumeration.</body>
+          </ownedComment>
+        </ownedLiteral>
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_cbMkCHv9EeubC9VcQOc8WQ" name="NOT_YET_DEFINED"/>
       </packagedElement>
       <packagedElement xmi:type="uml:DataType" xmi:id="_rUk9oHv-EeubC9VcQOc8WQ" name="DownloadType">
@@ -389,7 +363,7 @@
       </packagedElement>
       <packagedElement xmi:type="uml:Enumeration" xmi:id="_nxTlQFFJEembl8KFq0LDlA" name="FirmwareComponentStatusType">
         <ownedComment xmi:type="uml:Comment" xmi:id="_nxTlQVFJEembl8KFq0LDlA" annotatedElement="_nxTlQFFJEembl8KFq0LDlA">
-          <body>Current status of the firmware component.</body>
+          <body>Current operational status of the firmware component.</body>
         </ownedComment>
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_nxTlSFFJEembl8KFq0LDlA" name="ACTIVE"/>
         <ownedLiteral xmi:type="uml:EnumerationLiteral" xmi:id="_nxTlRFFJEembl8KFq0LDlA" name="STAND_BY"/>
@@ -406,7 +380,6 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_zf_HAFFWEembl8KFq0LDlA" name="ExplanatoryOnly">
       <packagedElement xmi:type="uml:Usage" xmi:id="_Og0lMFFZEembl8KFq0LDlA" client="_eTPGIFE6Eembl8KFq0LDlA" supplier="_eTPGIFE6Eembl8KFq0LDlA"/>
-      <packagedElement xmi:type="uml:Usage" xmi:id="_ln5loFr3EeuYrZ_QjB-ntA" client="_eTT-qVE6Eembl8KFq0LDlA" supplier="_fi42kFr0EeuYrZ_QjB-ntA"/>
       <packagedElement xmi:type="uml:Usage" xmi:id="_f_qeYHv_EeubC9VcQOc8WQ" client="_rUk9oHv-EeubC9VcQOc8WQ" supplier="_cbL88Hv9EeubC9VcQOc8WQ"/>
       <packagedElement xmi:type="uml:Usage" xmi:id="_J-iHQGudEeujR-qJpYpV_w" client="_eTT-qVE6Eembl8KFq0LDlA" supplier="_Dk50EGuPEeujR-qJpYpV_w"/>
       <packagedElement xmi:type="uml:Usage" xmi:id="_IITLMHwAEeubC9VcQOc8WQ" client="_FV5v0Fr1EeuYrZ_QjB-ntA" supplier="_rUk9oHv-EeubC9VcQOc8WQ"/>
@@ -451,9 +424,11 @@
       <appliedProfile xmi:type="uml:Profile" href="UmlProfiles/ProfileLifecycleProfile/ProfileLifecycle_Profile.profile.uml#_CBpGoEdZEearpawF38eisA"/>
     </profileApplication>
   </uml:Model>
-  <OpenModel_Profile:OpenModelStatement xmi:id="_i67NgCVJEemK9ptdIxz6GQ" base_Model="_Imk30GyUEee0HrHFgb9oqw" namespace="urn:onf:yang:firmware" organization="openBackhaul.com proposal to Open Networking Foundation (ONF)" description="This model defines an extension to the ONF Core IM for managing firmware on the device." copyright="Copyright 2021 openBackhaul.com" license="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#xD;&#xA;you may not use this file except in compliance with the License.&#xD;&#xA;You may obtain a copy of the License at&#xD;&#xA;&#xD;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xD;&#xA;&#xD;&#xA;Unless required by applicable law or agreed to in writing, software&#xD;&#xA;distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#xD;&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xD;&#xA;See the License for the specific language governing permissions and&#xD;&#xA;limitations under the License.">
+  <OpenModel_Profile:OpenModelStatement xmi:id="_i67NgCVJEemK9ptdIxz6GQ" base_Model="_Imk30GyUEee0HrHFgb9oqw" namespace="urn:onf:yang:firmware" organization="openBackhaul.com proposal to Open Networking Foundation (ONF)" description="This model defines an extension to the ONF Core IM for managing firmware on the device." copyright="Copyright 2024 openBackhaul.com" license="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);&#xD;&#xA;you may not use this file except in compliance with the License.&#xD;&#xA;You may obtain a copy of the License at&#xD;&#xA;&#xD;&#xA;    http://www.apache.org/licenses/LICENSE-2.0&#xD;&#xA;&#xD;&#xA;Unless required by applicable law or agreed to in writing, software&#xD;&#xA;distributed under the License is distributed on an &quot;AS IS&quot; BASIS,&#xD;&#xA;WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.&#xD;&#xA;See the License for the specific language governing permissions and&#xD;&#xA;limitations under the License.">
     <contact xmi:type="OpenModel_Profile:Contact" xmi:id="_g74fwL0cEemxAM_DWydfXQ" projectWeb="https://github.com/openBackhaul/Overview" projectEmail="firmware@openBackhaul.com" editorName="Thorsten Heinze" editorEmail="Thorsten.Heinze@openBackhaul.com"/>
-    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_bi8j8OCaEeqMCqOBPciD4g" date="2021-03-04" version="1.0.0-tsp.210304.1620" description="Model for the Transport SDN Introduction at Telefonica." changeLog="https://github.com/openBackhaul/firmware/issues" reference="https://github.com/openBackhaul/firmware/tree/tsp: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsp: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_2ltBgJ8UEe6cmdfYEICVMQ" date="2024-01-03" version="1.0.0-tsi.240103.0940" description="Model for the Transport SDN Introduction at Telefonica." changeLog="https://github.com/openBackhaul/firmware/issues" reference="https://github.com/openBackhaul/firmware/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_bi8j8OCaEeqMCqOBPciD4g" date="2023-10-05" version="1.0.0-tsi.231005.1740" description="Model for the Transport SDN Introduction at Telefonica." changeLog="https://github.com/openBackhaul/firmware/issues" reference="https://github.com/openBackhaul/firmware/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
+    <revision xmi:type="OpenModel_Profile:Revision" xmi:id="_GV-mwGOVEe6j9diPNp15Lw" date="2021-04-01" version="1.0.0-tsp.210401.1700" description="Model for the Transport SDN Introduction at Telefonica." changeLog="https://github.com/openBackhaul/firmware/issues" reference="https://github.com/openBackhaul/firmware/tree/tsi: Model definition&#xD;&#xA;https://github.com/openBackhaul/onfCoreIm/tree/tsi: ONF TR-512 Core IM incl. Profile and enhanced Equipment definition"/>
   </OpenModel_Profile:OpenModelStatement>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_eTFVIFE6Eembl8KFq0LDlA" base_StructuralFeature="_eTEuFFE6Eembl8KFq0LDlA"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_eTF8MFE6Eembl8KFq0LDlA" base_Property="_eTEuFFE6Eembl8KFq0LDlA"/>
@@ -469,33 +444,10 @@
   <OpenModel_Profile:OpenModelClass xmi:id="_eTUlsFE6Eembl8KFq0LDlA" base_Class="_eTT-olE6Eembl8KFq0LDlA"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_UCNR0r3QEemm_Yk7AwSxsg" base_Property="_UCFWPb3QEemm_Yk7AwSxsg" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_UCNR0b3QEemm_Yk7AwSxsg" base_StructuralFeature="_UCFWPb3QEemm_Yk7AwSxsg" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_At90cr3lEemj8sLhiejUhA" base_Property="_At3G5b3lEemj8sLhiejUhA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_At90cb3lEemj8sLhiejUhA" base_StructuralFeature="_At3G5b3lEemj8sLhiejUhA" isInvariant="true"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelClass xmi:id="_eTVz2FE6Eembl8KFq0LDlA" objectCreationNotification="NO" objectDeletionNotification="NO" base_Class="_eTT-qVE6Eembl8KFq0LDlA"/>
   <OpenModel_Profile:OpenModelClass xmi:id="_eTVz11E6Eembl8KFq0LDlA" base_Class="_eTT-qVE6Eembl8KFq0LDlA"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelClass xmi:id="_eTchgVE6Eembl8KFq0LDlA" objectCreationNotification="NO" objectDeletionNotification="NO" base_Class="_eTT-11E6Eembl8KFq0LDlA"/>
   <OpenModel_Profile:OpenModelClass xmi:id="_eTchgFE6Eembl8KFq0LDlA" base_Class="_eTT-11E6Eembl8KFq0LDlA"/>
-  <OpenModel_Profile:OpenModelNotification xmi:id="_54DZ2eCdEeqMCqOBPciD4g" base_Signal="_54DZ0OCdEeqMCqOBPciD4g"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_54En8OCdEeqMCqOBPciD4g" base_Property="_54DZ0eCdEeqMCqOBPciD4g" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_54En8eCdEeqMCqOBPciD4g" base_StructuralFeature="_54DZ0eCdEeqMCqOBPciD4g" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_54FPAOCdEeqMCqOBPciD4g" base_Property="_54DZ1OCdEeqMCqOBPciD4g" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_54FPAeCdEeqMCqOBPciD4g" base_StructuralFeature="_54DZ1OCdEeqMCqOBPciD4g" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_54FPBOCdEeqMCqOBPciD4g" base_Property="_54DZ1-CdEeqMCqOBPciD4g" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_54F2EOCdEeqMCqOBPciD4g" base_StructuralFeature="_54DZ1-CdEeqMCqOBPciD4g" isInvariant="true"/>
-  <OpenModel_Profile:OpenModelNotification xmi:id="_54HrR-CdEeqMCqOBPciD4g" base_Signal="_54HrQOCdEeqMCqOBPciD4g"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_54ISUOCdEeqMCqOBPciD4g" base_Property="_54HrQeCdEeqMCqOBPciD4g" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_54ISUeCdEeqMCqOBPciD4g" base_StructuralFeature="_54HrQeCdEeqMCqOBPciD4g" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_54ISUuCdEeqMCqOBPciD4g" base_Property="_54HrROCdEeqMCqOBPciD4g" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_54ISU-CdEeqMCqOBPciD4g" base_StructuralFeature="_54HrROCdEeqMCqOBPciD4g" isInvariant="true"/>
-  <OpenModel_Profile:OpenModelNotification xmi:id="_54KukOCdEeqMCqOBPciD4g" base_Signal="_54KHgOCdEeqMCqOBPciD4g"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_54KukeCdEeqMCqOBPciD4g" base_Property="_54KHguCdEeqMCqOBPciD4g" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO" bitLength="LENGTH_32_BIT"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_54KukuCdEeqMCqOBPciD4g" base_StructuralFeature="_54KHguCdEeqMCqOBPciD4g" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_54LVoOCdEeqMCqOBPciD4g" base_Property="_54KHheCdEeqMCqOBPciD4g" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_54LVoeCdEeqMCqOBPciD4g" base_StructuralFeature="_54KHheCdEeqMCqOBPciD4g" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_54L8sOCdEeqMCqOBPciD4g" base_Property="_54KHiOCdEeqMCqOBPciD4g" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_54L8seCdEeqMCqOBPciD4g" base_StructuralFeature="_54KHiOCdEeqMCqOBPciD4g" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_54L8suCdEeqMCqOBPciD4g" base_Property="_54KHi-CdEeqMCqOBPciD4g" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_54L8s-CdEeqMCqOBPciD4g" base_StructuralFeature="_54KHi-CdEeqMCqOBPciD4g" isInvariant="true"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_B3gEoMKhEemvQeH3vILmhQ" base_Property="_B3ePcMKhEemvQeH3vILmhQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="YES"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_B3e2gMKhEemvQeH3vILmhQ" base_StructuralFeature="_B3ePcMKhEemvQeH3vILmhQ"/>
   <OpenModel_Profile:OpenModelInterface xmi:id="_XWZBYFVxEeuU0OPNoXYe3w" base_Interface="_XSjqQFVxEeuU0OPNoXYe3w"/>
@@ -509,7 +461,7 @@
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_oTDgIFr-EeuYrZ_QjB-ntA" base_Property="_oTCSAFr-EeuYrZ_QjB-ntA"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_CSo8sVsBEeuYrZ_QjB-ntA" base_StructuralFeature="_CSo8sFsBEeuYrZ_QjB-ntA"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_CSpjwFsBEeuYrZ_QjB-ntA" base_Property="_CSo8sFsBEeuYrZ_QjB-ntA"/>
-  <OpenModel_Profile:OpenModelOperation xmi:id="_00v-wFsBEeuYrZ_QjB-ntA" base_Operation="_00vXsFsBEeuYrZ_QjB-ntA" isAtomic="true"/>
+  <OpenModel_Profile:OpenModelOperation xmi:id="_00v-wFsBEeuYrZ_QjB-ntA" base_Operation="_00vXsFsBEeuYrZ_QjB-ntA" isOperationIdempotent="true" isAtomic="true"/>
   <OpenModel_Profile:OpenModelParameter xmi:id="_00zpIFsBEeuYrZ_QjB-ntA" base_Parameter="_00vXsVsBEeuYrZ_QjB-ntA"/>
   <OpenModel_Profile:PassedByReference xmi:id="_A30vEFsCEeuYrZ_QjB-ntA" base_Parameter="_00vXsVsBEeuYrZ_QjB-ntA"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_XWjcYFr2EeuYrZ_QjB-ntA" base_Property="_XWhnMFr2EeuYrZ_QjB-ntA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
@@ -529,14 +481,14 @@
   <OpenModel_Profile:PassedByReference xmi:id="_YFrJ8GCNEeuJs9i4Fq9YBA" base_Property="_oS7kUlr-EeuYrZ_QjB-ntA"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_v4UhcGueEeujR-qJpYpV_w" base_Property="_v4TTUGueEeujR-qJpYpV_w" writeAllowed="WRITE_NOT_ALLOWED"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_v4VIgGueEeujR-qJpYpV_w" base_StructuralFeature="_v4TTUGueEeujR-qJpYpV_w"/>
-  <OpenModel_Profile:OpenModelOperation xmi:id="__pVQ0HA4EeuxtbuLkZiGLA" base_Operation="__pTboHA4EeuxtbuLkZiGLA"/>
+  <OpenModel_Profile:OpenModelOperation xmi:id="__pVQ0HA4EeuxtbuLkZiGLA" base_Operation="__pTboHA4EeuxtbuLkZiGLA" isOperationIdempotent="true"/>
   <OpenModel_Profile:OpenModelParameter xmi:id="_edh90HA5EeuxtbuLkZiGLA" base_Parameter="_edgvsHA5EeuxtbuLkZiGLA"/>
   <OpenModel_Profile:OpenModelParameter xmi:id="_40xXUHA5EeuxtbuLkZiGLA" base_Parameter="_40wwQHA5EeuxtbuLkZiGLA"/>
   <OpenModel_Profile:OpenModelParameter xmi:id="_43J88HA5EeuxtbuLkZiGLA" base_Parameter="_43JV4HA5EeuxtbuLkZiGLA"/>
   <OpenModel_Profile:OpenModelParameter xmi:id="_lUgx03A7EeuxtbuLkZiGLA" base_Parameter="_lUgx0HA7EeuxtbuLkZiGLA"/>
   <OpenModel_Profile:OpenModelParameter xmi:id="_bPsog3A8EeuxtbuLkZiGLA" base_Parameter="_bPsogHA8EeuxtbuLkZiGLA"/>
   <OpenModel_Profile:OpenModelParameter xmi:id="_nP6nMHA-EeuxtbuLkZiGLA" base_Parameter="_nP6AIHA-EeuxtbuLkZiGLA"/>
-  <OpenModel_Profile:OpenModelOperation xmi:id="_CjAIcXBAEeuxtbuLkZiGLA" base_Operation="_CjAIcHBAEeuxtbuLkZiGLA"/>
+  <OpenModel_Profile:OpenModelOperation xmi:id="_CjAIcXBAEeuxtbuLkZiGLA" base_Operation="_CjAIcHBAEeuxtbuLkZiGLA" isOperationIdempotent="true"/>
   <OpenModel_Profile:OpenModelParameter xmi:id="_gnuaMHIKEeuVzopMUCKjuQ" base_Parameter="_gntzIHIKEeuVzopMUCKjuQ"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_1vigoHv-EeubC9VcQOc8WQ" base_Property="_1vh5kHv-EeubC9VcQOc8WQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_1vpOUHv-EeubC9VcQOc8WQ" base_StructuralFeature="_1vh5kHv-EeubC9VcQOc8WQ"/>
@@ -546,27 +498,21 @@
   <OpenModel_Profile:OpenModelAttribute xmi:id="_aum0cHv_EeubC9VcQOc8WQ" base_StructuralFeature="_aulmUHv_EeubC9VcQOc8WQ"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_2SN6cXv_EeubC9VcQOc8WQ" base_Property="_2SN6cHv_EeubC9VcQOc8WQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_2SOhgHv_EeubC9VcQOc8WQ" base_StructuralFeature="_2SN6cHv_EeubC9VcQOc8WQ"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_NWyz4HwBEeubC9VcQOc8WQ" base_Property="_NWyM0HwBEeubC9VcQOc8WQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_NWza8HwBEeubC9VcQOc8WQ" base_StructuralFeature="_NWyM0HwBEeubC9VcQOc8WQ" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_NW2eQXwBEeubC9VcQOc8WQ" base_Property="_NW2eQHwBEeubC9VcQOc8WQ"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_NW3FUHwBEeubC9VcQOc8WQ" base_StructuralFeature="_NW2eQHwBEeubC9VcQOc8WQ"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_ZYB0UHwFEeubC9VcQOc8WQ" base_Property="_ZYBNQXwFEeubC9VcQOc8WQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_ZYDpgHwFEeubC9VcQOc8WQ" base_StructuralFeature="_ZYBNQXwFEeubC9VcQOc8WQ" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_ZYEQkXwFEeubC9VcQOc8WQ" base_Property="_ZYEQkHwFEeubC9VcQOc8WQ"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_ZYEQknwFEeubC9VcQOc8WQ" base_StructuralFeature="_ZYEQkHwFEeubC9VcQOc8WQ"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_y_O4AHwFEeubC9VcQOc8WQ" base_Property="_y_OQ8XwFEeubC9VcQOc8WQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_y_PfEHwFEeubC9VcQOc8WQ" base_StructuralFeature="_y_OQ8XwFEeubC9VcQOc8WQ" isInvariant="true"/>
-  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_y_QGIXwFEeubC9VcQOc8WQ" base_Property="_y_QGIHwFEeubC9VcQOc8WQ"/>
-  <OpenModel_Profile:OpenModelAttribute xmi:id="_y_QGInwFEeubC9VcQOc8WQ" base_StructuralFeature="_y_QGIHwFEeubC9VcQOc8WQ"/>
-  <OpenModel_Profile:Specify xmi:id="_UQYIkHwGEeubC9VcQOc8WQ" base_Abstraction="_PnmmoHwGEeubC9VcQOc8WQ">
-    <target>/CoreModel:ControlConstruct:ControlConstruct</target>
-  </OpenModel_Profile:Specify>
-  <OpenModel_Profile:PassedByReference xmi:id="_MSKzgHwUEeubC9VcQOc8WQ" base_Property="_ZYBNQXwFEeubC9VcQOc8WQ"/>
-  <OpenModel_Profile:PassedByReference xmi:id="_N_htMHwUEeubC9VcQOc8WQ" base_Property="_y_OQ8XwFEeubC9VcQOc8WQ"/>
-  <OpenModel_Profile:PassedByReference xmi:id="_QnqNEHwUEeubC9VcQOc8WQ" base_Property="_NWyM0HwBEeubC9VcQOc8WQ"/>
   <OpenModel_Profile:PassedByReference xmi:id="_4plN4HwUEeubC9VcQOc8WQ" base_Property="_CSkrQFsBEeuYrZ_QjB-ntA"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_f5W24HxTEeuPp6qHJm-oAQ" base_Property="_f5WP0HxTEeuPp6qHJm-oAQ" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_f5YFAHxTEeuPp6qHJm-oAQ" base_StructuralFeature="_f5WP0HxTEeuPp6qHJm-oAQ"/>
   <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_gL-38HxTEeuPp6qHJm-oAQ" base_Property="_f5bIUHxTEeuPp6qHJm-oAQ"/>
   <OpenModel_Profile:OpenModelAttribute xmi:id="_gMAGEHxTEeuPp6qHJm-oAQ" base_StructuralFeature="_f5bIUHxTEeuPp6qHJm-oAQ"/>
+  <OpenModel_Profile:Specify xmi:id="_elboQJL5EeuJntb74ynMBA" base_Abstraction="_Zi6woJL5EeuJntb74ynMBA">
+    <target>/CoreModel:ControlConstruct:ControlConstruct</target>
+  </OpenModel_Profile:Specify>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelClass xmi:id="_hd_GkJL1EeuJntb74ynMBA" objectCreationNotification="NO" objectDeletionNotification="NO" base_Class="_hW8DYJL1EeuJntb74ynMBA"/>
+  <OpenModel_Profile:OpenModelClass xmi:id="_hd7cMJL1EeuJntb74ynMBA" base_Class="_hW8DYJL1EeuJntb74ynMBA"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_10dToZL5EeuJntb74ynMBA" base_Property="_10dToJL5EeuJntb74ynMBA" writeAllowed="WRITE_NOT_ALLOWED" attributeValueChangeNotification="NO"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_10ehwJL5EeuJntb74ynMBA" base_StructuralFeature="_10dToJL5EeuJntb74ynMBA" isInvariant="true"/>
+  <OpenInterfaceModel_Profile:OpenInterfaceModelAttribute xmi:id="_10l2gJL5EeuJntb74ynMBA" base_Property="_10lPcJL5EeuJntb74ynMBA"/>
+  <OpenModel_Profile:OpenModelAttribute xmi:id="_10l2gZL5EeuJntb74ynMBA" base_StructuralFeature="_10lPcJL5EeuJntb74ynMBA"/>
+  <OpenModel_Profile:Obsolete xmi:id="_cgDfgJ_eEe6jV9kweiy4sg" base_Element="_f_qeYHv_EeubC9VcQOc8WQ"/>
+  <OpenModel_Profile:Obsolete xmi:id="_dYYOoJ_eEe6jV9kweiy4sg" base_Element="_J-iHQGudEeujR-qJpYpV_w"/>
+  <OpenModel_Profile:Obsolete xmi:id="_e-HdYJ_eEe6jV9kweiy4sg" base_Element="_IITLMHwAEeubC9VcQOc8WQ"/>
 </xmi:XMI>

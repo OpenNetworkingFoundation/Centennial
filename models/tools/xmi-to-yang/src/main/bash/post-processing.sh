@@ -37,6 +37,7 @@ namespace=(
   [tdm-container]=tdm-container-2-0
   [wire-interface]=wire-interface-2-0
   [wred-profile]=wred-profile-1-0
+  [wred-template-profile]=wred-template-profile-1-0
   [co-channel-profile]=co-channel-profile-1-0
   [policing-profile]=policing-profile-1-0
   [scheduler-profile]=scheduler-profile-1-0
@@ -74,6 +75,7 @@ fileversions=(
   [tdm-container]=tdm-container-2-0
   [wire-interface]=wire-interface-2-0
   [wred-profile]=wred-profile-1-0
+  [wred-template-profile]=wred-template-profile-1-0
   [co-channel-profile]=co-channel-profile-1-0
   [vlan-interface]=vlan-interface-1-0
   [vlan-fc]=vlan-fc-1-0
@@ -127,6 +129,7 @@ profile=(
   [l-3vpn-profile]=PROFILE_NAME_TYPE_L3VPN_PROFILE
   [qos-profile]=PROFILE_NAME_TYPE_QOS_PROFILE
   [wred-profile]=PROFILE_NAME_TYPE_WRED_PROFILE
+  [wred-template-profile]=PROFILE_NAME_TYPE_WRED_TEMPLATE_PROFILE
   [co-channel-profile]=PROFILE_NAME_TYPE_CO_CHANNEL_PROFILE
   [policing-profile]=PROFILE_NAME_TYPE_POLICING_PROFILE
   [scheduler-profile]=PROFILE_NAME_TYPE_SCHEDULER_PROFILE
@@ -225,6 +228,15 @@ find="uses ptp-clock-spec;";
   replace="when \"derived-from-or-self(.\/synchronization:layer-protocol-name, 'synchronization:LAYER_PROTOCOL_NAME_TYPE_PTP_LAYER')\";\n\t\tuses ptp-clock-spec;";
   sed -i -e "s/$find/$replace/g" $yang;
 
+  # find/replace for synchronization module
+find="uses ssm-external-clock-pac;";
+replace="when \".\/synchronization:external-clock-port = 'true'\";\n\t\tuses ssm-external-clock-pac;";
+sed -i -e "s/$find/$replace/g" $yang;
+# find/replace for synchronization module
+find="uses ssm-in-band-pac;";
+replace="when \".\/synchronization:external-clock-port = 'false'\";\n\t\tuses ssm-in-band-pac;";
+sed -i -e "s/$find/$replace/g" $yang;
+
 find="uses synch-ltp-spec;";
   replace="when \"derived-from-or-self(.\/core-model:layer-protocol\/core-model:layer-protocol-name, 'synchronization:LAYER_PROTOCOL_NAME_TYPE_SYNCHRONIZATION_LAYER')\";\n\t\tuses synch-ltp-spec;";
   sed -i -e "s/$find/$replace/g" $yang;
@@ -287,7 +299,7 @@ fi
 
  find="augment \"\/core-model:control-construct\/core-model:forwarding-domain\/core-model:fc\"{";
  identity="identity ${layer[$index]} {\n base core-model:LAYER_PROTOCOL_NAME_TYPE; \n description \"none\"; \n}\n";
- when="when \"derived-from-or-self(.\/core-model:layer-protocol-name, 'ethernet-container-fc:${layer[$index]}')\";"
+ when="when \"derived-from-or-self(.\/core-model:layer-protocol-name, 'vlan-interface:${layer[$index]}')\";"
  replace=" $identity \n $find \n $when";
  #replace=" $find \n $when";
  sed -i -e "s/$find/$replace/g" $yang;
@@ -295,9 +307,9 @@ fi
   # find/replace in
 
  find="augment \"\/core-model:control-construct\/core-model:forwarding-domain\"{";
- #identity="identity ${layer[$index]} {\n base core-model:LAYER_PROTOCOL_NAME_TYPE; \n description \"none\"; \n}\n";
- when="when \"derived-from-or-self(.\/core-model:layer-protocol-name, 'mac-interface:${layer[$index]}')\";"
- replace=" $find \n $when";
+ identity="identity ${layer[$index]} {\n base core-model:LAYER_PROTOCOL_NAME_TYPE; \n description \"none\"; \n}\n";
+ when="when \"derived-from-or-self(.\/core-model:layer-protocol-name, 'vlan-interface:${layer[$index]}')\";"
+ replace=" $identity \n $find \n $when";
  #replace=" $find \n $when";
  sed -i -e "s/$find/$replace/g" $yang;
 
@@ -395,10 +407,18 @@ fi
   sed -i -e "s/$find/$replace/g" $yang;
 
   ## find/replace firmware
-  find="firmware:firmware-collection";
-  replace="core-model:control-construct";
+  find="augment \"firmware:firmware-collection";
+  replace="augment \"core-model:control-construct";
   sed -i -e "s/$find/$replace/g" $yang;
   
+  find="\/firmware:firmware-cc-spec";
+  replace="\/core-model:control-construct";
+  sed -i -e "s/$find/$replace/g" $yang;
+
+  find="\/core-model:layer-protocol\/synchronization:sync-lp-spec";
+  replace="\/core-model:layer-protocol";
+  sed -i -e "s/$find/$replace/g" $yang;
+
   ## find/replace backup-and-restore
   find="backup-and-restore:backup-and-restore-cc-spec";
   replace="core-model:control-construct";
